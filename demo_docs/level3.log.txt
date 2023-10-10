@@ -1,0 +1,1989 @@
+--- Log opened Fri Oct 21 02:34:52 2005
+02:34:52-!- Hanji [n=nelson@myko/Hanji] has joined ##level3
+02:34:52-!- Irssi: ##level3: Total of 136 nicks [0 ops, 0 halfops, 0 voices, 136 normal]
+02:34:53< Vague_Rant>  Dude.
+02:34:53< colin_>  Holy crap.
+02:34:53-!- Irssi: Join to ##level3 was synced in 1 secs
+02:34:53-!- timgoh0 [n=timgoh0@unaffiliated/timgoh0] has joined ##level3
+02:34:53-!- marienz [i=marienz@gentoo/user/marienz] has joined ##level3
+02:34:54< Linux_Rocks>  XD
+02:34:54-!- habbe [n=habbe@mandriva/channel-support/habbe] has joined ##level3
+02:34:54< crainte>  1000 go!
+02:34:54< prasys>  wow , freenode is really lagging
+02:34:55< f0rked>  smart, lilo.
+02:34:55-!- jme___ [n=jerome@138.43.102-84.rev.gaoland.net] has joined ##level3
+02:34:55< reisio>  geek00L: why are you hear if you don't know what it's about? :p
+02:34:55-!- pabs3 [n=pabs@dsl-202-72-168-241.wa.westnet.com.au] has joined ##level3
+02:34:56< e-Hernick>  ##level3 is about the internet going down due to the evil that is level3
+02:34:57-!- SleepyTSO [n=bakahime@pool-70-104-112-102.chi.dsl-w.verizon.net] has joined ##level3
+02:34:57< Rotonen>  +m, please
+02:34:57< boegel>  xerox!!!
+02:34:57< Linux_Rocks>  so fucking fast
+02:34:58-!- mode/##level3 [+m] by lilo
+02:34:58-!- SolidStateLogic [n=raina@EATcf-225p52.ppp15.odn.ne.jp] has joined ##level3
+02:34:59-!- CompHobbyist [i=kastein@pool-141-154-116-208.bos.east.verizon.net] has joined ##level3
+02:35:00-!- Irssi: ##level3: Total of 144 nicks [0 ops, 0 halfops, 0 voices, 144 normal]
+02:35:00-!- Sinbios [n=Sinbios@dsl-207-112-60-206.tor.primus.ca] has joined ##level3
+02:35:00-!- maluka23 [n=shhh@87.196.50.27] has joined ##level3
+02:35:02-!- Sweeper [i=sweeper@64.22.206.199] has joined ##level3
+02:35:02-!- SporkOfTruth [n=wtfuxshu@ip68-231-194-38.oc.oc.cox.net] has joined ##level3
+02:35:03-!- crabfewd [i=pavement@c-24-23-13-252.hsd1.ca.comcast.net] has joined ##level3
+02:35:03-!- antarus [n=antarus@69-176-143-101.dov.spartan-net.net] has joined ##level3
+02:35:04-!- Daffy-PKF [n=daffy@84.79.98-84.rev.gaoland.net] has joined ##level3
+02:35:06-!- Juzna [i=juho@juzna.net] has joined ##level3
+02:35:06-!- aussieman [n=ponki@eu85-85-75-138.clientes.euskaltel.es] has joined ##level3
+02:35:07-!- sheepazaurus [n=leviatha@c-24-7-161-46.hsd1.ca.comcast.net] has joined ##level3
+02:35:07-!- Fliberty [n=fliberty@63-228-198-31.slkc.qwest.net] has joined ##level3
+02:35:07< lilo>  okay, message me if I know you and you can provide info :)
+02:35:08-!- Allan| [n=chatzill@dsl-217-155-174-189.zen.co.uk] has joined ##level3
+02:35:09-!- bill_c [n=bill@pdpc/supporter/sustaining/bill-c] has joined ##level3
+02:35:10-!- mercurylala [i=aoi@pcp0011328704pcs.elictc01.md.comcast.net] has joined ##level3
+02:35:10-!- itcheg [i=itcheg@216.194.59.213] has joined ##level3
+02:35:13-!- Towley [n=scott@c-24-19-120-202.hsd1.wa.comcast.net] has joined ##level3
+02:35:13-!- jonathaN [i=jonathan@4-16-ftth.onsnet.nu] has joined ##level3
+02:35:15-!- mode/##level3 [+o marienz] by lilo
+02:35:15-!- First_Knight [n=me@adsl-150-24-145.aby.bellsouth.net] has joined ##level3
+02:35:16-!- koredump [n=koredump@210.23.180.204] has joined ##level3
+02:35:16-!- Hobart [i=jb@jb.org] has joined ##level3
+02:35:17-!- WilsonFisk [n=tac@81-179-102-38.dsl.pipex.com] has left ##level3 []
+02:35:17-!- Shish [n=shish@villatatra.plus.com] has joined ##level3
+02:35:19-!- void^ [n=nnnnnnnn@p549E1453.dip0.t-ipconnect.de] has joined ##level3
+02:35:21-!- Sitting_Bull [n=123@196.25.168.9] has joined ##level3
+02:35:21-!- isaia [n=dmsbox@c220-239-128-243.dandn1.vic.optusnet.com.au] has joined ##level3
+02:35:21-!- ferringb [n=bharring@gentoo/developer/ferringb] has joined ##level3
+02:35:23-!- Ludek [n=Ludek@tz226.internetdsl.tpnet.pl] has joined ##level3
+02:35:24-!- martian67 [n=martian6@edtntnt4-port-142.dial.telus.net] has joined ##level3
+02:35:25-!- v-dogg [n=vmakinen@mcinen-dsl.utu.fi] has joined ##level3
+02:35:26-!- Irssi: ##level3: Total of 171 nicks [1 ops, 0 halfops, 0 voices, 170 normal]
+02:35:27-!- EfentharWireless [n=Efenthar@60-234-215-122.bitstream.orcon.net.nz] has joined ##level3
+02:35:29-!- retodd [n=chatzill@adsl-69-231-118-15.dsl.irvnca.pacbell.net] has left ##level3 []
+02:35:29-!- iKernel [n=chatzill@CPE-144-137-50-194.vic.bigpond.net.au] has left ##level3 []
+02:35:29-!- dantekgeek [n=dan_luri@c-67-176-12-224.hsd1.co.comcast.net] has joined ##level3
+02:35:29-!- zedrdave [n=zedrdave@i60-36-113-208.s02.a013.ap.plala.or.jp] has joined ##level3
+02:35:31-!- MarkJaquith [n=MarkJaqu@ip70-171-0-160.ga.at.cox.net] has joined ##level3
+02:35:32-!- koredump [n=koredump@210.23.180.204] has left ##level3 []
+02:35:36-!- Teltariat [n=tekron@h-67-101-250-51.nycmny83.dynamic.covad.net] has joined ##level3
+02:35:37-!- p0trill023 [i=p0trill0@adsl-69-105-20-73.dsl.irvnca.pacbell.net] has joined ##level3
+02:35:38-!- marcel [i=xaer@avant.lt3.net] has joined ##level3
+02:35:39-!- avar [n=Huld@adsl6-56.simnet.is] has joined ##level3
+02:35:39-!- Jmax [n=Jmax@c-65-34-232-136.hsd1.fl.comcast.net] has joined ##level3
+02:35:40-!- Mike_H [n=jhalterm@234dhcp115.resnet.usf.edu] has joined ##level3
+02:35:40-!- iKernel [n=chatzill@CPE-144-137-50-194.vic.bigpond.net.au] has joined ##level3
+02:35:41-!- Denelson83 [n=chatzill@S0106000f3d4fb0fd.cc.shawcable.net] has joined ##level3
+02:35:42-!- mercurylala [i=aoi@pcp0011328704pcs.elictc01.md.comcast.net] has left ##level3 []
+02:35:46-!- basti_ [n=basti@p54AE0C38.dip0.t-ipconnect.de] has joined ##level3
+02:35:47-!- Ant [n=sub@CPE-144-132-128-5.nsw.bigpond.net.au] has left ##level3 []
+02:35:49-!- ethan-allison [n=ethan@c-66-41-75-182.hsd1.mn.comcast.net] has joined ##level3
+02:35:49-!- Mahmoud [n=opera@217.164.251.191] has left ##level3 []
+02:35:49-!- AndyFitz [n=andy@220-245-97-227.static.tpgi.com.au] has left ##level3 []
+02:35:51-!- nladd [n=nladd@63.160.44.71] has left ##level3 []
+02:35:52-!- strega [n=bethany@dsl027-177-095.sfo1.dsl.speakeasy.net] has joined ##level3
+02:35:54-!- kingde [n=wfre@dhcp-82-197.cs.unp.ac.za] has left ##level3 []
+02:35:54-!- lrathbon [n=arklinux@CPE4ed9415afb2c-CM0012253dec94.cpe.net.cable.rogers.com] has left ##level3 []
+02:35:55-!- beyondrob [n=beyondro@ip68-6-113-51.sb.sd.cox.net] has joined ##level3
+02:35:58-!- Civvi_ [n=Civvi@net203-176-192.mclink.it] has joined ##level3
+02:35:58-!- ka6sox [n=ka6sox@nslu2-linux/ka6sox] has joined ##level3
+02:35:58-!- brad2901 [i=one@unaffiliated/brad2901] has joined ##level3
+02:35:59-!- nalioth [n=Apple@pdpc/supporter/bronze/nalioth] has left ##level3 []
+02:35:59-!- Linux_Rocks [n=Linux_Ro@0-1pool72-26.nas24.chicago4.il.us.da.qwest.net] has left ##level3 []
+02:36:01-!- squidly [n=me@unaffiliated/squidly] has joined ##level3
+02:36:02-!- philips [n=brandon@osuosl/staff/philips] has joined ##level3
+02:36:02-!- kir_home [n=kir@213.152.157.70] has joined ##level3
+02:36:03-!- MyQuiL [n=mWare@000002.jail.ServerNorth.net] has joined ##level3
+02:36:04-!- lilo changed the topic of ##level3 to: Hi all. Tracking the level3 problems.
+02:36:07-!- mazzanet [n=irc@203-214-57-45.dyn.iinet.net.au] has joined ##level3
+02:36:07-!- MIXX941 [n=Mark@unaffiliated/mixx941] has joined ##level3
+02:36:08-!- ethan-allison [n=ethan@c-66-41-75-182.hsd1.mn.comcast.net] has left ##level3 []
+02:36:09-!- UdontKnow [i=udontkno@freenode/staff/udontknow] has joined ##level3
+02:36:10-!- Medlir [i=Medlir@pool1-57.springcom.com] has joined ##level3
+02:36:12-!- ChrisBradley [i=IRONCOW@69-163-12-238.kntnny.adelphia.net] has joined ##level3
+02:36:12-!- _Dawg [n=edawg@c-24-2-70-255.hsd1.ut.comcast.net] has joined ##level3
+02:36:13-!- valdemius [i=valdemiu@dsl-hkigw2-fe1dde00-27.dhcp.inet.fi] has joined ##level3
+02:36:13-!- geek00L [n=cslee@219.95.238.175] has left ##level3 []
+02:36:13-!- RifRaf [n=rifraf@202.183.109.243] has joined ##level3
+02:36:15-!- Kyuu [n=Kyuu@wvc32384rh.rh.ncsu.edu] has joined ##level3
+02:36:15-!- uffe [n=[ic]@point.to] has joined ##level3
+02:36:15-!- Mr_Tux [i=MrTux@p5484C770.dip.t-dialin.net] has joined ##level3
+02:36:18-!- court3nay [n=courtena@c-24-127-78-120.hsd1.ca.comcast.net] has joined ##level3
+02:36:19-!- rcmurphy [i=rcmurphy@x137-159-112-245.auto.pepperdine.edu] has joined ##level3
+02:36:20-!- zedrdave [n=zedrdave@i60-36-113-208.s02.a013.ap.plala.or.jp] has left ##level3 []
+02:36:20-!- shenion [n=shenion@user-1121i2r.dsl.mindspring.com] has joined ##level3
+02:36:21-!- Shuichi-k [i=Shuichi-@user-0cets6n.cable.mindspring.com] has joined ##level3
+02:36:22-!- silsor [i=silsor@CPE000b6af06c28-CM0014e8b56174.cpe.net.cable.rogers.com] has joined ##level3
+02:36:23-!- My2Cents [n=_@Toronto-HSE-ppp3716565.sympatico.ca] has joined ##level3
+02:36:23-!- scalar [n=a@adsl-69-151-105-151.dsl.hstntx.swbell.net] has quit [Excess Flood]
+02:36:24-!- h2o [i=H2o@d206-116-192-218.bchsia.telus.net] has joined ##level3
+02:36:25-!- BenM [n=benm@OMEGA.RES.cmu.edu] has joined ##level3
+02:36:25-!- rpete [n=rpete@pool-70-22-219-40.bos.east.verizon.net] has joined ##level3
+02:36:26-!- LunarC [n=LunarCri@toronto-hs-216-138-195-194.s-ip.magma.ca] has joined ##level3
+02:36:26-!- Medlir [i=Medlir@pool1-57.springcom.com] has left ##level3 []
+02:36:28-!- guruff [n=guruff@148.ade0511.ade.iprimus.net.au] has joined ##level3
+02:36:29-!- Ginsu_Squirrel [n=squirrel@gentoo/user/ginsu-squirrel] has joined ##level3
+02:36:30-!- secretz [n=secretz@retz.yok.utu.fi] has joined ##level3
+02:36:30-!- BenM [n=benm@OMEGA.RES.cmu.edu] has left ##level3 []
+02:36:31-!- dunst [n=dunst@211-74-64-9.adsl.dynamic.seed.net.tw] has quit [Client Quit]
+02:36:34-!- Temaris [n=temaris@kaj-polovincak.lf2.cuni.cz] has joined ##level3
+02:36:36-!- wizardjames [n=wizardja@S010600044b808005.cg.shawcable.net] has joined ##level3
+02:36:36-!- mercurylala [i=aoi@pcp0011328704pcs.elictc01.md.comcast.net] has joined ##level3
+02:36:36-!- Dakrone [n=hinmanm@c-67-190-22-170.hsd1.co.comcast.net] has joined ##level3
+02:36:36-!- markm [n=mark@uniform.vr.org] has joined ##level3
+02:36:36-!- dankna [n=dankna@cpe-69-201-182-105.nyc.res.rr.com] has joined ##level3
+02:36:39-!- h2o [i=H2o@d206-116-192-218.bchsia.telus.net] has left ##level3 []
+02:36:40-!- rxvt [i=kevo@24-116-155-215.cpe.cableone.net] has joined ##level3
+02:36:40-!- jesse_133 [n=jdandr2@12-203-239-69.client.insightBB.com] has joined ##level3
+02:36:41-!- agorecki [n=agorecki@S01060050eb1df909.vn.shawcable.net] has joined ##level3
+02:36:43-!- uffe [n=[ic]@point.to] has left ##level3 []
+02:36:44-!- crisis [n=zing@CPE-144-137-219-7.sa.bigpond.net.au] has joined ##level3
+02:36:46-!- Inuchance [i=identsuc@c-67-167-41-159.hsd1.il.comcast.net] has joined ##level3
+02:36:49-!- guruff [n=guruff@148.ade0511.ade.iprimus.net.au] has left ##level3 []
+02:36:49-!- AF-Domains [n=AF-Domai@jerzed.plus.com] has joined ##level3
+02:36:50-!- Qamly [n=Guest@24-176-17-184.dhcp.klmz.mi.charter.com] has joined ##level3
+02:36:53-!- Medlir [i=Medlir@pool1-57.springcom.com] has joined ##level3
+02:36:55-!- dwmw2_gone [i=ctrlprox@baythorne.infradead.org] has joined ##level3
+02:36:55-!- johan-s [n=johan@cm-62.179.133.118.chello.no] has joined ##level3
+02:36:55-!- Lemonzest [n=Lemonzes@cpc1-nott4-3-0-cust147.nott.cable.ntl.com] has joined ##level3
+02:36:55-!- Chris_B [n=nobunaga@n211.mizuho-sc.com] has joined ##level3
+02:36:56-!- Splarka [i=Splarka@x2-04b-106.goldrush.com] has joined ##level3
+02:36:56-!- Neuromantik [n=Neuro@cpe-24-165-34-225.hawaii.res.rr.com] has joined ##level3
+02:36:57-!- RainerBi [n=chatzill@p548504B2.dip0.t-ipconnect.de] has left ##level3 []
+02:36:57-!- exanter [n=mark@mordor.solinus.com] has joined ##level3
+02:36:58-!- rwlbuis [n=chatzill@145.18.162.97] has joined ##level3
+02:36:58-!- trel1023 [n=trel1023@cpe-066-057-014-057.nc.res.rr.com] has joined ##level3
+02:36:59-!- z4k4ri4 [n=zakaria@202.158.89.66] has joined ##level3
+02:37:01-!- [Flow] [i=Flow@e178113044.adsl.alicedsl.de] has joined ##level3
+02:37:04-!- Sweeper [i=sweeper@64.22.206.199] has left ##level3 []
+02:37:05-!- Doom2pro [n=Doom2pro@unaffiliated/doom2pro] has joined ##level3
+02:37:08-!- mrz [n=mrz@ip68-109-79-179.oc.oc.cox.net] has left ##level3 []
+02:37:11-!- wireddd [n=wired@68-117-215-114.dhcp.athn.ga.charter.com] has joined ##level3
+02:37:11-!- lrathbon [n=arklinux@CPE4ed9415afb2c-CM0012253dec94.cpe.net.cable.rogers.com] has joined ##level3
+02:37:13-!- hsmade [n=wim@62.58.4.18] has joined ##level3
+02:37:15-!- welp [n=110welp@82-70-75-246.dsl.in-addr.zen.co.uk] has joined ##level3
+02:37:15-!- ca97 [i=UNKNOWN@c-67-180-32-90.hsd1.ca.comcast.net] has joined ##level3
+02:37:18-!- minux [n=minux@unaffiliated/minux] has joined ##level3
+02:37:20-!- gentgeen [n=gentgeen@adsl-71-131-220-158.dsl.sntc01.pacbell.net] has left ##level3 []
+02:37:22-!- Markaci [n=Markaci@wikipedia/markaci] has joined ##level3
+02:37:23-!- bunnywabbit_ [n=somethin@adsl-84-227-19-122.adslplus.ch] has joined ##level3
+02:37:27-!- kabojnk2 [n=kabojnk@mandos.us] has joined ##level3
+02:37:27-!- Suriko [n=Suriko@220-253-100-21.TAS.netspace.net.au] has joined ##level3
+02:37:28-!- muffaleta [n=muffalet@c-24-6-83-137.hsd1.ca.comcast.net] has joined ##level3
+02:37:28-!- vortek [n=vortek@71-10-4-15.dhcp.aldl.mi.charter.com] has joined ##level3
+02:37:28-!- SB-X [n=sb-x@adsl-69-155-20-146.dsl.tulsok.swbell.net] has left ##level3 []
+02:37:30-!- madhatter [n=arvid@hannen.heim2.tu-clausthal.de] has joined ##level3
+02:37:30-!- PantsMacKenzie [i=WinNT@cpe-66-66-45-216.rochester.res.rr.com] has joined ##level3
+02:37:31-!- pari [i=dsnt@193.219.80.184] has joined ##level3
+02:37:33-!- nipra [n=nipra@61.246.8.47] has joined ##level3
+02:37:34-!- Toba [i=webmaste@pool-141-154-116-208.bos.east.verizon.net] has joined ##level3
+02:37:34-!- juju [i=foobar@ip70-178-11-142.ma.dl.cox.net] has joined ##level3
+02:37:35-!- Medlir [i=Medlir@pool1-57.springcom.com] has left ##level3 []
+02:37:35-!- lilo changed the topic of ##level3 to: Hi all. Tracking the level3 problems. || http://scoreboard.keynote.com/scoreboard/Main.aspx?Login=Y&Username=public&Password=public
+02:37:40-!- nexangelus [n=nexangel@c-67-177-32-150.hsd1.ut.comcast.net] has joined ##level3
+02:37:40-!- alephcom [n=Miranda@207.34.97.130] has joined ##level3
+02:37:42-!- Xiwok [n=xiwok@unaffiliated/xiwok] has joined ##level3
+02:37:42-!- fudoreaper [i=reaper@S01060001026d4401.wp.shawcable.net] has joined ##level3
+02:37:42-!- Gendalia [i=zawxq@jdwhite.org] has joined ##level3
+02:37:43-!- Magus|Screen [i=12349@ppp-68-120-199-110.dsl.pltn13.pacbell.net] has joined ##level3
+02:37:43-!- Revvar [n=Revvar@p54BD2F5E.dip0.t-ipconnect.de] has joined ##level3
+02:37:45-!- klasikahl [n=zack@gentoo/developer/klasikahl] has left ##level3 []
+02:37:48-!- skinneet [n=trevor@gatekeeper.skinnayt.ca] has joined ##level3
+02:37:48-!- photomatt [n=matt@pdpc/supporter/bronze/photomatt] has joined ##level3
+02:37:50-!- xemoka [n=xemoka@S0106000795cb81de.gv.shawcable.net] has joined ##level3
+02:37:51-!- PantsMacKenzie [i=WinNT@cpe-66-66-45-216.rochester.res.rr.com] has left ##level3 []
+02:37:51-!- wmandra [n=me@pcp04943183pcs.verona01.nj.comcast.net] has joined ##level3
+02:37:55< lilo>  looks like APNIC and AboveNet are still having problems
+02:37:57-!- crabfewd [i=pavement@c-24-23-13-252.hsd1.ca.comcast.net] has left ##level3 []
+02:37:57-!- tlaveG [n=maho@adsl-6-2-119.tys.bellsouth.net] has joined ##level3
+02:38:00-!- MatsK [n=mk@99.80-202-83.nextgentel.com] has joined ##level3
+02:38:03-!- lrathbon [n=arklinux@CPE4ed9415afb2c-CM0012253dec94.cpe.net.cable.rogers.com] has left ##level3 []
+02:38:03-!- adamkerrnz [n=Adam@222-152-205-239.jetstream.xtra.co.nz] has joined ##level3
+02:38:04-!- vildaknaen [n=vildakna@h77n9c1o994.bredband.skanova.com] has joined ##level3
+02:38:05< lilo>  but everybody's pretty much coming back online with them
+02:38:09-!- FatherTed [n=jmb@c-67-166-195-55.hsd1.tx.comcast.net] has joined ##level3
+02:38:11< lilo>  (level3 I assume)
+02:38:15-!- aphax [n=aphax@nieser.net] has joined ##level3
+02:38:19-!- yaten [n=root@203.215.82.72] has joined ##level3
+02:38:21-!- johan-s [n=johan@cm-62.179.133.118.chello.no] has left ##level3 []
+02:38:32-!- vinse [n=alon@ppp-71-139-58-55.dsl.snfc21.pacbell.net] has joined ##level3
+02:38:34-!- NoelCower [n=donnie23@64.139.238.135] has joined ##level3
+02:38:35-!- sheepbat [n=lev3k@c-24-7-161-46.hsd1.ca.comcast.net] has joined ##level3
+02:38:35-!- Philwelch [n=pwelch@res240019.resnet.wsu.edu] has joined ##Level3
+02:38:36-!- tarawneh [i=tarawneh@Iac5e.i.pppool.de] has joined ##Level3
+02:38:36-!- Mr_Tux [i=MrTux@p5484C770.dip.t-dialin.net] has left ##level3 []
+02:38:42-!- CondorDes [n=des@adsl-63-194-109-10.dsl.snlo01.pacbell.net] has joined ##level3
+02:38:49-!- Jahooty [n=sam@adsl-67-124-4-197.dsl.scrm01.pacbell.net] has joined ##level3
+02:38:52-!- mode/##level3 [+v trelane] by marienz
+02:38:53-!- LudoTheGreat [n=LudoTheG@68-115-32-2.dhcp.mdsn.wi.charter.com] has joined ##level3
+02:38:55-!- fyre^OS [n=fyre@cpe-68-173-171-28.nyc.res.rr.com] has joined ##level3
+02:39:02-!- ApEtc [i=apetc@ip-66-218-241-107.cableaz.com] has joined ##level3
+02:39:03-!- pr3d4t0r [n=cu4cu4@pdpc/supporter/active/pr3d4t0r] has joined ##level3
+02:39:08-!- genera [i=none1@p54A7CE3E.dip.t-dialin.net] has joined ##level3
+02:39:11-!- Irssi: ##level3: Total of 258 nicks [1 ops, 0 halfops, 1 voices, 256 normal]
+02:39:11-!- mbroeker [n=mbroeker@I1cfc.i.pppool.de] has joined ##level3
+02:39:11-!- harvel [n=mps@12-203-183-66.client.insightBB.com] has joined ##level3
+02:39:13-!- Civvi_ [n=Civvi@net203-176-192.mclink.it] has left ##level3 []
+02:39:15-!- mwright1 [n=Melbourn@ppp71-238.lns1.mel2.internode.on.net] has joined ##level3
+02:39:17-!- MedIir [i=Medlir@pool1-57.springcom.com] has joined ##level3
+02:39:18-!- allesmueller|wrk [n=N@proxy-out-nat.telering.at] has joined ##level3
+02:39:20< lilo>  verio is having some problems to at&t, cogent, internap, sbc
+02:39:21-!- strega [n=bethany@dsl027-177-095.sfo1.dsl.speakeasy.net] has left ##level3 []
+02:39:26-!- Sweeper [i=sweeper@64.22.206.199] has joined ##level3
+02:39:26-!- sheepazaurus [n=leviatha@c-24-7-161-46.hsd1.ca.comcast.net] has left ##level3 []
+02:39:27-!- mosen [n=mosen@61.29.102.6] has joined ##level3
+02:39:30-!- erg [n=erg@cpe-66-25-154-20.austin.res.rr.com] has joined ##level3
+02:39:35-!- ys76 [i=ys76@linoa.etherkiller.de] has joined ##level3
+02:39:35-!- vipe [n=vipe@lugwv/member/vipe] has joined ##level3
+02:39:37-!- Xgc [n=z@dcha-aa-65-219-208-239.taconic.net] has joined ##level3
+02:39:42-!- eudaimon [i=eudaimon@cpe-24-31-150-47.maine.res.rr.com] has joined ##level3
+02:39:43< lilo>  level3 is stil showing very high latencies to everything but, well, level3 8)
+02:39:44<+trelane>  ok, it appears that the links went down, came back up and went down again, right now I'm hearing about l3 depeering off and on with cox and sbc.  the global routing table is currently missing almost 2000 routes.
+02:39:46-!- pesco [n=pesco@hostivar.koleje.cuni.cz] has joined ##level3
+02:39:50-!- adamkerrnz [n=Adam@222-152-205-239.jetstream.xtra.co.nz] has quit [Client Quit]
+02:39:50-!- mbroeker [n=mbroeker@I1cfc.i.pppool.de] has left ##level3 []
+02:39:52-!- combr_ [n=combr@mail.vesna.ru] has joined ##level3
+02:39:53-!- Aliekens [i=mooby@83.96.196.96] has joined ##level3
+02:39:57-!- wRAR [n=wrar@213.140.106.69] has left ##level3 []
+02:39:59-!- otaku42 [n=otaku@madwifi/developer/otaku42] has joined ##level3
+02:40:01-!- Flash13 [n=Flash13@unaffiliated/flashbot] has joined ##level3
+02:40:01<@marienz>  since I seem to have received ops and lilo is probably overloaded: poke me if you have something to say the channel should hear
+02:40:08-!- snitt [i=snitt@snitt.info] has joined ##level3
+02:40:09-!- whatevah [n=superuse@pool-68-163-47-138.phil.east.verizon.net] has joined ##level3
+02:40:20< lilo>  thanks to everybody who provided a screen shot, I'm back online with scoreboard
+02:40:21-!- tfe [n=tfe_@164.179.100-84.rev.gaoland.net] has joined ##level3
+02:40:21-!- wshs [i=screwy@24-52-105-100.bflony.adelphia.net] has joined ##level3
+02:40:24-!- dungodung [n=Dungodun@wikipedia/dungodung] has joined ##level3
+02:40:25-!- klaaparen [i=robaman@blinky.carambole.com] has joined ##level3
+02:40:27-!- ChrisWhite [n=chriswhi@gentoo/developer/ChrisWhite] has joined ##level3
+02:40:31-!- Chipper02 [n=Chipper0@140.209.245.199] has joined ##level3
+02:40:33-!- tlaveG [n=maho@adsl-6-2-119.tys.bellsouth.net] has left ##level3 []
+02:40:35-!- crabfewd [i=pavement@c-24-23-13-252.hsd1.ca.comcast.net] has joined ##level3
+02:40:36-!- nsx [n=jm@ip70-185-167-184.mc.at.cox.net] has joined ##level3
+02:40:37-!- fraggle [n=fraggle@alcopop.org] has joined ##level3
+02:40:38-!- z1on [n=zion@c-67-180-65-74.hsd1.ca.comcast.net] has joined ##level3
+02:40:40-!- Jahooty [n=sam@adsl-67-124-4-197.dsl.scrm01.pacbell.net] has left ##level3 []
+02:40:40-!- ellism [n=chatzill@12-210-209-112.client.insightBB.com] has joined ##level3
+02:40:44-!- Gevalt [n=maho@adsl-6-2-119.tys.bellsouth.net] has joined ##level3
+02:40:53-!- chipig [n=chip@apache/committer/pquerna] has joined ##level3
+02:40:56-!- cbarrett [i=ramoth4@unaffiliated/cbarrett] has joined ##level3
+02:41:00-!- TomSawyer [i=levin@freenode/staff/pdpc.levin] has left ##level3 []
+02:41:03-!- Pyromancer [n=Pyro@c-24-63-23-114.hsd1.ma.comcast.net] has joined ##Level3
+02:41:07-!- RotZ [n=rot_j@pool-71-252-27-182.washdc.east.verizon.net] has joined ##level3
+02:41:14-!- DarK` [i=dark@Teh.1337h4x0r5.org] has joined ##level3
+02:41:16<+trelane>  based on what I'm seeing it looks like level 3 and vario have their own private intranet, I am personally noticing latency on abovenet off and on, most likely from fallout.
+02:41:25-!- googlebus [i=googlebu@c-67-167-87-102.hsd1.il.comcast.net] has joined ##level3
+02:41:27-!- Alex [n=hauntedu@sourcemage/HauntedUnix] has joined ##level3
+02:41:28-!- z4k4ri4 [n=zakaria@202.158.89.66] has left ##level3 []
+02:41:33-!- mode/##level3 [+o philips] by lilo
+02:41:35-!- lrathbon [n=arklinux@CPE4ed9415afb2c-CM0012253dec94.cpe.net.cable.rogers.com] has joined ##level3
+02:41:39-!- VxJasonxV` [n=jason@unaffiliated/VxJasonxV] has left ##level3 []
+02:41:39<@marienz>  a lot of people are /msg-ing that not only level3 but also verio is having problems
+02:41:43< lilo>  philips: if you have anything just sing out
+02:41:44-!- meshuga [i=meshuga@c-24-20-154-158.hsd1.wa.comcast.net] has joined ##level3
+02:41:50< lilo>  marienz: yeah, that's what I'm seeing
+02:41:54-!- haker0 [i=haker0@136.204.208.160] has joined ##level3
+02:41:56<+trelane>  marienz, confirmed
+02:41:58-!- vipe [n=vipe@lugwv/member/vipe] has left ##level3 []
+02:42:06-!- nenolod [n=nenolod@unaffiliated/nenolod] has joined ##level3
+02:42:11-!- maluka23 [n=shhh@87.196.50.27] has left ##level3 []
+02:42:19< lilo>  I'm told APIC is still having problems
+02:42:22-!- Phated [n=phated@unaffiliated/phated] has joined ##level3
+02:42:26-!- rupe [n=fib@leaf.lumiere.net] has joined ##level3
+02:42:28<+trelane>  ok based on what I just heard from a routing admin, level 3's routes are flapping quite badly 
+02:42:30-!- vIkSiT [n=Viksit@unaffiliated/viksit] has joined ##level3
+02:42:30<+trelane>      Dampinfo: penalty 3022, flapped 10 times in 00:29:32, reuse in 00:08:19
+02:42:36-!- raorn [n=raorn@purgatory.immo.ru] has joined ##level3
+02:42:36-!- drumkilla [n=russell@asterisk/developer-and-stable-maintainer/drumkilla] has joined ##level3
+02:42:37<@marienz>  also, not only lilo seems to have problems getting to scoreboard. Someone with the bandwidth to host a screenshot or mirror of sorts would be appreciated :)
+02:42:39-!- Frank_K [n=kardel@p54B07D52.dip.t-dialin.net] has joined ##level3
+02:42:40-!- Alkivar [i=Alkivar@pool-64-223-211-179.port.east.verizon.net] has joined ##level3
+02:42:43-!- Hobbes` [n=calvin@59.92.137.118] has joined ##level3
+02:42:46<+trelane>  marienz, I can get there fine
+02:42:57-!- Ginsu_Squirrel [n=squirrel@gentoo/user/ginsu-squirrel] has left ##level3 []
+02:42:57< lilo>  I'm also told there are high latencies to freenode, probably to several of our US servers
+02:43:05-!- Gevalt` [n=maho@adsl-6-2-119.tys.bellsouth.net] has quit [Connection reset by peer]
+02:43:05-!- supers [i=supers@AnimeNfo.com] has joined ##level3
+02:43:07-!- devin [i=devin@203.141.139.231.user.ad.il24.net] has joined ##level3
+02:43:09-!- lrathbon [n=arklinux@CPE4ed9415afb2c-CM0012253dec94.cpe.net.cable.rogers.com] has left ##level3 []
+02:43:13-!- fringe [n=fringe@c83-248-41-8.bredband.comhem.se] has joined ##level3
+02:43:14-!- soumyadip [n=soumyadi@59.93.197.56] has joined ##level3
+02:43:20-!- Sifl [i=Richter@wnpgmb01dc2-105-235.dynamic.mts.net] has joined ##level3
+02:43:23-!- Kjes [n=kjes@ti231110a080-0810.bb.online.no] has joined ##level3
+02:43:27-!- sitharus [n=philliph@serendipity.sitharus.com] has joined ##level3
+02:43:27-!- sorphin [n=sorphin@70.249.196.81] has left ##level3 []
+02:43:31-!- sorphin [n=sorphin@70.249.196.81] has joined ##level3
+02:43:34-!- nemo [n=nemo@dsl-203-113-234-160.ACT.netspace.net.au] has joined ##level3
+02:43:37-!- strega [n=bethany@dsl027-177-095.sfo1.dsl.speakeasy.net] has joined ##level3
+02:43:40< lilo>  verio is now down across the board
+02:43:41-!- AF-Typo [n=AFTypo@jerzed.plus.com] has joined ##level3
+02:43:42-!- Shindou [n=rover@h222.75.140.67.ip.alltel.net] has joined ##level3
+02:43:49-!- moath [n=moath@198.237.137.250] has joined ##level3
+02:43:52< lilo>  if I had to guess I'd say they're reupping a lot of key routers
+02:43:54-!- Zotnix [n=zotnix@66.197.185.53] has joined ##level3
+02:43:57-!- nwodnus [i=bitchbus@cloudlet.imladris.sk] has joined ##level3
+02:43:58<+trelane>  lilo, watch xo
+02:43:58< lilo>  let's see if it persists
+02:44:06-!- CunningPike [n=arodgers@S010600095b33697f.vc.shawcable.net] has joined ##level3
+02:44:09<+trelane>  I think it might be next to go
+02:44:18< lilo>  scoreboard is dying on me
+02:44:19-!- PantsMacKenzie [i=WinNT@cpe-66-66-45-216.rochester.res.rr.com] has joined ##level3
+02:44:23< lilo>  that's not a good sine
+02:44:26< lilo>  erm sign 8)
+02:44:29-!- wing [i=acli@ada.dhs.org] has joined ##Level3
+02:44:33-!- SolidStateLogic [n=raina@EATcf-225p52.ppp15.odn.ne.jp] has quit [Client Quit]
+02:44:35<@marienz>  [|404notfound] i.e. http://scoreboard.keynote.com.nyud.net:8090/scoreboard/Main.aspx?Login=Y&Username=public&Password=public
+02:44:42<@marienz>  (for those who can't get at the scoreboard)
+02:44:51-!- bobk [n=bobk@ip68-5-70-180.oc.oc.cox.net] has joined ##level3
+02:44:54-!- Maks [n=max@217.9.151.68] has joined ##level3
+02:44:58-!- pr3d4t0r [n=cu4cu4@pdpc/supporter/active/pr3d4t0r] has left ##level3 []
+02:45:00-!- v-dogg [n=vmakinen@mcinen-dsl.utu.fi] has left ##level3 []
+02:45:03-!- breser_ [n=breser@fornix.brain.org] has joined ##level3
+02:45:03-!- phessler [n=phessler@208.201.244.165] has joined ##level3
+02:45:05-!- jeff [i=jeff@unaffiliated/jeff] has joined ##level3
+02:45:16-!- fringe [n=fringe@c83-248-41-8.bredband.comhem.se] has left ##level3 []
+02:45:17-!- Bugged [n=bugged@065.100-113-64.ftth.swbr.surewest.net] has joined ##level3
+02:45:17-!- nemo [n=nemo@dsl-203-113-234-160.ACT.netspace.net.au] has left ##level3 []
+02:45:19-!- jx100 [n=lev3k@c-24-7-161-46.hsd1.ca.comcast.net] has joined ##level3
+02:45:22-!- NeefEef [i=visitor_@i167134.dsl.tjukkband.no] has joined ##level3
+02:45:26< lilo>  someone just asked if this could be anything to do with EU wanting changes in the way root servers are controlled, the business with icann, eu and the us government
+02:45:29-!- jetskijoe [i=jetskijo@hera.tekneeks.net] has joined ##level3
+02:45:35-!- M [n=DD@218.2.150.163] has joined ##Level3
+02:45:41-!- nwodnus [i=bitchbus@cloudlet.imladris.sk] has left ##level3 []
+02:45:42-!- Chipper02 [n=Chipper0@140.209.245.199] has left ##level3 []
+02:45:43-!- muffaleta [n=muffalet@c-24-6-83-137.hsd1.ca.comcast.net] has left ##level3 []
+02:45:44< lilo>  it seems like a "dumb question" but it's reasonable if you don't know how this stuff works
+02:45:49-!- Rabid [n=Blah@adsl-210-169-67.sdf.bellsouth.net] has joined ##level3
+02:45:52< lilo>  no, those issues are all at policy level
+02:45:54-!- DanSS_away [n=no@adsl-69-232-63-206.dsl.irvnca.pacbell.net] has joined ##level3
+02:45:56-!- haker0 [i=haker0@136.204.208.160] has quit [Client Quit]
+02:45:56-!- duejen [n=duejen@port436.ds1-vir.adsl.cybercity.dk] has joined ##level3
+02:45:59-!- dammit [n=midom@wikipedia/Midom] has joined ##level3
+02:46:03-!- devdas [n=devdas@61.95.203.224] has joined ##level3
+02:46:06<+trelane>  lilo, some of them are technical, if l3's flapping routes network wide, they'll simply get shut down.
+02:46:06< lilo>  chances are nobody would interrupt service due to a policy dispute, not without a lot of public discussion
+02:46:07<@marienz>  also, msw provided http://www.rpath.com/~msw/internetpulse.png and MtDew provided http://sha1.net/images/scoreboard.jpg, but I don't know how much bandwidth they have.
+02:46:08< lilo>  so it's unrelated
+02:46:21-!- mode/##level3 [+v Jtkiefer] by marienz
+02:46:21< lilo>  marienz: *nod*
+02:46:24<+trelane>  lilo, I disagree, some contracts come complete with NDA
+02:46:28-!- Towley [n=scott@c-24-19-120-202.hsd1.wa.comcast.net] has left ##level3 []
+02:46:34-!- mode/##level3 [+v UdontKnow] by UdontKnow
+02:46:34<+UdontKnow>  :P
+02:46:39-!- DanSS_away [n=no@adsl-69-232-63-206.dsl.irvnca.pacbell.net] has left ##level3 []
+02:46:41< lilo>  trelane: but any "public stunt" would be accompanied by publicity
+02:46:46-!- habbe_ [n=habbe@m83-178-12-183.cust.tele2.se] has joined ##level3
+02:46:48-!- Maks [n=max@217.9.151.68] has left ##level3 []
+02:46:57-!- mharris [n=mh@fedora/mharris] has joined ##level3
+02:46:58< lilo>  trelane: this almost has to be a pure technical problem
+02:46:59-!- Kjes [n=kjes@ti231110a080-0810.bb.online.no] has left ##level3 []
+02:47:00-!- DanSS [n=no@adsl-69-232-63-206.dsl.irvnca.pacbell.net] has joined ##level3
+02:47:02-!- nedz [n=nedz@68-188-91-128.dhcp.stls.mo.charter.com] has joined ##level3
+02:47:03<+trelane>  lilo, l3 pulled it two weeks ago, I would be unsuprised to see it again, especially with the global information summit thing coming up.
+02:47:04-!- habbe [n=habbe@mandriva/channel-support/habbe] has quit [Nick collision from services.]
+02:47:07<+Jtkiefer>  verio is still all down, level3 is getting weird stats down on some lines and up on others
+02:47:15-!- Meditasyonda [n=ff@195.174.147.4] has joined ##level3
+02:47:20-!- tumu [n=tumu@GYKMDCCCXXIX.dsl.saunalahti.fi] has joined ##level3
+02:47:25-!- Jayinwww` [n=Snake@69.158.57.8] has joined ##level3
+02:47:30<+Jtkiefer>  xo to level3 is down
+02:47:32-!- coral [n=cay@pdpc/supporter/active/floatingatoll] has joined ##level3
+02:47:42-!- jerenkrantz [n=j@apache/committer/jerenkrantz] has joined ##level3
+02:47:47<+trelane>  cox and l3 may be back up
+02:47:48-!- Fruit [i=wsl@klere.fruit.je] has joined ##level3
+02:47:51<+Jtkiefer>  just got a report that verio to level 3 is down
+02:47:56-!- thunderwolf318 [n=thunderw@ppp-70-245-226-82.dsl.stlsmo.swbell.net] has joined ##level3
+02:47:57<+trelane>  <sorphin> (i work for XO Communications) on the odd chance anyone here is one of our customers, we're clean to sbc, cogent, at&t, sprint, and wiltel
+02:47:57<+trelane>  <sorphin> most of the peering issues are due to Level3's $30,000 extortion
+02:47:59-!- NeefEef [i=visitor_@i167134.dsl.tjukkband.no] has left ##level3 []
+02:47:59<@marienz>  (if I don't respond to a /msg I'm not ignoring you, I'm just slow/swamped. Sorry)
+02:48:06<+trelane>  guys it looks like it's a policy issue.
+02:48:09-!- Rabid [n=Blah@adsl-210-169-67.sdf.bellsouth.net] has left ##level3 []
+02:48:11-!- ness [n=ness@212.80.253.90] has joined ##level3
+02:48:12 * trelane wonders if l3 is entirely solvent
+02:48:13-!- DanSS [n=no@adsl-69-232-63-206.dsl.irvnca.pacbell.net] has left ##level3 []
+02:48:21-!- Daga [n=daga@c-67-182-32-165.hsd1.ca.comcast.net] has joined ##level3
+02:48:22-!- dshupp [n=dshupp@221.216.151.251] has joined ##level3
+02:48:23<+Jtkiefer>  if you need something through you can /msg me as well
+02:48:24< lilo>  trelane: let's not jump to conclusions
+02:48:24-!- Tefad [n=tefad@unaffiliated/tefad] has joined ##level3
+02:48:24-!- duejen [n=duejen@port436.ds1-vir.adsl.cybercity.dk] has left ##level3 []
+02:48:24-!- \malex\ [i=QO5aN2eF@unaffiliated/malex/x-000000001] has joined ##level3
+02:48:27-!- agorecki [n=agorecki@S01060050eb1df909.vn.shawcable.net] has left ##level3 []
+02:48:35<+Jtkiefer>   <Alex_Ionescu> savvis, SBC, sprint, uunet, verio and XO have lost their link to level3\
+02:48:39-!- Chimi [i=1001@204.8.34.186] has joined ##level3
+02:48:43< lilo>  ahhhh
+02:48:45< lilo>  okay
+02:48:46-!- bimberi [n=bimberi@DC-246-58.bpb.bigpond.com] has quit [Client Quit]
+02:48:50-!- tismith_away [n=toby@CPE-144-136-156-70.qld.bigpond.net.au] has joined ##level3
+02:48:50-!- thunderwolf318 [n=thunderw@ppp-70-245-226-82.dsl.stlsmo.swbell.net] has left ##level3 []
+02:48:54-!- drini [n=drini@planetmath.cc.vt.edu] has joined ##level3
+02:48:55-!- Irssi: ##level3: Total of 322 nicks [2 ops, 0 halfops, 3 voices, 317 normal]
+02:49:04<+trelane>  level 3 appears down to everything based on scoreboard
+02:49:04-!- JohnBolton [n=~@S0106001124008c12.ed.shawcable.net] has joined ##level3
+02:49:05-!- ChrisO [n=ChrisO@i-195-137-47-242.freedom2surf.net] has joined ##level3
+02:49:07< lilo>  well, regardless, technical or policy, it's certainly going to be interesting
+02:49:13-!- Spitfires [n=jake@adsl-69-237-250-134.dsl.pltn13.pacbell.net] has joined ##level3
+02:49:13-!- Jugalator [n=opera@213.115.192.29] has joined ##level3
+02:49:18-!- dammit [n=midom@wikipedia/Midom] has left ##level3 []
+02:49:19-!- karat [i=karat@ip70-187-179-165.oc.oc.cox.net] has joined ##level3
+02:49:23-!- walken [i=foobar@netblock-66-245-252-131.dslextreme.com] has joined ##level3
+02:49:23-!- walken [i=foobar@netblock-66-245-252-131.dslextreme.com] has quit [Remote closed the connection]
+02:49:27-!- arbiter_dev [n=arbiter@ppp-71-136-170-124.dsl.snlo01.pacbell.net] has joined ##level3
+02:49:31-!- Tony_Sidaway [n=chatzill@spc1-walt3-3-0-cust30.asfd.broadband.ntl.com] has joined ##level3
+02:49:31-!- jesse_133 [n=jdandr2@12-203-239-69.client.insightBB.com] has quit [Remote closed the connection]
+02:49:31<+trelane>  lilo, this could get REALLY ugly
+02:49:31-!- t12 [i=xbyktw@undef.net] has joined ##level3
+02:49:34-!- ValarQ [i=vq@81-235-190-173-no48.tbcn.telia.com] has joined ##level3
+02:49:38-!- mosen [n=mosen@61.29.102.6] has quit [Client Quit]
+02:49:40-!- lewellyn^ [n=matt@pdpc/supporter/silver/lewellyn] has quit [Client Quit]
+02:49:42-!- doug [i=doug@zaxxon.telerama.com] has joined ##level3
+02:49:42<+Jtkiefer>  incoming from level 3 is almost all down, outgoing is spotty
+02:49:43-!- jack|ass [n=jack@c-24-20-33-92.hsd1.or.comcast.net] has joined ##level3
+02:49:44-!- liiwi [i=liiwi@idle.fi] has joined ##level3
+02:49:46<@marienz>  " [MtDew] I'm going to update mine every few minutes, I don't seem to be getting swamped too badly." that's http://sha1.net/images/scoreboard.jpg. If you can't access that, poke me, there are some more screenshots in my buffer.
+02:49:55-!- xmux [n=xmux@s142-179-181-190.ab.hsia.telus.net] has joined ##level3
+02:49:56-!- suedoh_ [n=suedoh@ladt.broadspire.com] has joined ##level3
+02:49:59-!- maluka23 [n=shhh@87.196.50.27] has joined ##level3
+02:50:08-!- NightMonkey [n=NightMon@pdpc/supporter/sustaining/NightMonkey] has joined ##level3
+02:50:20-!- dabbo [n=dab@130.60.142.65] has joined ##Level3
+02:50:21-!- tea-Macro [i=macrod@ikewang202.august.net] has joined ##level3
+02:50:26-!- brion [n=brion@wikipedia/Brion-VIBBER] has joined ##level3
+02:50:26< lilo>  scoreboard is having problems, I'm sure it's due to load
+02:50:30-!- barcex [n=barcex_@82.158.78.230] has joined ##Level3
+02:50:32-!- rmrfstar [n=construc@ool-4356573a.dyn.optonline.net] has joined ##Level3
+02:50:34-!- sloth [i=sloth@64-42-91-8.atgi.net] has joined ##level3
+02:50:34-!- jesse_132 [n=jdandr2@12-203-239-69.client.insightBB.com] has joined ##level3
+02:50:37-!- fyrestorm [n=fyre@cpe-68-173-171-28.nyc.res.rr.com] has joined ##level3
+02:50:43-!- GreatFlamingFoo [n=jamess@c-24-7-171-130.hsd1.ca.comcast.net] has joined ##level3
+02:50:44-!- TomasDeAquino [i=Basilio@ool-45781414.dyn.optonline.net] has joined ##Level3
+02:50:50<@marienz>  [sorphin] if you happen to be an XO customer, right now it's a clean route to irc.freenode via cogent due to Level3's issues (relay that please)
+02:50:51-!- lawgon [n=lawgon@61.3.110.134] has joined ##level3
+02:50:57-!- muninn [n=jack@64.81.116.105] has joined ##level3
+02:50:58-!- Xenith [n=xenith@dsl-205-161-252-163.emerald.sunset.net] has joined ##level3
+02:51:04-!- arunp [n=arun@202.144.95.244] has joined ##level3
+02:51:05<+Jtkiefer>  Level3 is reading N/A across the outgoing board
+02:51:08<+UdontKnow>  lilo: I see it perfectly here
+02:51:08-!- Riastradh [n=rias@pool-141-154-51-238.bos.east.verizon.net] has joined ##level3
+02:51:13-!- Falcon| [n=raider@host106-55.junet.se] has joined ##level3
+02:51:15-!- Maddingue [n=Maddingu@jua06-1-82-242-157-236.fbx.proxad.net] has joined ##level3
+02:51:16<+UdontKnow>  lilo: might be your routing to it :P
+02:51:23< lilo>  UdontKnow: it's an error message from the site
+02:51:26-!- scalar [n=a@adsl-69-151-105-151.dsl.hstntx.swbell.net] has joined ##level3
+02:51:26< lilo>  UdontKnow: not sure what's going on
+02:51:29-!- felipe [n=felipe@my.nada.kth.se] has joined ##level3
+02:51:31<@marienz>  [prasys] just would like to inform you , APIC link to US Networks seems to be laggy again , but again we're still connected to it. It was okay just now and its starting back again.
+02:51:32-!- twisted [n=twisted@asterisk/friend-and-developer/pdpc.professional.twisted] has joined ##level3
+02:51:35<+trelane>  scoreboard is now reporting under maintainance
+02:51:38-!- MikeB [n=chatzill@82-46-102-23.cable.ubr04.stav.blueyonder.co.uk] has joined ##level3
+02:51:40-!- rboyd [n=rboyd_@nv-71-49-248-11.dhcp.sprint-hsd.net] has joined ##level3
+02:51:41-!- spdf [n=mark@CPE001217c330cb-CM0011ae92b2aa.cpe.net.cable.rogers.com] has joined ##level3
+02:51:42<+Jtkiefer>  marienz, relaying to all channels now
+02:51:48<+UdontKnow>  (1129877486 04:51) <?ruser>  tell lilo i've setup 15 secdonds refresh screept to get the html  see the output at http://siberia.homeunix.org/level3/graph.html
+02:51:51-!- zac [n=zac@port190.public2.resnet.ucf.edu] has quit [Success]
+02:51:58-!- walken [i=foobar@netblock-66-245-252-131.dslextreme.com] has joined ##level3
+02:52:00-!- joeyh [i=joey@kitenet.net] has joined ##level3
+02:52:14<+trelane>  routing table is starting to reporpigate based on reports from an admin at an internet news service
+02:52:22-!- snork [n=mdk@traveler.se] has joined ##level3
+02:52:22<+Jtkiefer>  anyone have stats on the asia and european links?
+02:52:23-!- sii [n=simius@tranquillity.sii.se] has joined ##level3
+02:52:31-!- timecop [i=timecop@AnimeNfo.com] has joined ##level3
+02:52:37-!- gdtux [n=gdtux@sun.info.enstb.org] has joined ##Level3
+02:52:40<@marienz>  [wizardjames] http://wizardjames.robdavy.com/pictures/stats.png < around 20 secs befor it went down
+02:52:42-!- [SIN]DemonXP [n=SINDemon@cpe-024-088-108-049.sc.res.rr.com] has joined ##level3
+02:52:48-!- AnEvilYak [n=rene@ip68-226-28-116.tc.ph.cox.net] has joined ##level3
+02:52:50-!- jano_ [n=felix@p54A480C7.dip0.t-ipconnect.de] has joined ##Level3
+02:52:51-!- bedpan [i=bedpan@c-67-169-234-143.hsd1.ca.comcast.net] has joined ##level3
+02:53:02-!- Niteowlneil [n=chatzill@c-24-17-48-241.hsd1.wa.comcast.net] has joined ##Level3
+02:53:11-!- LottoKim [n=kim@195.28.172.4] has joined ##level3
+02:53:24-!- timecop [i=timecop@AnimeNfo.com] has left ##level3 []
+02:53:28-!- bobk [n=bobk@ip68-5-70-180.oc.oc.cox.net] has left ##level3 []
+02:53:29<+Jtkiefer>  level3 is accepting some incoming with massive latentcy but is still N/A on outgoing
+02:53:53-!- Sinbios [n=Sinbios@dsl-207-112-60-206.tor.primus.ca] has left ##level3 []
+02:53:57-!- ambi2 [i=ambi2@fenner111061.anu.edu.au] has joined ##Level3
+02:54:03-!- ambi2 [i=ambi2@fenner111061.anu.edu.au] has left ##Level3 []
+02:54:15-!- Meditasyonda [n=ff@195.174.147.4] has left ##level3 []
+02:54:16-!- MrDarky [n=Darky@static-203-87-123-161.sa.chariot.net.au] has joined ##level3
+02:54:23-!- Toba [i=webmaste@pool-141-154-116-208.bos.east.verizon.net] has left ##level3 []
+02:54:24-!- silverfire [n=silverfi@d187-231-webster-1.ucdavis.edu] has joined ##level3
+02:54:25<+trelane>  Jtkiefer, routes still flapping
+02:54:28<+Jtkiefer>  if anyone has stats on the European, Asian and Oceanic linkups please /msg one of us
+02:54:30-!- kevinsbot` [n=Array@dsl-olugw6-fe71f800-162.dhcp.inet.fi] has joined ##level3
+02:54:38-!- [SIN]Gluttony [n=SINGlutt@cpe-70-122-115-113.houston.res.rr.com] has joined ##level3
+02:54:40-!- bishonen [n=chatzill@1-2-2-1a.sh.sth.bostream.se] has joined ##Level3
+02:54:48-!- Tony_Sidaway [n=chatzill@spc1-walt3-3-0-cust30.asfd.broadband.ntl.com] has quit [Client Quit]
+02:54:50-!- OnyxRaven [n=OnyxRave@67.19.31.66] has joined ##level3
+02:54:52-!- swetland [n=swetland@frotz.net] has joined ##level3
+02:54:52-!- nuba [i=nuba@zaxxon.telerama.com] has joined ##level3
+02:54:59-!- p0trill023 [i=p0trill0@adsl-69-105-20-73.dsl.irvnca.pacbell.net] has left ##level3 []
+02:55:04<@marienz>   [prasys] http://www.internettrafficreport.com/asia.htm <-- is seriously facing a lot of downtime , the avg current respond time is 711 ms (
+02:55:15-!- rpete [n=rpete@pool-70-22-219-40.bos.east.verizon.net] has left ##level3 []
+02:55:16<+Jtkiefer>  Verio is still screwed up
+02:55:23-!- Toba [n=eastein@pool-141-154-116-208.bos.east.verizon.net] has joined ##level3
+02:55:25-!- ningo_ [n=raw@p54875647.dip.t-dialin.net] has joined ##level3
+02:55:31-!- Irssi: ##level3: Total of 370 nicks [2 ops, 0 halfops, 3 voices, 365 normal]
+02:55:35-!- tiMMMy_ [n=caseynt@CPE-143-238-17-12.vic.bigpond.net.au] has joined ##level3
+02:55:37-!- brad2901 [i=one@unaffiliated/brad2901] has left ##level3 []
+02:55:43-!- mharris [n=mh@fedora/mharris] has left ##level3 []
+02:55:48-!- dzentoo [n=POY@2001:688:411:0:0:0:0:1f] has joined ##level3
+02:55:50<+UdontKnow>  level3 is going 0% on my view
+02:55:52<@marienz>  if you recently /msg'd me something that's still relevant, please re-send.
+02:55:57-!- WebBoy [n=chatzill@dsl213-18.fastxdsl.nl] has joined ##Level3
+02:55:59-!- spowers [i=sam@65-100-5-175.eugn.qwest.net] has quit [Client Quit]
+02:56:07<+UdontKnow>  (1129877587 04:53) <*Juggie> scoreboard now shows N/A for L3 for all routes
+02:56:18<@marienz>  [msw] http://www.rpath.com/~msw/internetpulse.png is up-to-date too
+02:56:25-!- juliux [n=juliux@141.30.211.85] has joined ##level3
+02:56:26<+Jtkiefer>   <wildcard0> iim seeing about 120ms from the us to the uk
+02:56:29-!- anon [n=anon@tor/session/x-e4bfba7f4829b78b] has joined ##level3
+02:56:30-!- sheepbat [n=lev3k@c-24-7-161-46.hsd1.ca.comcast.net] has quit [Client Quit]
+02:56:34-!- zog-vsl [n=Duncan@60-240-229-235-vic-pppoe.tpgi.com.au] has joined ##level3
+02:56:38< lilo>  level3 started out as a high latency destination and it's now high latency both origin and destination
+02:56:49<+Jtkiefer>  anyone with the L3 IP's please send them to MyQuil so he can look them up on the global tables
+02:56:54<@marienz>   [MtDew] http://sha1.net/images/scoreboard.png updated, and PNG now, since that's about 1/4 the size of jpg
+02:56:54-!- ChrisO [n=ChrisO@i-195-137-47-242.freedom2surf.net] has left ##level3 []
+02:56:57<+Jtkiefer>  lilo, it's a shitstorm
+02:57:02-!- thunderwolf318 [n=thunderw@ppp-70-245-226-82.dsl.stlsmo.swbell.net] has joined ##level3
+02:57:03-!- dannyp [n=dannyp@pool-151-201-58-11.pitt.east.verizon.net] has joined ##level3
+02:57:16<+Jtkiefer>  I'm still getting a live linkup with the scoreboard
+02:57:26-!- Garf [i=Garf@pdpc/supporter/active/Garf] has joined ##level3
+02:57:28-!- Daga [n=daga@c-67-182-32-165.hsd1.ca.comcast.net] has quit [Client Quit]
+02:57:31-!- crisis [n=zing@CPE-144-137-219-7.sa.bigpond.net.au] has left ##level3 []
+02:57:33-!- SoulForge [n=me@102-013.dsl.nctc.com] has joined ##level3
+02:57:39-!- spowers [i=sam@65-100-5-175.eugn.qwest.net] has joined ##level3
+02:57:41<+trelane>  lilo, the level 3 quarterly conference call was yesterday 10/21, MASSIVE losses
+02:57:44-!- chad [n=chad@12-203-180-18.client.insightBB.com] has joined ##level3
+02:57:49<+trelane>  http://finance.yahoo.com/q?s=LVLT&d=t
+02:57:55<@marienz>  [IceKarma] may be geographic, but I'm getting NXDOMAIN for internettrafficreport.com
+02:58:01<+Jtkiefer>  Savvis and SBC still mid range
+02:58:04<@marienz>  personally can't get to internettrafficreport.com either.
+02:58:11<+trelane>  y.
+02:58:11<+trelane>  Broomfield-based Level 3 (NASDAQ: LVLT - News) reported a net loss of $204 million, or minus 29 cents a share, on revenue of $799 million.
+02:58:12-!- |XO3| [i=XOXOXO@pcp05048398pcs.ivylnd01.pa.comcast.net] has joined ##level3
+02:58:14-!- GTZ [i=GTZ@S0106000ea6b44257.vc.shawcable.net] has joined ##level3
+02:58:17-!- ambi2 [i=ambi2@fenner111061.anu.edu.au] has joined ##Level3
+02:58:18-!- kisielk [n=kisielk@d205-250-222-106.bchsia.telus.net] has joined ##level3
+02:58:18<+UdontKnow>  trelane: well, if they want to go bankrupt, its their chance
+02:58:24-!- henderson [i=hendebri@shell.onid.oregonstate.edu] has joined ##level3
+02:58:32<+Jtkiefer>  got a scoreboard mirror for anyone who can't get to the main one
+02:58:32<+Jtkiefer>  http://scoreboard-mirror.corelands.com/Scoreboard/Main.aspx?Login=Y&Username=public&Password=public
+02:58:54-!- xwred1_ [n=xwred1@c-67-181-122-112.hsd1.ca.comcast.net] has joined ##level3
+02:58:54-!- tfe [n=tfe_@164.179.100-84.rev.gaoland.net] has left ##level3 []
+02:59:02<+trelane>  looks like XO's about fixed
+02:59:07-!- kabojnk2 [n=kabojnk@mandos.us] has left ##level3 []
+02:59:09-!- joey3333 [n=none@c-24-7-129-84.hsd1.ca.comcast.net] has joined ##level3
+02:59:09-!- Ginmang [n=Ginman@c-24-128-96-62.hsd1.ma.comcast.net] has joined ##level3
+02:59:14-!- AustarUnion|Indi [n=Austar@203-190-196-225.dial.usertools.net] has joined ##level3
+02:59:20-!- Palnatoke [n=chatzill@port10.ds1-boet.adsl.cybercity.dk] has joined ##level3
+02:59:25-!- bancus [n=treed@athena.crschmidt.net] has joined ##level3
+02:59:32<+Jtkiefer>  any word on Verio?
+02:59:36<+Jtkiefer>  or on Level3?
+02:59:51-!- Irssi: ##level3: Total of 384 nicks [2 ops, 0 halfops, 3 voices, 379 normal]
+02:59:51-!- kisielk [n=kisielk@d205-250-222-106.bchsia.telus.net] has left ##level3 []
+02:59:52<+trelane>  level3 is toast
+02:59:56-!- ningo_ [n=raw@p54875647.dip.t-dialin.net] has quit [Client Quit]
+02:59:59<+UdontKnow>  trelane: its only bad to intermap, verio and l3
+02:59:59<+trelane>  I'm not so sure what verio's issue is
+03:00:02-!- willem [n=bla@194.109.98.130] has joined ##level3
+03:00:03-!- IceChain [i=IceChain@APOPHIS.RES.WPI.NET] has joined ##level3
+03:00:04-!- cybereal [n=fake@c-67-177-43-38.hsd1.ut.comcast.net] has joined ##level3
+03:00:05<+UdontKnow>  trelane: others are 100% on xo
+03:00:09-!- googlebus [i=googlebu@c-67-167-87-102.hsd1.il.comcast.net] has left ##level3 []
+03:00:11-!- amne [n=amne@gentoo/developer/amne] has joined ##level3
+03:00:15-!- Jtkiefer changed the topic of ##level3 to: Hi all. Tracking the level3 problems. || http://scoreboard.keynote.com/scoreboard/Main.aspx?Login=Y&Username=public&Password=public  | Msg an Op or a voiced user if you have information regarding the problems
+03:00:17-!- tercel [i=colin@gentoo/developer/tercel] has joined ##level3
+03:00:18-!- tsume [n=tsume@zanshin.tsumelabs.com] has joined ##level3
+03:00:18-!- Palnatoke [n=chatzill@port10.ds1-boet.adsl.cybercity.dk] has left ##level3 []
+03:00:21-!- PegaJoseJX [n=JoseJX@c-67-171-66-14.hsd1.pa.comcast.net] has joined ##level3
+03:00:34-!- TiCpu [n=Jerome@dsl-207-112-49-111.tor.primus.ca] has joined ##level3
+03:00:34-!- TARC_3 [n=NAND@toronto-HSE-ppp3975047.sympatico.ca] has joined ##level3
+03:00:38-!- anon [n=anon@tor/session/x-e4bfba7f4829b78b] has quit [Client Quit]
+03:00:39<+trelane>  my vario contact is in bed
+03:00:42<+Jtkiefer>  Udontknow, what's up with internap it's getting bad fallout
+03:00:49-!- bloodi [n=bloodi@kojec.turox.org] has joined ##level3
+03:00:54-!- joem [n=joem@smtp.gentoo.org] has joined ##level3
+03:00:56-!- ningo [i=ningo@users.g0tt.net] has joined ##level3
+03:01:02-!- polvi [n=polvi@osuosl/staff/polvi] has joined ##level3
+03:01:06-!- Sebastian [n=sb@gentoo/developer/sebastian] has joined ##level3
+03:01:07<+trelane>   They're giving out master ticket #'s of 1429209 1429184 and 1429189 --- Rumor has it a maintenance in Chicago backfired - from NANOG post
+03:01:09-!- rjhatl [n=rjhatl@sag.sys.atl.earthlink.net] has joined ##level3
+03:01:09<+trelane>  checking nanog myself
+03:01:15<+UdontKnow>  Jtkiefer: xo -> internap wasnt so good here
+03:01:19<+Jtkiefer>  Savvis, SBC, and Internap are all but down and out contacting each other
+03:01:24-!- freenodes [i=sheik@219.95.30.253] has joined ##level3
+03:01:39-!- mode/##level3 [+z] by lilo
+03:01:39<+Jtkiefer>   <prasys> Some of APIC links are down (even the site itself is down) , my ISP says that they using "backup routers
+03:01:41-!- brlancer [n=brlancer@68-114-46-223.dhcp.stbr.ga.charter.com] has joined ##level3
+03:01:43<+Jtkiefer>  lilo, what's +z?
+03:01:43-!- Sifl [i=Richter@wnpgmb01dc2-105-235.dynamic.mts.net] has left ##level3 []
+03:01:44-!- TARC_3 [n=NAND@toronto-HSE-ppp3975047.sympatico.ca] has left ##level3 []
+03:01:48-!- Darawk [n=alskdj@ca-westside-cuda1-c8b-2.vnnyca.adelphia.net] has joined ##level3
+03:01:48-!- thoren [n=ghz@darkdata.org] has joined ##level3
+03:01:53-!- mode/##level3 [+o UdontKnow] by UdontKnow
+03:01:55< lilo>  anyone who wants to send something to someone with ops can do so
+03:01:59-!- mode/##level3 [+o lilo] by lilo
+03:01:59-!- chowells [n=chris@host-84-9-223-82.bulldogdsl.com] has joined ##level3
+03:02:02<@UdontKnow>  Jtkiefer: ops can see moderated
+03:02:02-!- Mareklug [n=chatzill@marek.sa.enteract.com] has joined ##level3
+03:02:02-!- Tm_T [i=tm_travo@xob.kapsi.fi] has joined ##level3
+03:02:03<@lilo>  you just talk into the channel
+03:02:09<@lilo>  we may not leave it that way
+03:02:10-!- justdave [n=justdave@unaffiliated/justdave] has joined ##level3
+03:02:13<@lilo>  but we'll try it
+03:02:26-!- mitsuhiko^school [n=chatzill@iserver.borg-hermagor.asn-ktn.ac.at] has joined ##level3
+03:02:29-!- mode/##level3 [+v WildPikachu] by UdontKnow
+03:02:29-!- ChrisO [n=ChrisO@i-195-137-47-242.freedom2surf.net] has joined ##level3
+03:02:40-!- jakllsch [n=jakllsch@quicksand.kollasch.net] has joined ##Level3
+03:02:48<@UdontKnow>  (1129878053 05:00) <*sorphin> I'm w/ XO, we've been rerouting because of level3, we're clean through cogent on a quick check
+03:02:48-!- far_call [n=far_call@pion.ucr.edu] has joined ##level3
+03:02:49<+Jtkiefer>  lilo, well people are still welcome to send a msg to me if they'd like
+03:03:07<+Jtkiefer>  <OnyxRaven> Hosts which are inside level3 networks are getting routed through other networks if available (NYC Level3 facility which I have secondary access to)
+03:03:07-!- Vino [n=Vino@adsl-221-113-89.rmo.bellsouth.net] has quit [Connection timed out]
+03:03:09<@lilo>  internap noc is requesting traceroutes of stuff that's down to and from them
+03:03:10-!- OrgulloKmoore [n=kyle@cpe-24-174-18-166.houston.res.rr.com] has joined ##level3
+03:03:14<@UdontKnow>  (1129878185 05:03) < *sorphin> 64ms from XO to freenode via cogent
+03:03:21-!- Sebastian [n=sb@gentoo/developer/sebastian] has left ##level3 []
+03:03:27-!- DarK` [i=dark@Teh.1337h4x0r5.org] has left ##level3 []
+03:03:29<+trelane>  lilo, lets get administration at various noc's voiced
+03:03:30<+Jtkiefer>  http://wizardjames.robdavy.com/pictures/stats.png, a little over 40 secs old
+03:03:31-!- AustarUnion|Indi [n=Austar@203-190-196-225.dial.usertools.net] has left ##level3 []
+03:03:36-!- scrumptious [n=scott@pdpc/supporter/sustaining/numist] has joined ##level3
+03:03:41<@lilo>  trelane: if we can get them in here I'm happy to
+03:03:44-!- NSLE [n=livengna@bb219-74-125-85.singnet.com.sg] has left ##level3 []
+03:03:50-!- bloodi [n=bloodi@kojec.turox.org] has left ##level3 []
+03:03:57-!- muninn [n=jack@64.81.116.105] has left ##level3 []
+03:03:57<+Jtkiefer>   <MyQuiL> HEre - people can see the state of l3's BGP accouncements into the global table from a Toronto.on.ca perspective at this URL: http://ops.rogerstelecom.net/cgi-bin/lg.cgi?router=SprintTOR&query=bgp&addr=4.4.4.4
+03:03:57<@lilo>  trelane: /msg scrumptious hi
+03:03:59<+trelane>  lilo, I'm 70ms from www.internap.com on abovenet/chicago
+03:04:04-!- Necrosan [i=Necrosan@nwblwinas01-pool0-a203.nwblwi.tds.net] has joined ##level3
+03:04:05<@UdontKnow>  OrgulloKmoore: only ops will see you now
+03:04:11<+Jtkiefer>  lilo, can we get a voice on Myquil please, he keeps bringing in good stuff
+03:04:14<@UdontKnow>  OrgulloKmoore: we're running on opmoderate mode
+03:04:14-!- p2kdoh [n=p2k@cpe-70-93-243-142.san.res.rr.com] has joined ##level3
+03:04:21-!- poningru_sleep [n=poningru@n128-227-34-221.xlate.ufl.edu] has joined ##level3
+03:04:25<@lilo>  if you're in a NOC for a major provider, just type 'PROVIDER' into the channel, all caps
+03:04:28-!- mode/##level3 [+v MyQuiL] by marienz
+03:04:28<@lilo>  we'll try to sort you out
+03:04:35-!- UdontKnow changed the topic of ##level3 to: Hi all. Tracking the level3 problems. || http://scoreboard.keynote.com/scoreboard/Main.aspx?Login=Y&Username=public&Password=public  | Msg an Op or a voiced user if you have information regarding the problems | we're running with opmoderate. talk on channel but ONLY ops will see it
+03:04:42-!- mode/##level3 [+v sorphin] by lilo
+03:04:43<+sorphin>  thanks
+03:04:45<@lilo>  np
+03:04:50<+Jtkiefer>   <deblin> saw this from someone on my ISP's web forum: Level(3) had an OSPF failure in Chicago, that is resulting in nationwide failures across the US and parts of Europe. They are currently working on restoring service in all markets
+03:04:59<@marienz>  just a reminder:  < MtDew> http://sha1.net/images/scoreboard.png about 30 seconds old
+03:05:04-!- fyre^OS [n=fyre@cpe-68-173-171-28.nyc.res.rr.com] has quit [Connection timed out]
+03:05:06<+sorphin>  we're also clean through teleglobe to freenode
+03:05:06-!- kisielk [n=kisielk@d205-250-222-106.bchsia.telus.net] has joined ##level3
+03:05:08-!- Doom2pro_ [n=Doom2pro@unaffiliated/doom2pro] has joined ##level3
+03:05:10<+Jtkiefer>  Router entries from Toronto
+03:05:11<+Jtkiefer>  d
+03:05:11-!- timecop [i=timecop@AnimeNfo.com] has joined ##level3
+03:05:11<+sorphin>  131ms
+03:05:13-!- [iL]TraXo|out [n=TraXo@vs250211.vserver.de] has joined ##level3
+03:05:14-!- oheresy [i=oheresy@atacticaledge.com] has joined ##level3
+03:05:16<+Jtkiefer>  http://ops.rogerstelecom.net/cgi-bin/lg.cgi?router=SprintTOR&query=bgp&addr=4.4.4.4
+03:05:25-!- PegaJoseJX [n=JoseJX@c-67-171-66-14.hsd1.pa.comcast.net] has left ##level3 []
+03:05:26<@marienz>  also, still feel free to /msg me if you have something important to share and we miss you in the fray here
+03:05:36<@marienz>  < msw>  -- http://www.rpath.com/~msw/internetpulse.png -- just updated
+03:05:38<+Jtkiefer>  or any other voiced user
+03:05:41-!- PegaJoseJX [n=JoseJX@c-67-171-66-14.hsd1.pa.comcast.net] has joined ##level3
+03:05:44-!- rkt [n=raket@c-078471d5.033-2-73746f6.cust.bredbandsbolaget.se] has joined ##level3
+03:05:51<@UdontKnow>  level3-> others improving
+03:05:52-!- RedPeppr [i=redpeppr@pepprwerx.net] has joined ##level3
+03:05:55-!- Rune_Welsh [n=Rune_Wel@p5491EB20.dip.t-dialin.net] has joined ##level3
+03:06:01-!- haakonn [n=haakon@quit.net] has joined ##level3
+03:06:02<+Jtkiefer>  level3 and Verio are dead
+03:06:06-!- Doom2pro [n=Doom2pro@unaffiliated/doom2pro] has quit [Nick collision from services.]
+03:06:11-!- marineam [n=marineam@osuosl/staff/marineam] has joined ##level3
+03:06:15<+sorphin>  level3 has been bypassed, last check, we're dropping through TDS networks
+03:06:21<+WildPikachu>  uunet appears to have in and outbound into level3 ... albeit intermittent with very high latencies
+03:06:21<+Jtkiefer>  SBC to internap is laggy
+03:06:25-!- soumyadip [n=soumyadi@59.93.197.56] has quit [Read error: 110 (Connection timed out)]
+03:06:26-!- eorg [n=noident@mail.directservices.bg] has joined ##level3
+03:06:28<+Jtkiefer>  XO to XO is laggy
+03:06:33<+sorphin>  uh
+03:06:36<+sorphin>  no it's not
+03:06:39-!- Hobart [i=jb@jb.org] has left ##level3 []
+03:06:41-!- Riastradh [n=rias@pool-141-154-51-238.bos.east.verizon.net] has left ##level3 []
+03:06:44<+sorphin>  i'm sitting in our core routers atm
+03:06:46-!- lawgon [n=lawgon@61.3.110.134] has left ##level3 []
+03:07:04<+Jtkiefer>  sorphin, you a level3 person?
+03:07:10-!- Wilki [n=Metallic@203-57-210-60.dyn.iinet.net.au] has joined ##level3
+03:07:12<+sorphin>  no
+03:07:13<+sorphin>  XO
+03:07:14-!- Rune_Welsh [n=Rune_Wel@p5491EB20.dip.t-dialin.net] has quit [Client Quit]
+03:07:19-!- Jameno123 [n=james@ddsl-216-68-219-38.fuse.net] has joined ##level3
+03:07:19-!- enc|on|accela [n=none@213.226.133.177] has joined ##Level3
+03:07:20-!- Exiles [n=exiles@71.210.7.3] has quit [Client Quit]
+03:07:28-!- wntd [n=josh@c-24-19-107-176.hsd1.wa.comcast.net] has joined ##level3
+03:07:30<+sorphin>  XO is 6ms to SBC
+03:07:31-!- Alayambo [n=Alay@S010600a0cce432b4.vf.shawcable.net] has joined ##level3
+03:07:38<+Jtkiefer>  sorphin, any idea what the problem with verio is, they've been hit especially hard by the level3 outage
+03:07:40<@lilo>  wildcard0 phoned level3, their comment is that it's a technical issue
+03:07:41-!- sii [n=simius@tranquillity.sii.se] has left ##level3 []
+03:07:42-!- Pineapple` [i=Enigma@edwa066240.halls.colostate.edu] has joined ##level3
+03:07:47-!- WebBoy_ [n=chatzill@dsl213-18.fastxdsl.nl] has joined ##Level3
+03:07:47-!- qwerty_ [i=qwerty@unaffiliated/qwerty] has quit [Connection reset by peer]
+03:07:50-!- nick125 [n=nick@unaffiliated/nick125] has joined ##level3
+03:07:51<+sorphin>  lilo: uh huh
+03:07:51<+Jtkiefer>   <prasys> APIC link seems to be getting from bad to worst. For now , my ping to freenode is around 600-700ms with 5% packet loss
+03:07:59-!- numist [i=numist@pdpc/supporter/sustaining/numist] has joined ##level3
+03:08:00-!- Hellmark[RS] [n=hellmark@63.77.33.253] has joined ##level3
+03:08:01<+sorphin>  and we know level3 doesn't lie ;)
+03:08:04-!- scrumptious [n=scott@pdpc/supporter/sustaining/numist] has quit [Client Quit]
+03:08:05<+WildPikachu>  pretty nasty "technical issue"
+03:08:09-!- pari [i=dsnt@193.219.80.184] has left ##level3 []
+03:08:11-!- chrys_seren [n=chris@m180.net85-169-59.noos.fr] has joined ##level3
+03:08:13<+sorphin>  Jtkiefer: hold checking verio
+03:08:15-!- mind21_98 [i=mooneer@hogwarts.lifeafterking.org] has joined ##level3
+03:08:22-!- combr_ [n=combr@mail.vesna.ru] has left ##level3 []
+03:08:39<@marienz>  "< ohsix> http://www.level3.com/LookingGlass/", but I personally can't view this.
+03:08:41<+trelane>  global routing table is now missing only about 1000 routes
+03:09:01<+Jtkiefer>  trelane, they rebuilding the routing tables?
+03:09:02-!- swetland [n=swetland@frotz.net] has left ##level3 []
+03:09:02-!- Xiwok [n=xiwok@unaffiliated/xiwok] has quit [Read error: 104 (Connection reset by peer)]
+03:09:05-!- Xiwok_ [n=xiwok@unaffiliated/xiwok] has joined ##level3
+03:09:06-!- findlay [n=justin@63.98.126.43] has joined ##level3
+03:09:10-!- wizardjames [n=wizardja@S010600044b808005.cg.shawcable.net] has left ##level3 []
+03:09:12<+trelane>  Jtkiefer, appears so
+03:09:20<+sorphin>  Jtkiefer: iirc, verio does extensive peering w/ level3, vs anyone else, we used to peer w/ them more than we do now (level3)
+03:09:21<+trelane>  realize that if bgp flaps too many times they'll get choked
+03:09:21<+WildPikachu>  I can see the looking glass  :)
+03:09:44<+Jtkiefer>  Level3 down in and out, Verio down incoming
+03:09:48-!- neoXanderLyfe [n=alung@2002:5139:7e39:0:0:0:0:1] has joined ##level3
+03:09:58-!- Nextreme [i=Nextreme@209.52.102.30] has joined ##level3
+03:10:00<@UdontKnow>  http://www.merit.edu/mail.archives/nanog/msg13106.html
+03:10:06<+WildPikachu>  ok, correction ... just now i *could* see the looking glass  :(
+03:10:07-!- iceroff [n=duke@66-214-250-169.dhcp.gldl.ca.charter.com] has joined ##level3
+03:10:12<+Jtkiefer>  well congrats to level 3, they crashed the itnernet
+03:10:17-!- trip [i=trip@H8.NET] has joined ##level3
+03:10:18<+Jtkiefer>  internet i mean
+03:10:20-!- omeg [n=omega@h8441190238.dsl.speedlinq.nl] has joined ##Level3
+03:10:25-!- kiDDos [i=mine@c-24-10-31-72.hsd1.ca.comcast.net] has joined ##level3
+03:10:34-!- itsblah [n=messt@pcp04013066pcs.walngs01.pa.comcast.net] has joined ##level3
+03:10:36-!- Kholdstare [i=khold@ip68-104-159-25.ph.ph.cox.net] has joined ##level3
+03:10:44-!- [LSG]Ben [n=admin@nr22-69-61-144-161.fuse.net] has joined ##level3
+03:10:49-!- Rydekull [i=rydekull@luda/rydekull] has joined ##level3
+03:10:51<@lilo>  verio and level3 destinations are all high lag
+03:10:51<+Jtkiefer>  <coral> sbc to internap was completely down from 11:04 to 11:15 at which point it came back up and stopped dropping 100% packets at least
+03:10:59-!- IRCMonkey [n=chatzill@ti231110a080-0037.bb.online.no] has joined ##Level3
+03:11:02<@lilo>  level3 origin is high lag
+03:11:03-!- Titoxd [n=chatzill@ip70-162-64-223.ph.ph.cox.net] has quit [Client Quit]
+03:11:07<+Jtkiefer>  SBC and itnernap seem to be back up to normal
+03:11:11 * sorphin waits on freenode to stop trying to resolve my box at XO
+03:11:13<+trelane>  lilo, they will be until this starts to settle
+03:11:17-!- ironwolf [n=brian@c-67-180-86-18.hsd1.ca.comcast.net] has joined ##level3
+03:11:23-!- ||Podz [n=Podz@82-71-7-36.dsl.in-addr.zen.co.uk] has joined ##level3
+03:11:24-!- Vino [n=Vino@adsl-221-113-89.rmo.bellsouth.net] has joined ##level3
+03:11:24-!- Lauren [n=contrain@71-8-212-117.dhcp.stls.mo.charter.com] has joined ##level3
+03:11:27<+trelane>  lilo, the problem is world+dog have suppressed level3's announcements
+03:11:27-!- Baloogan [n=Baloogan@RAnde0855.ResNet.Dal.Ca] has joined ##level3
+03:11:28-!- mwright1 [n=Melbourn@ppp71-238.lns1.mel2.internode.on.net] has left ##level3 []
+03:11:29-!- qwerty_ [i=qwerty@unaffiliated/qwerty] has joined ##level3
+03:11:29-!- [sorphin] [n=dstagner@206.173.117.34.ptr.us.xo.net] has joined ##level3
+03:11:36-!- Angela [n=Angela@wikipedia/Angela] has joined ##level3
+03:11:39<@marienz>  summary for those who just joined: verio and level3 are having significant issues, and other providers are beginning to route around the problem.
+03:11:42<+Jtkiefer>  reports of some packet loss to level3 but some packets are getting through
+03:11:43-!- kenboo [n=kenboo@user-0c9h15g.cable.mindspring.com] has joined ##level3
+03:11:43-!- torc [n=torc@rsbac/documentation/torc] has joined ##level3
+03:11:44<@lilo>  unconfirmed comment that comcast is considering charging level3 in turn
+03:11:47-!- qwe [n=qwe@65-100-5-136.eugn.qwest.net] has quit [Client Quit]
+03:11:49<@UdontKnow>  (1129878659 05:10) <*EfentharWireless> cannot get to keynote through sprint now
+03:11:54<+Jtkiefer>   <DDustin> could you repost this for me? updated every 20 seconds: http://wipproject.zapto.org/tmp/scoreboard/mirror.html
+03:11:56-!- Sirrush [n=sirrush@ip68-104-180-142.ph.ph.cox.net] has left ##level3 []
+03:11:58<@lilo>  Baloogan: a backbone provider
+03:12:00<+trelane>  lilo, I dont think there will be a l3 to charge
+03:12:00-!- oninoshiko [n=oninoshi@67.108.64.234.ptr.us.xo.net] has joined ##level3
+03:12:06-!- alpharuin [n=alpharui@SRF-13-229.resnet.ucsb.edu] has joined ##level3
+03:12:12<@lilo>  trelane: well, let's just observe the proceedings
+03:12:17-!- IRCMonkey [n=chatzill@ti231110a080-0037.bb.online.no] has left ##Level3 []
+03:12:25-!- ptcamn [i=vlad@144.134.65.203] has joined ##level3
+03:12:26-!- oninoshiko [n=oninoshi@67.108.64.234.ptr.us.xo.net] has left ##level3 []
+03:12:30<+sorphin>  we were gonna do the same to level3
+03:12:39<+sorphin>  but we still ride some of their fiber
+03:12:40<+sorphin>  d'oh
+03:12:45-!- CunningPike [n=arodgers@S010600095b33697f.vc.shawcable.net] has left ##level3 []
+03:12:55-!- salkin [n=salkin@c-24-99-70-56.hsd1.ga.comcast.net] has joined ##level3
+03:12:56-!- oninoshiko [n=oninoshi@67.108.64.234.ptr.us.xo.net] has joined ##level3
+03:13:06-!- Ash [n=yogurt@tor/session/x-f44d74c1d9271ceb] has quit [Client Quit]
+03:13:07<@marienz>  nick125 got through to level3's LookingGlass and got http://pastebin.com/400674
+03:13:15-!- sorphin [n=sorphin@70.249.196.81] has left ##level3 []
+03:13:18-!- mode/##level3 [+v [sorphin]] by lilo
+03:13:20-!- AedinSF [n=aedinsf@scooby.digital-creationsonline.com] has joined ##level3
+03:13:23-!- Mareklug [n=chatzill@marek.sa.enteract.com] has left ##level3 []
+03:13:24-!- JarBell [n=willijar@ee-dt07.aston.ac.uk] has left ##level3 []
+03:13:25-!- zxsykco [n=zxsykco@adsl-68-252-184-19.dsl.emhril.ameritech.net] has joined ##level3
+03:13:29<+[sorphin]>  ok
+03:13:33-!- Bisqwit [n=mog@bisqwit.iki.fi] has joined ##level3
+03:13:36<@marienz>  < Jameno123> level3's internal routing tables are full again, outbound routes from their gateway faciliates are finnally allowing outbound packets ;)
+03:13:40-!- Liesel [n=chatzill@envoppp104.envia-tel.de] has joined ##level3
+03:13:52-!- Daffy-PKF [n=daffy@84.79.98-84.rev.gaoland.net] has left ##level3 []
+03:13:52<@lilo>  I'm also told it's possible comcast may file a lawsuit
+03:13:55-!- michal` [n=michal@rsbac/developer/michal] has joined ##level3
+03:13:55<@lilo>  again, unconfirmed
+03:13:56-!- Allan| [n=chatzill@dsl-217-155-174-189.zen.co.uk] has left ##level3 []
+03:14:00-!- Waya [n=rover@h222.75.140.67.ip.alltel.net] has joined ##level3
+03:14:04<+[sorphin]>  XO may file one, but we'll see
+03:14:05-!- Marc] [n=chatzill@d83-180-78-128.cust.tele2.ch] has joined ##Level3
+03:14:07-!- Magus|Screen [i=12349@ppp-68-120-199-110.dsl.pltn13.pacbell.net] has left ##level3 []
+03:14:14<+[sorphin]>  up to the peering dept and legal
+03:14:19<+Jtkiefer>  marienz, so we're getting outbound from level3
+03:14:19<@marienz>  < poningru_sleep> I can see the looking glass
+03:14:24<+[sorphin]>  we did pay the $30k fyi
+03:14:25<@lilo>  dpower: no reason for them in particular
+03:14:28-!- vIkSiT [n=Viksit@unaffiliated/viksit] has quit [Client Quit]
+03:14:28-!- Theo [i=theo@wikipedia/theo] has joined ##level3
+03:14:31<+[sorphin]>  shows $ buys notihng
+03:14:33<@lilo>  dpower: the person who mentioned it says he works for them
+03:14:45-!- mode/##level3 [+v numist] by UdontKnow
+03:14:45<+Jtkiefer>  incoming to level3 is still fucked up
+03:14:46-!- dshupp [n=dshupp@221.216.151.251] has quit [Client Quit]
+03:14:53<+WildPikachu>  i can see the looking glass aswell, although I sometimes get a blank page in the middle
+03:14:53<+numist>  thanks UdK
+03:15:00-!- tsume [n=tsume@zanshin.tsumelabs.com] has left ##level3 []
+03:15:07-!- dirgin [n=chatzill@12-203-180-18.client.insightBB.com] has joined ##level3
+03:15:10-!- Necrosan [i=Necrosan@nwblwinas01-pool0-a203.nwblwi.tds.net] has left ##level3 []
+03:15:14-!- chad [n=chad@12-203-180-18.client.insightBB.com] has quit [Client Quit]
+03:15:16-!- syn-ack [i=Matt@ip68-228-38-121.tc.ph.cox.net] has joined ##level3
+03:15:18-!- nosakcobyne [n=somebody@213-215-113-43.bdsl.sk] has joined ##level3
+03:15:19<@marienz>  lookingglass is http://www.level3.com/LookingGlass/ which from what I can gather allows you to check what level3 can and cannot access.
+03:15:19-!- Rune_Welsh [i=Rune_Wel@p5491EB20.dip.t-dialin.net] has joined ##level3
+03:15:25-!- ewhitehill [n=ewhitehi@fw-eth0.fgo.clue-by-four.net] has joined ##level3
+03:15:26-!- MonMotha [n=monmotha@martinbv-3.student.rose-hulman.edu] has joined ##level3
+03:15:31<@marienz>  I can't access this page myself, but apparently some people can.
+03:15:41-!- SHiR [n=asdasdas@ip503d31b2.speed.planet.nl] has joined ##level3
+03:15:43<@UdontKnow>  (1129878911 05:15) <*EfentharWireless> access to scoreboard through sprint has returned
+03:15:51-!- jeronim` [n=jj@c220-239-76-246.rochd3.qld.optusnet.com.au] has joined ##level3
+03:15:53-!- mitzpettel [n=mitz@85-65-37-22.barak-online.net] has joined ##Level3
+03:16:02<@marienz>  < OnyxRaven> NYC at least through Dallas is operational from a number of different hosts (cogent, sprint, qwest)
+03:16:03-!- smurf [n=smurf@debian/developer/smurf] has joined ##level3
+03:16:11-!- DrDT [i=D@S010600485481c93b.wp.shawcable.net] has joined ##level3
+03:16:14-!- markm [n=mark@uniform.vr.org] has left ##level3 []
+03:16:18<@lilo>  I'm getting the lookingglass site
+03:16:23-!- [SIN]Gluttony [n=SINGlutt@cpe-70-122-115-113.houston.res.rr.com] has quit [Client Quit]
+03:16:28-!- lilo changed the topic of ##level3 to: Hi all. Tracking the level3 problems. || http://scoreboard.keynote.com/scoreboard/Main.aspx?Login=Y&Username=public&Password=public  | Msg an Op or a voiced user if you have information regarding the problems | we're running with opmoderate. talk on channel but ONLY ops will see it || http://www.level3.com/LookingGlass/
+03:16:30<+Jtkiefer>  do we know if connections are getting from coast to coast?
+03:16:33-!- Anthere [n=Anthere@wikipedia/Anthere] has joined ##level3
+03:16:39-!- bringerofdoom [i=lxuuuu@black-171-005.rh.uchicago.edu] has joined ##level3
+03:16:47<+trelane>  scoreboard shows them coming back
+03:16:49-!- TomasDeAquino [i=Basilio@ool-45781414.dyn.optonline.net] has quit [Connection timed out]
+03:16:50<+Jtkiefer>  and how international connections are running?
+03:16:52-!- Ex-Cyber [n=excyber@24-55-116-40.clspco.adelphia.net] has joined ##level3
+03:16:54-!- AF-Typo [n=AFTypo@jerzed.plus.com] has left ##level3 []
+03:16:58<@lilo>  not getting any content from it yet though
+03:17:08<@lilo>  just framing
+03:17:09<+numist>  I have some content from LookingGlass
+03:17:19-!- shiwan [n=shiwan@216.138.234.98] has joined ##level3
+03:17:33-!- ao [n=ao@rsbac/developer/ao] has joined ##level3
+03:17:34<+Jtkiefer>  Quest to L3, Verio to L3, and Wiltel to L3 are still laggy
+03:17:43-!- mitzpettel [n=mitz@85-65-37-22.barak-online.net] has left ##Level3 []
+03:17:47-!- suedoh_ [n=suedoh@ladt.broadspire.com] has left ##level3 []
+03:17:54-!- Carnildo [n=mark@c-67-185-129-168.hsd1.wa.comcast.net] has quit [Client Quit]
+03:17:55<@marienz>  if someone can screenshot or pastebin lookingglass output some people here would be interested
+03:17:57-!- kerx [n=suedoh@ladt.broadspire.com] has joined ##level3
+03:17:58-!- Thorn969 [i=Angel@pei219-86.resnet.usf.edu] has left ##level3 []
+03:18:00 * lilo nods at marienz 
+03:18:04<+numist>  marienz: can't access it anymore
+03:18:05-!- DetrikSyS [n=detriksy@201.248.46.55] has joined ##level3
+03:18:12<@marienz>  [My2Cents] http://rafb.net/paste/results/wujLb588.html
+03:18:21<+trelane>  marienz, do they know how to read bgp output?
+03:18:29-!- Shuichi-k [i=Shuichi-@user-0cets6n.cable.mindspring.com] has left ##level3 []
+03:18:30-!- err0neous [n=fuckoff@cpe-66-91-248-166.san.res.rr.com] has joined ##Level3
+03:18:31<+numist>  cant access the scoreboard anymore from here
+03:18:32<@marienz>  trelane: I have no idea. I don't :)
+03:18:33-!- blambi [n=user@h152n3fls306o1038.telia.com] has joined ##level3
+03:18:36-!- Baloogan [n=Baloogan@RAnde0855.ResNet.Dal.Ca] has left ##level3 []
+03:18:40-!- aeruder [i=muncher@ip68-102-201-46.ks.ok.cox.net] has joined ##level3
+03:18:44<+[sorphin]>  brb
+03:18:47<+Jtkiefer>  ISP ratings
+03:18:47<+Jtkiefer>  http://sd.ihr.daze.net/
+03:18:49<+trelane>  marienz, then lookingglass isn't too useful
+03:18:51-!- stone [n=stone@debian/developer/stone] has joined ##level3
+03:18:54-!- Francis [n=chatzill@d5152CB03.access.telenet.be] has joined ##Level3
+03:18:58-!- Pineapple` [i=Enigma@edwa066240.halls.colostate.edu] has quit [Client Quit]
+03:19:00<+Jtkiefer>  [03:18] <OnyxRaven> connections seem to be traveling sprint (from internap) through level3 dallas to nyc on my end (asking about coast to coast)
+03:19:11<+Jtkiefer>  AOL appears to be having issues
+03:19:16-!- DracheK [n=DracheK@cpe-70-112-4-157.austin.res.rr.com] has joined ##level3
+03:19:22<+[sorphin]>  cleant rough WCG (Wiltel) to freenode
+03:19:26<+[sorphin]>  clean even
+03:19:31<@lilo>  related note: http://www.thestreet.com/_excite/tech/hardware/10248488.html?cf=WSIWON1111051500&alias=/ht/nw
+03:19:40<@marienz>  if you can access lookingglass but do not know how to use it, or cannot access looking glass but would know how to use it, poke me so we can set up some exchange of sorts :)
+03:19:44-!- ao [n=ao@rsbac/developer/ao] has left ##level3 []
+03:19:49<+Jtkiefer>  These updates brought to you by Level3 communications, your communications company
+03:19:50-!- TonySidaway [n=chatzill@spc1-walt3-3-0-cust30.asfd.broadband.ntl.com] has joined ##Level3
+03:19:50<+Jtkiefer>  :)
+03:19:52-!- moath [n=moath@198.237.137.250] has left ##level3 []
+03:19:53<+[sorphin]>  121ms through opentransit to freenode via XO
+03:19:59-!- Xriva_ [i=1000@host-69-95-141-252.pit.choiceone.net] has joined ##level3
+03:20:03<@marienz>  getting reports aol.com is down
+03:20:17<+[sorphin]>  my updates are courtesy of my being on our backbone :)
+03:20:19<+trelane>  marienz, if they're out atdn may be out which would take timewarner and rr.com
+03:20:33<+[sorphin]>  trel1023: and charter
+03:20:35<+[sorphin]>  grr
+03:20:37<+Jtkiefer>  lilo, any eta on when freenode is going to desplit
+03:20:38<+Jtkiefer>  ?
+03:20:39<+[sorphin]>  trelane: and charter
+03:20:49-!- aphax [n=aphax@nieser.net] has quit [Read error: 104 (Connection reset by peer)]
+03:20:55-!- hashar [n=hashar@wikipedia/Hashar] has joined ##level3
+03:20:56-!- Fliberty [n=fliberty@63-228-198-31.slkc.qwest.net] has left ##level3 []
+03:21:02<+trelane>  Qwest DSL users may have issues reaching internet sites that require traversing l3 ip space
+03:21:05-!- ojo498 [i=iuhbyuig@ppp494.bcpl.net] has joined ##level3
+03:21:07<+trelane>  (thanks to wshs)
+03:21:09-!- aphax [n=aphax@nieser.net] has joined ##level3
+03:21:09<@marienz>  I have some people who can access looking glass. If you want to ask them to run a query, poke me.
+03:21:20-!- Allah- [i=Allah-@bzq-219-234-229.pop.bezeqint.net] has joined ##level3
+03:21:21-!- ChrisO [n=ChrisO@i-195-137-47-242.freedom2surf.net] has quit [Client Quit]
+03:21:27<@marienz>  aol.com seems to be down for some, up for others.
+03:21:30<+[sorphin]>  any SBC customers shouldn't touch level3 at all to get here (i'm one, so i've done some checking)
+03:21:36-!- lilo changed the topic of ##level3 to: Hi all. Tracking the level3 problems. || http://scoreboard.keynote.com/scoreboard/Main.aspx?Login=Y&Username=public&Password=public  | Msg an Op or a voiced user if you have information regarding the problems | we're running with opmoderate. talk on channel but ONLY ops will see it || http://www.level3.com/LookingGlass/ || For up to date info: http://www.merit.edu/mail.archives/nanog/
+03:21:46-!- weev [n=weev@c-24-125-100-198.hsd1.va.comcast.net] has joined ##level3
+03:21:59<+Jtkiefer>  stats sites listings if people want to crawl these for info
+03:22:00<+Jtkiefer>  http://www.cybergeography.org/statistics.html
+03:22:02-!- MarkK [i=BSDGuy@65-102-54-71.ptld.qwest.net] has joined ##level3
+03:22:04-!- IvanR_ [n=ivan@209-254-107-5.ip.mcleodusa.net] has joined ##level3
+03:22:05-!- Bisqwit [n=mog@bisqwit.iki.fi] has left ##level3 []
+03:22:13<+[sorphin]>  77ms through wiltel to freenode
+03:22:14<+trelane>  lilo, coverage on NANOG is still VERY spotty, though I'm not entirely sure my e-mail is trustable right now with the outages
+03:22:32-!- Marc] [n=chatzill@d83-180-78-128.cust.tele2.ch] has quit [Client Quit]
+03:22:40-!- tdo [i=tim@adsl-69-228-232-195.dsl.pltn13.pacbell.net] has joined ##level3
+03:22:44-!- lilo changed the topic of ##level3 to: Hi all. Tracking the level3 problems. || DOWN: http://scoreboard.keynote.com/scoreboard/Main.aspx?Login=Y&Username=public&Password=public  | Msg an Op or a voiced user if you have information regarding the problems | we're running with opmoderate. talk on channel but ONLY ops will see it || http://www.level3.com/LookingGlass/ || For up to date info: http://www.merit.edu/mail.archives/nanog/
+03:22:59<+Jtkiefer>  reports of AOL down on west coast
+03:23:00<+trelane>  ok I have a confirmation that some parts of the internet are unable to reach AOL and vice versa
+03:23:05<@lilo>  ongoing reports of problems with AOL from various routes
+03:23:05-!- ||Podz [n=Podz@82-71-7-36.dsl.in-addr.zen.co.uk] has quit [Client Quit]
+03:23:06-!- djgregor [n=djgregor@pdpc/supporter/sustaining/djgregor] has joined ##level3
+03:23:12<@lilo>  I'm sure they're just hurting along with everybody else
+03:23:14-!- beyondrob [n=beyondro@ip68-6-113-51.sb.sd.cox.net] has left ##level3 []
+03:23:26-!- lilo changed the topic of ##level3 to: Hi all. Tracking the level3 problems. || Intermittent: http://scoreboard.keynote.com/scoreboard/Main.aspx?Login=Y&Username=public&Password=public  | Msg an Op or a voiced user if you have information regarding the problems | we're running with opmoderate. talk on channel but ONLY ops will see it || http://www.level3.com/LookingGlass/ || For up to date info: http://www.merit.edu/mail.archives/nanog/
+03:23:34< Hanji>  topic reports it down, but I can still get to the scoreboard
+03:23:39-!- bringerofdoom [i=lxuuuu@black-171-005.rh.uchicago.edu] has left ##level3 []
+03:23:40-!- euphoriac [i=bronc@k.thnx.org] has joined ##level3
+03:23:41-!- adam__ [i=adam@luna.tk] has joined ##level3
+03:23:43<@marienz>  scoreboard and aol seem to be up for some, down for others now.
+03:23:43<+trelane>  lilo, when bgp gets this broke it does take awhile to piece it back together
+03:23:44<@lilo>  report that level3.com is accessible from alter.net again
+03:23:47-!- godsmoke [i=godsmoke@dsl254-096-006.nyc1.dsl.speakeasy.net] has joined ##level3
+03:23:48-!- WebBoy [n=chatzill@dsl213-18.fastxdsl.nl] has quit [Connection timed out]
+03:23:51-!- juliux [n=juliux@141.30.211.85] has left ##level3 []
+03:24:03-!- WebBoy_ [n=chatzill@dsl213-18.fastxdsl.nl] has left ##Level3 []
+03:24:09<+[sorphin]>  atdn and sprint are still happily talking
+03:24:11<@lilo>  and a report that it's not :)
+03:24:33-!- euphoriac [i=bronc@k.thnx.org] has left ##level3 []
+03:24:35<+WildPikachu>  lilo i can confirm that, although from my side its a bit spotty with high lag of 5+ seconds
+03:24:41<@lilo>  problems at atlanta's level3 router from alternet
+03:24:44-!- takk [i=Tfine80@pool-68-237-115-149.ny325.east.verizon.net] has joined ##level3
+03:24:47<+numist>  I have LookingGlass output, one moment
+03:24:56-!- DVS01 [n=dvs01@ool-18bcdfdd.dyn.optonline.net] has joined ##level3
+03:24:57-!- textism [n=dean@pdpc/supporter/silver/textism] has joined ##level3
+03:25:04-!- johan-s [n=johan@cm-62.179.133.118.chello.no] has joined ##level3
+03:25:09-!- mitzpettel [n=mitz@85-65-37-22.barak-online.net] has joined ##level3
+03:25:10<+Jtkiefer>  West coast appears to be bypassing level3 in some locations
+03:25:16<+Jtkiefer>  can we get a confirmation on that?
+03:25:17<@lilo>  bear in mind, folks, that almost any reports that "foo is down" are actually problems between two backbone providers at this point
+03:25:23<@lilo>  level3 and somebody, or maybe verio and somebody
+03:25:43-!- whiskey_kitten [n=whiskeyk@wbs-146-180-42.telkomadsl.co.za] has joined ##level3
+03:25:44<@lilo>  I have a report SBC switched to Sprintlink in the Sac and Bay areas
+03:25:47-!- TonySidaway [n=chatzill@spc1-walt3-3-0-cust30.asfd.broadband.ntl.com] has left ##Level3 []
+03:25:49<+MyQuiL>  l3 is lacking null-routes, while trying to access their looking glass, I can see a few routers bouncing packets till they TTL.
+03:25:49<+trelane>  lilo, correct
+03:25:53<+Jtkiefer>   <prasys> good news , APIC links seems to be up , at least I can acesss their website and lag spikes to freenode are dropping
+03:26:00<@marienz>  also, bear in mind that due to router problems it looks like a lot may be down for some, up for others. Probably not particularly interesting if a particular site does or does not work.
+03:26:01<+trelane>  MyQuiL, cute.
+03:26:29<+trelane>  also bear in mind that though things may be technically fixed due to flapped routes and suppression it could be up to an hour before we see the effects of changes that were made
+03:26:39-!- whiskey_kitten [n=whiskeyk@wbs-146-180-42.telkomadsl.co.za] has left ##level3 []
+03:26:42<+trelane>  still running about 900 routes below normal
+03:26:56<@lilo>  I don't know the quality of reporting, but I have a backgrounder on the Cogent/Level3 interruption a couple of weeks back: http://news.com.com/Network+feud+leads+to+Net+blackout/2100-1038_3-5889592.html
+03:27:02<+MyQuiL>  Judging by what I see on NANOG about guys 'round the world losing their BGP feeds completely, I'd envision this as something like "how to setup an Tier 1 network in 15 minutes or less." This is something you'll be reading about in the papers.
+03:27:11-!- ScoTTie [i=scott@220-253-38-6.VIC.netspace.net.au] has joined ##level3
+03:27:13-!- baum-- [i=8shj@p549DCA67.dip.t-dialin.net] has joined ##level3
+03:27:13-!- dirgin [n=chatzill@12-203-180-18.client.insightBB.com] has left ##level3 []
+03:27:30<+Jtkiefer>  Verio is down ingoing, Level 3 is down outgoing and ingoing
+03:27:32-!- Stormy [n=scott@p3m/member/Stormy] has joined ##level3
+03:27:36<@lilo>  this appears to be financial issues with level3 resulting in deliberate peering interruptions
+03:27:39<+WildPikachu>  MyQuiL, maybe on CNN  "BREAKING NEWS"
+03:27:41<+WildPikachu>  heh
+03:27:44-!- mode/##level3 [+v EfentharWireless] by UdontKnow
+03:27:44<+[sorphin]>  lilo: indeed
+03:27:50<+[sorphin]>  as i've said
+03:27:52<+trelane>  MyQuiL, agreed, you know, they say it should survive a nuclear attack, I'd say this is an example that it DOES WORK.
+03:27:53<+[sorphin]>  extortion 
+03:27:53<@lilo>  they've spent a lot of money on infrastructure and are trying to get payments from peers
+03:28:00<+trelane>  lilo, right
+03:28:05<+trelane>  I think I mentioned that
+03:28:10<+[sorphin]>  funny
+03:28:10<+Jtkiefer>  can someone put a call into CNN in Atlanta
+03:28:12<+[sorphin]>  we even paid
+03:28:12-!- Asaru [n=asaru@huepft.im.asaru.net] has joined ##level3
+03:28:31<+Jtkiefer>  well luckily the internet is designed to deal with damage like this
+03:28:32<+MyQuiL>  trelane: partially this is the problem with over-centralization of networks and insufficient redundancies. I'm not noticing a big drop of traffic on my hosted sites here tho.
+03:28:34<+trelane>  [sorphin], you don't just pull the plug, you know that, you have to have something to blame hte "outage" on
+03:28:38-!- timecop [i=timecop@AnimeNfo.com] has quit [K-lined]
+03:28:38-!- supers [i=supers@AnimeNfo.com] has quit [K-lined]
+03:28:47<+trelane>  MyQuiL, it doesnt have to be instant
+03:28:52<+WildPikachu>  alot of good the upgrades have done them! ... this just shows, no matter how much redundancy a major ISP has, they can still go down and take half the internet with them
+03:28:55-!- datadevil [n=maartens@datadevil.demon.nl] has joined ##level3
+03:29:00<+trelane>  if a huge chunk of netowrk falls off and is replaced in 6 hours that's pretty damn good
+03:29:06<+[sorphin]>  trelane: yeah, they blame it on people not paying $30,000
+03:29:08<+trelane>  WildPikachu, concur
+03:29:12<+trelane>  [sorphin], bingo
+03:29:13<+Jtkiefer>  anyone else showing weird stats from XO to XO and from Quest to level 3?
+03:29:22-!- Rune_Welsh [i=Rune_Wel@p5491EB20.dip.t-dialin.net] has quit [Client Quit]
+03:29:26-!- robla [n=robla@c-24-17-2-99.hsd1.wa.comcast.net] has joined ##level3
+03:29:28<+[sorphin]>  Jtkiefer: XO to XO is fine
+03:29:32<+[sorphin]>  6ms or less
+03:29:34<@UdontKnow>  iKernel: we can see it
+03:29:35<+Jtkiefer>  hmm
+03:29:39<@UdontKnow>  iKernel: normal users cant
+03:29:40< Hanji>  XO <-> XO has been showing slow on the scoreboard for a while now, bot [sorphin] says it's fine
+03:29:41-!- baum-- [i=8shj@p549DCA67.dip.t-dialin.net] has left ##level3 []
+03:29:42-!- breser_ [n=breser@fornix.brain.org] has left ##level3 []
+03:29:46-!- Xriva [i=1000@host-69-95-140-90.pit.choiceone.net] has quit [Connection timed out]
+03:29:46-!- Evilx [n=Evilx@24-107-186-150.dhcp.stls.mo.charter.com] has joined ##level3
+03:29:50<+MyQuiL>  when things are back to normal, people should google 'BGPlay' and plug in a level3 prefix (4.0.0.0/8) and watch what happened around these times.
+03:29:56<+numist>  UdontKnow: levelone please
+03:29:57-!- Shindou [n=rover@h222.75.140.67.ip.alltel.net] has quit [Connection timed out]
+03:30:07<+Jtkiefer>  sorphin, scoreboard is reporting 92ms latency
+03:30:08-!- mitsuhiko^school [n=chatzill@iserver.borg-hermagor.asn-ktn.ac.at] has quit [Client Quit]
+03:30:10<+[sorphin]>  fyi on anyone who doesn't know
+03:30:10-!- Pirogeth [i=anonymou@tinfoilhat.net] has joined ##level3
+03:30:13-!- mode/##level3 [+v Ral315] by marienz
+03:30:13-!- adamkerrnz [i=Adam@218-101-18-142.dsl.clear.net.nz] has joined ##level3
+03:30:17-!- Xriva_ [i=1000@host-69-95-141-252.pit.choiceone.net] has left ##level3 []
+03:30:18-!- breser [n=breser@fornix.brain.org] has joined ##level3
+03:30:19-!- Narcycis [i=Narcycis@12-214-101-34.client.mchsi.com] has joined ##level3
+03:30:23<+[sorphin]>  Jtkiefer: scoreboard isn't sitting on our core routers
+03:30:25<+[sorphin]>  I am
+03:30:25<@lilo>  editorial comment....as usual, GNAA have picked the opportunity to run botnets.... it just amazes me that people can be trivial enough to cause distractions when folks have actual significant problems on their plates ;)
+03:30:29-!- bavo [n=bavo@milk.latte.be] has joined ##level3
+03:30:37<@lilo>  it's the getting-a-life thing
+03:30:54<+numist>  hey, gotta keep yourself occupied when your favourite pron sites are inaccessable
+03:31:04<+EfentharWireless>  no link to L3 Berlin through Sprint
+03:31:12-!- Kevin` [i=1000@host-69-95-141-252.pit.choiceone.net] has joined ##level3
+03:31:15-!- stim [n=stim@203-206-106-101.dyn.iinet.net.au] has joined ##level3
+03:31:20<+Jtkiefer>  update for those who are just joining us, level3 FUBARed and the internet has performed a major netsplit
+03:31:24<+WildPikachu>  i just lost uunet to level3 
+03:31:27<@lilo>  again, access to scoreboard is intermittent, they seem to be having server problems.... my guess is out-of-memory due to load
+03:31:31<@marienz>  I can't make heads or tails of this output myself, but for those who can:  < antarus> http://pastebin.com/400681 -> BGP output from my area ( Merit ) to the rest of the country
+03:31:33<+[sorphin]>  Jtkiefer: fyi, here's a small shot
+03:31:35<+[sorphin]>  3  p4-3-0.MAR1.MarylandHeights-MO.us.xo.net (207.88.84.73)  0.654 ms  0.660 ms  0.570 ms
+03:31:35<+[sorphin]>   4  p5-2-0-2.RAR1.Chicago-IL.us.xo.net (65.106.6.157)  6.647 ms  6.624 ms  6.706 ms
+03:31:36<+[sorphin]>   5  p0-0.IR1.Chicago2-IL.us.xo.net (65.106.6.134)  6.729 ms  6.603 ms  6.546 ms
+03:31:36<+numist>  Jtkiefer: not often you see the whole internet split
+03:31:42-!- smiley- [n=smiley@81.224.174.239] has joined ##level3
+03:31:46<+[sorphin]>  6ms from st louis to chicago
+03:31:48-!- Waya [n=rover@h222.75.140.67.ip.alltel.net] has quit [Connection timed out]
+03:31:48<+numist>  I'll have LookingGlass output soon
+03:31:57<+Jtkiefer>  03:31] <coral> On October 21st we began receiving numerous calls from multiple location of routing issues. Upon further investigation we discovered that Level3 appears to be a common factor. We have discovered that Level3 is having major network issues nationwide. We are in the process of shutting down our Level3 peering at all our locations. We have opened ticket 184739 to track this issue. Currently Level3 does not have an ETR. We will u
+03:31:57<+Jtkiefer>  [03:31] <coral> noc@internap
+03:32:02<+numist>  DJCapelis is loading it onto athena
+03:32:15-!- delphine [n=Delphine@wikipedia/notafish] has joined ##level3
+03:32:16<+EfentharWireless>  Links between sprint and L3 Brussells and Boston down
+03:32:26-!- mode/##level3 [+v delphine] by lilo
+03:32:26<+Jtkiefer>  shit
+03:32:41-!- mode/##level3 [+v Anthere] by lilo
+03:32:41<+Jtkiefer>  what about UK to US northeast
+03:32:46<+Anthere>  you need a cloak ???
+03:32:46<@UdontKnow>  nanog.org -> resources got many looking glasses if you guys are wishing to dig around
+03:32:47<+Jtkiefer>  those are the major cross atlantics
+03:32:50<+EfentharWireless>  Jtkiefer, waiting on results
+03:33:00<+delphine>  ok, what do I do?
+03:33:00<+Jtkiefer>  if those go down we lose the link to europe
+03:33:03-!- mitzpettel [n=mitz@85-65-37-22.barak-online.net] has left ##Level3 []
+03:33:05<+delphine>  salut poulette An:P
+03:33:08<@lilo>  Anthere: no.... if wikinews/wikimedia people have any info, just pass it on here 
+03:33:11<+Anthere>  salut biche
+03:33:12-!- shagrat [i=bigb@80.247.212.3] has joined ##Level3
+03:33:16-!- Splarka [i=Splarka@x2-04b-106.goldrush.com] has left ##level3 []
+03:33:18-!- red0x [n=red0x@adsl-68-126-143-221.dsl.scrm01.pacbell.net] has joined ##level3
+03:33:20<+delphine>  lilo: what kind fo info?
+03:33:27<+[sorphin]>  Jtkiefer: we're clean to teleglobe
+03:33:30<@lilo>  delphine: anything relating to the level3 business
+03:33:32-!- Shuichi-k [i=Shuichi-@user-0cets6n.cable.mindspring.com] has joined ##level3
+03:33:35-!- aeruder [i=muncher@ip68-102-201-46.ks.ok.cox.net] has left ##level3 []
+03:33:40<+EfentharWireless>  Links between sprint and L3 Dallas and Detroit down
+03:33:44<+Anthere>  hmmm, I fear most developers are already here...
+03:33:46-!- weary [n=weary@h8441148227.dsl.speedlinq.nl] has joined ##level3
+03:33:47<@lilo>  delphine: you guys seem to make it a point to collect information :)
+03:33:50-!- Irssi: ##level3: Total of 449 nicks [4 ops, 0 halfops, 10 voices, 435 normal]
+03:33:52<@UdontKnow>  http://neptune.dti.ad.jp/
+03:33:57<@UdontKnow>  a few looking glasses here
+03:33:58<+[sorphin]>  130ms
+03:34:04<+[sorphin]>  XO to teleglobe to freenode
+03:34:11<+WildPikachu>  lilo its a network admins job ;)
+03:34:11<+[sorphin]>  as of 10 secs ago
+03:34:14-!- nexangelus [n=nexangel@c-67-177-32-150.hsd1.ut.comcast.net] has quit [Client Quit]
+03:34:16<+EfentharWireless>  Links between sprint and L3 Houston, down
+03:34:17-!- mkrueger [n=mkrueger@217.69.68.30] has joined ##level3
+03:34:22<+Jtkiefer>  lilo, you logging this channel?
+03:34:29-!- IvanR_ [n=ivan@209-254-107-5.ip.mcleodusa.net] has left ##level3 []
+03:34:37-!- mkrueger [n=mkrueger@217.69.68.30] has left ##level3 []
+03:34:38-!- xybre [i=xybre@unaffiliated/xybre] has joined ##level3
+03:34:41<@lilo>  more reports from our previous informant about router hand-offs in atlanta, packets going in circles
+03:34:58<@lilo>  houston level 3 routes appear to be back up
+03:35:13<+MyQuiL>  Unixy folk might want to setup 'smokeping' to watch this sort of fun in the future.
+03:35:30-!- nosakcobyne [n=somebody@213-215-113-43.bdsl.sk] has left ##level3 []
+03:35:32<+[sorphin]>  fyi, routing isn't necessarily the same bi directionally
+03:35:37<+numist>  folks will probably be interested in this: http://athena.numist.net/~djcapelis/lookingglass.txt
+03:35:41-!- iii [n=Revoluti@host254-130.pool8254.interbusiness.it] has joined ##level3
+03:35:48<+EfentharWireless>  Links between sprint and L3 LA, Down
+03:35:57-!- anakata [i=anakata@greed.prq.se] has joined ##level3
+03:35:59<@lilo>  okay, now this is interesting
+03:36:03<@UdontKnow>  l3 on the 30-60% availability now to most others on scoreboard
+03:36:16<+EfentharWireless>  Jtkiefer, london to sprint is up
+03:36:23<+MyQuiL>  No, routing is rarely the same bi-directionality, your ISP will choose which peer to use based on various agreements and path-lengths. Looking glasses are really the true way to trace.
+03:36:28-!- Sancheeto [n=sancho@ppp-67-126-240-180.dsl.irvnca.pacbell.net] has joined ##level3
+03:36:29<+Jtkiefer>  that's good, at least we're getting europe routes
+03:36:32<@lilo>  okay, this is interesting.... a level3 customer says they heard back from them, that they were performing some network-wide software upgrades and ran into problems
+03:36:37<+[sorphin]>  also
+03:36:38<+Jtkiefer>  coast to coast U.S. seems to be having issues
+03:36:41<@lilo>  the tone of the comment suggests that this has happened before
+03:36:42<+Jtkiefer>  no word from asia for awhile
+03:36:44<+EfentharWireless>  Links between sprint and L3 LV, Manchester, down
+03:36:45<+numist>  MyQuiL: see my previous link : level3's lookingglass
+03:36:46<+delphine>  Germany down
+03:36:47<+MyQuiL>  and I mean 'looking glasses' where you say things like 'sh ip bgp $prefix'
+03:36:50<+[sorphin]>  121ms from XO to OpenTransit in europe to Freenode
+03:36:53<+delphine>  or so it seems
+03:36:56-!- AlphaFaction [n=alaska@200.103.dsl.syd.iprimus.net.au] has quit [Client Quit]
+03:36:56<+delphine>  let me check
+03:36:57-!- Oldsmobile [n=rover@h222.75.140.67.ip.alltel.net] has joined ##level3
+03:37:03<+delphine>  T-Mobile down for sure
+03:37:17-!- Suriko_ [n=Suriko@220-253-100-21.TAS.netspace.net.au] has joined ##level3
+03:37:18<@lilo>  [sorphin]: have we never asked you guys for a server? :)
+03:37:20<+trelane>  down or unreachable
+03:37:25 * lilo makes a note
+03:37:25-!- roadtripkk [n=kk@CPE-70-92-180-137.mn.res.rr.com] has joined ##level3
+03:37:29<+[sorphin]>  haha
+03:37:30<+MyQuiL>  numist: can't load it, but here's a LG in Toronto: http://ops.rogerstelecom.net/cgi-bin/lg.cgi?router=SprintTOR&query=bgp&addr=4.4.4.4
+03:37:34-!- fcgreg [n=greg@adsl-63-200-91-249.dsl.scrm01.pacbell.net] has joined ##level3
+03:37:36<+Jtkiefer>  lilo, this is amazing that we can get all this info all at once
+03:37:37<+[sorphin]>  lilo: backbone is OC-192
+03:37:41<+numist>  MyQuiL: want me to pastebin it?
+03:37:42<@lilo>  <twisted> atl l3 routes appear to be fully up, as well as houston l3 datacenter inbound/outbound traffic, and houston l3 network traffic
+03:37:46<+[sorphin]>  hell out of my building
+03:37:47-!- _vr [i=rv@fulhack.nu] has joined ##level3
+03:37:50<+[sorphin]>  2xOC-12
+03:37:50<+[sorphin]>  :P
+03:37:51-!- iii [n=Revoluti@host254-130.pool8254.interbusiness.it] has left ##level3 []
+03:37:52<@lilo>  [sorphin]: well, I'm convinced :)
+03:37:54<@UdontKnow>  gah, seamonkey went fubar
+03:37:55-!- Ramaniscence [i=sgtrama@adsl-149-58-151.mia.bellsouth.net] has joined ##level3
+03:37:55<+EfentharWireless>  Links between sprint and L3 NY, down
+03:37:56<+MyQuiL>  numist: finally got it. nice set.
+03:38:00<+numist>  :)
+03:38:03-!- Jozo [i=jozo@nelli.ikonia.fi] has joined ##level3
+03:38:04<+EfentharWireless>  Links between sprint and L3 Oakland, down
+03:38:08-!- jesse_133 [n=jdandr2@12-203-239-69.client.insightBB.com] has joined ##level3
+03:38:10<+numist>  not a small file, and athena is my home router :o
+03:38:24 * MyQuiL wants a BGP feed ... gunna have to talk to the NOC guys tomorrow.
+03:38:27<@lilo>  I hear that links between sprint and l3 (ny and oakland) are down
+03:38:33-!- stim [n=stim@203-206-106-101.dyn.iinet.net.au] has left ##level3 []
+03:38:38<+Jtkiefer>  anyone have info on the Asia links
+03:38:42<+numist>  yes, oakland is down
+03:38:43<@lilo>  <~xbmodder_lappy> San jose is  level3's connection to speakeasy
+03:38:46<+Jtkiefer>  thouse are west to east right?
+03:38:49-!- GTZ [i=GTZ@S0106000ea6b44257.vc.shawcable.net] has quit [Client Quit]
+03:38:51-!- Shuichi-k [i=Shuichi-@user-0cets6n.cable.mindspring.com] has left ##level3 []
+03:38:52<+numist>  Jtkiefer: probably something on the lookingglass
+03:38:54-!- sorcer_ [i=sorcer@193.25.126.10] has joined ##level3
+03:38:59<+EfentharWireless>  Links between sprint and L3 Phoenix, down
+03:39:01<+Jtkiefer>  numist, I don't know if it'll load for me
+03:39:03-!- batlogg_ [i=batlogg@unaffiliated/batlogg] has quit [Client Quit]
+03:39:04< Hanji>  numist: want me to mirror that?
+03:39:06<@lilo>  <~_[iceman]> according to L3 Lookingglass, i have connectivity to L3 Atlanta, but 200Ms pings
+03:39:16-!- gnaa [i=gnaa@h.armed.us] has joined ##level3
+03:39:18<+numist>  Jtkiefer: doesnt have to
+03:39:22<+Jtkiefer>  Verio is all down
+03:39:22<@lilo>  <NightMonkey> LookingGlass from my IP 64.36.4.146 in San Francisco to ALL SITES: http://pastebin.ca/26146
+03:39:24<+trelane>  route count is now 600 below normal
+03:39:29-!- lordk4rf [n=me@c-24-130-96-156.hsd1.ca.comcast.net] has joined ##level3
+03:39:34-!- Qamly [n=Guest@24-176-17-184.dhcp.klmz.mi.charter.com] has left ##level3 []
+03:39:34<@lilo>  <jeronim`> Jtkiefer, link from wikimedia korea cluster to florida is working fine
+03:39:38-!- Bugged [n=bugged@065.100-113-64.ftth.swbr.surewest.net] has left ##level3 []
+03:39:40-!- timgoh0 [n=timgoh0@unaffiliated/timgoh0] has left ##level3 []
+03:39:41-!- f0rked [i=f0rked@unaffiliated/f0rked] has left ##level3 []
+03:39:46<+numist>  uploading my looking glass output to a proper server
+03:39:47<@lilo>  <wildcard0> links between telus/shaw and level3 washington, down
+03:39:48-!- Gau [n=Gau@chey7-150-dhcp.resnet.colorado.edu] has joined ##level3
+03:39:51<+numist>  http://numist.net/index.php/Level3
+03:40:02<+EfentharWireless>  Links between sprint and L3 Seattle, down
+03:40:03<+numist>  Jtkiefer: ^^
+03:40:06<+Jtkiefer>  lilo, wow
+03:40:16<+[sorphin]>  not that anyone cares
+03:40:20-!- Furious_D [i=mad@c-24-127-121-43.hsd1.ca.comcast.net] has joined ##level3
+03:40:23<@lilo>  <My2Cents> Seems a traceroute from toronto is getting partway to level3.net and then looping forever within level3.
+03:40:23-!- pr3d4t0r [n=cu4cu4@pdpc/supporter/active/pr3d4t0r] has joined ##level3
+03:40:26<+[sorphin]>  but peering w/ Ebay and M$ is normal on XO's network :)
+03:40:31<@lilo>  <ChrisWhite> Geniva and Hamburg -> freenode is active but lagged
+03:40:34<+MyQuiL>  numist: d'you have a feed? or are you scripting that? or just putting it together by hand?
+03:40:40<+Jtkiefer>  lilo, makes sense, I think they fucked up their routing system
+03:40:43<+EfentharWireless>  Links between sprint and L3 SF, down
+03:40:46<@lilo>  <~MonMotha> Link from sprint to L3 at Dallas seems to work for me, getting all the way to my destination
+03:40:47<+numist>  MyQuiL: no, I dont have a good enough access...  this is as I can reload it
+03:40:54<+MyQuiL>  pain.
+03:40:59<+[sorphin]>  Jtkiefer: level3 did this on purpose, as a show of force
+03:41:00-!- wqer346546 [n=we565659@pcp0011510558pcs.grey01.tn.comcast.net] has joined ##level3
+03:41:09<@lilo>  Jtkiefer: this is why I was betting it was a technical problem.... I'm not convinced one way or the other though, too little real solid data
+03:41:17<@lilo>  <NightMonkey> Level 3 Looking Glass appears to be unresponsive noew (though packets are getting through)
+03:41:17<+numist>  MyQuiL: actually, DJCapelis is reloading it :P
+03:41:19-!- hashar [n=hashar@wikipedia/Hashar] has quit [Client Quit]
+03:41:27<@lilo>  <OnyxRaven> SFO/SanJose sprint -> L3 SanJose -> NYC is up.  http://pastebin.com/400688
+03:41:30<+[sorphin]>  lilo: fyi, our COO was in town on Wednesday
+03:41:34<@lilo>  <ChrisWhite> London England level3 -> freenode is active but lagged
+03:41:35<@marienz>  summary for those who just joined, no guarantees for accuracy: level3 and verio are having issues, are working on it, but it will take quite a while for the routing fallout to settle down.
+03:41:38-!- blambi [n=user@h152n3fls306o1038.telia.com] has left ##level3 []
+03:41:45<@lilo>  <ChrisWhite> Madrid, Spain level3 -> freenode is active but lagged
+03:41:46<+Jtkiefer>  lilo, I'm going to find the phone number for CNN's either New York Office or Atlanta main office
+03:41:48<+numist>  my wiki page will update as often as the page is reachable from the ucsd backbone
+03:41:53<+[sorphin]>  talked about LEvel3, the $30,000 and slowly removing level3 from our network 
+03:41:56<+EfentharWireless>  Links between sprint and L3 Washington, Zurich, down
+03:42:04<@marienz>  < antarus> http://pastebin.com/400687 BGP from Merit to Europe, I know someone requested something along these lines
+03:42:04<+[sorphin]>  level3 is almost bankrupt
+03:42:17<+EfentharWireless>  All links I havent mentioned between sprint and L3, are up
+03:42:23-!- bancus [n=treed@athena.crschmidt.net] has quit [Remote closed the connection]
+03:42:32-!- bancus [n=treed@athena.crschmidt.net] has joined ##level3
+03:42:36-!- silsor [i=silsor@CPE000b6af06c28-CM0014e8b56174.cpe.net.cable.rogers.com] has quit [Client Quit]
+03:42:36<@lilo>  marienz: and additional information, there are conflicting reports, it could be related to peering charges level3 wants to charge, or it could be the result of a failed network-wide software upgrade at level3
+03:42:37-!- barcex [n=barcex_@82.158.78.230] has quit [Connection timed out]
+03:42:49<+[sorphin]>  lilo: fyi
+03:42:53<+[sorphin]>  no backbone
+03:42:56<@lilo>  <+EfentharWireless> Links between sprint and L3 Washington, Zurich, down
+03:43:00-!- Kyuu [n=Kyuu@wvc32384rh.rh.ncsu.edu] has quit [Client Quit]
+03:43:01-!- muep_ [n=joonas@dsl-roigw4-feaff800-80.dhcp.inet.fi] has joined ##level3
+03:43:02<+trelane>  lilo, you don't do a network-wide software update ALL AT ONCE
+03:43:04<+EfentharWireless>  im thinking possibilty of e-terrorism
+03:43:05-!- timecop [i=timecop@AnimeNfo.com] has joined ##level3
+03:43:06<+[sorphin]>  does network wide software upgrade at the same time on every router :)
+03:43:08<@lilo>  <zxsykco> New York, NY Oakland, CA Orlando, FL aren't available here.
+03:43:10-!- dippie [n=void@213.160.215.2] has joined ##Level3
+03:43:11-!- supers [i=supers@AnimeNfo.com] has joined ##level3
+03:43:11-!- euphoriac [i=bronc@k.thnx.org] has joined ##level3
+03:43:15<@lilo>  <snitt> Budapest, Hungary => Freenode OK. lag 200 ms
+03:43:26-!- cky [n=cky@202-74-223-207.ue.woosh.co.nz] has joined ##level3
+03:43:29<@lilo>  <Stormy> so another global crossing eh?
+03:43:37<@lilo>  it might be, Stormy, we really can't tell
+03:43:37<@UdontKnow>  heh
+03:43:39<+[sorphin]>  level3 spent too much $
+03:43:42<+[sorphin]>  they didn't have
+03:43:46<@UdontKnow>  Stormy: Global Crossing is another carrier :P
+03:43:53<+[sorphin]>  we're gradually dropping their fiber
+03:43:58<@lilo>  <nick125> [sorphin]: i was thinking a similiar idea, look at their finacial report, posted yesterday. 204 million losses
+03:43:59<+trelane>  UdontKnow, not anymore
+03:44:05<@UdontKnow>  trelane: nods
+03:44:07<@marienz>  for those interested in this sort of thing: < nick125> [sorphin]: http://www.level3.com/press/6478.html
+03:44:10<@lilo>  <AedinSF> http://www.digital-creationsonline.com/lookingglass.txt
+03:44:10<+trelane>  lilo, already pointed out ;)
+03:44:12-!- Warlord96 [i=Warlord1@pool-70-18-117-208.buff.east.verizon.net] has joined ##level3
+03:44:14<@lilo>  <ChrisWhite> Milan, Italy Level3 -> freenode, active but lagged ~180ms
+03:44:20-!- pesco [n=pesco@hostivar.koleje.cuni.cz] has left ##level3 []
+03:44:23<@lilo>  <twisted> last I heard it was a major OSPF failure in chicago
+03:44:24-!- ricky_clarkson2 [n=root@unaffiliated/rickyclarkson/x-000000001] has joined ##level3
+03:44:26<@marienz>  (that seems to be a financial report)
+03:44:32<@marienz>  < Toba> if anyone can mirror level3.com it would be appreciated
+03:44:37-!- Asael [n=chatzill@IGLD-84-228-38-67.inter.net.il] has joined ##Level3
+03:44:42<+[sorphin]>  marienz: yeah, they're gonna drop soon
+03:44:44<+numist>  http://numist.net/index.php/Level3
+03:44:46<@marienz>  (assuming Toba means that news, not all of it)
+03:44:49-!- Asael [n=chatzill@IGLD-84-228-38-67.inter.net.il] has left ##Level3 []
+03:44:49<@lilo>  <basti_> freenode from deutsche telekom ag routes via paris, milano and has not a big lag
+03:44:50-!- vortek_ [n=vortek@71-10-4-15.dhcp.aldl.mi.charter.com] has joined ##level3
+03:44:51<+numist>  recent lookingglass
+03:44:52-!- jesse_133 [n=jdandr2@12-203-239-69.client.insightBB.com] has quit [Remote closed the connection]
+03:44:53-!- AnEvilYak [n=rene@ip68-226-28-116.tc.ph.cox.net] has left ##level3 []
+03:44:54<+[sorphin]>  they need the $30k just to pay the ceo hehe
+03:44:56<+MyQuiL>  I don't think an OSPF failure would hose things this bad.
+03:45:00<@lilo>  <~roadtripkk> traceroute from minneapolis rr.com to chicago L3 in 3 hops, by way of kansas city
+03:45:04-!- ABCD [n=abcd@wikipedia/ABCD] has joined ##Level3
+03:45:07<+trelane>  My2Cents, we're way larger scale than OSPF
+03:45:09-!- Sevalecan [i=Sevaleca@allegro/user/Sevalecan] has joined ##level3
+03:45:14-!- JPV [n=jpv@2001:610:128:c315:0:0:0:1] has joined ##level3
+03:45:15 * lilo nods
+03:45:18<+[sorphin]>  MyQuiL: the only reason people got around was bgp reroutes
+03:45:26<+trelane>  keep the updates coming
+03:45:33<@lilo>  yes, please keep the updates coming
+03:45:37<+MyQuiL>  yeah, I just see re-announces.
+03:45:50<+numist>  DJCapelis will continually update http://numist.net/index.php/Level3 looking glass as it is available
+03:45:56<@lilo>  apologies in advance if I let through a comment that isn't massively helpful
+03:46:01-!- Sz_ [i=caze@montezuma.acc.umu.se] has joined ##Level3
+03:46:05<+MyQuiL>  BAN LILO! ;)
+03:46:08<@lilo>  attribute it to volume and my own lack of routing expertise :)
+03:46:11-!- rcmurphy [i=rcmurphy@x137-159-112-245.auto.pepperdine.edu] has left ##level3 []
+03:46:11<@UdontKnow>  (1129880762 05:46) < *ChrisWhite> Oakland, CA level3 -> freenode, active 20ms 
+03:46:14-!- DoRullings [n=dorullin@ti200720a080-0221.bb.online.no] has joined ##Level3
+03:46:17-!- karmosin [n=karmosin@c-67d972d5.026-13-73746f44.cust.bredbandsbolaget.se] has joined ##Level3
+03:46:17<+[sorphin]>  +b lilo@*
+03:46:18<+[sorphin]>  hehe
+03:46:19<@lilo>  <ChrisWhite> Oakland, CA level3 -> freenode, active 20ms 
+03:46:26-!- kenboo [n=kenboo@user-0c9h15g.cable.mindspring.com] has left ##level3 []
+03:46:28<@lilo>  <My2Cents> Toronto to level3 still looping within level3
+03:46:31<@marienz>  Toba and others who want that financial news from level3.com: I've mirrored the html only on http://mzz.mine.nu/6478.html
+03:46:34<@lilo>  My2Cents: what provider in toronto?
+03:46:40-!- jpa- [i=jpa@lakka.kapsi.fi] has joined ##level3
+03:46:42-!- jesse_133 [n=jdandr2@12-203-239-69.client.insightBB.com] has joined ##level3
+03:46:46-!- DavidW2 [n=david@crypto.engr.uconn.edu] has joined ##level3
+03:46:47-!- yyn3k [i=yyn3k@85-64-229-121.barak-online.net] has joined ##level3
+03:46:50<+[sorphin]>  fyi
+03:46:50<@lilo>  <~RedPeppr> we have a few datacenters all over the world.. im not at work to do measurments but from nagios i see tokyo pnap out new york, lax, chicago, singapor equinex still down. seattle, london, no routes to china, moscow, brazil or bombay
+03:46:57<@UdontKnow>  "I was given the same info re: maintenance.  While on the phone with 
+03:46:57-!- DoDaT69 [n=ummmm_no@ns02.digitalsonhosting.com] has joined ##level3
+03:46:58<@UdontKnow>  them, I started to see things come back to life, but still a big 
+03:46:58<@UdontKnow>  mess at the moment.
+03:46:58<@UdontKnow>  -Sean"
+03:46:59<+[sorphin]>  still issues w/ XO -> TDSnet
+03:47:02<@UdontKnow>  hot from nanog
+03:47:12<+MyQuiL>  My2Cents: from WHO in T.Dot?
+03:47:15<+Jtkiefer>  anyone who wants to contact CNN directly call - (404) 827-2300 or (404) 827-1700
+03:47:20<@UdontKnow>  reisio: oh well, your routes are better than mine
+03:47:21-!- ABCD [n=abcd@wikipedia/ABCD] has left ##Level3 []
+03:47:24-!- CapTallat [n=captalla@248.Red-81-45-243.staticIP.rima-tde.net] has joined ##Level3
+03:47:24<@UdontKnow>  reisio: :P
+03:47:27<@lilo>  <My2Cents> lilo: bell and rogers
+03:47:29-!- csg [n=csg@h35n2fls307o968.telia.com] has joined ##level3
+03:47:34<+numist>  what about them
+03:47:40<@lilo>  <~vortek_> So why isnt this on CNN or the NEWS
+03:47:48<@lilo>  vortek_: I'll assume they're just slow picking it up
+03:47:55<@lilo>  <ChrisWhite> Paris, France level3 is totally down
+03:47:55<+Jtkiefer>  as always
+03:47:57<+[sorphin]>  XO to WTG is still clean at 77ms
+03:48:01<@lilo>  <ChrisBradley> Anyone want me to make the call? 
+03:48:01<+Jtkiefer>  slashdot should get it soon though
+03:48:05<+numist>  yeah, the news is never all that quick, I imagine /. or fark will have it fisrt
+03:48:06-!- Echelon [n=Echelon@043.196-93-216-nokia-dsl.dynamic.surewest.net] has joined ##level3
+03:48:14-!- Suriko [n=Suriko@220-253-100-21.TAS.netspace.net.au] has quit [Connection timed out]
+03:48:15-!- Jayinwww` [n=Snake@69.158.57.8] has quit [Read error: 104 (Connection reset by peer)]
+03:48:15<+[sorphin]>  someone /. level3 *smirk*
+03:48:17<+[sorphin]>  oh wait
+03:48:20<@lilo>  <justdave> the reporters can't get to the website to submit their stories ;)
+03:48:21<@marienz>  < justdave> the reporters can't get to the website to submit their stories ;)
+03:48:22<+Jtkiefer>  quest to lvl3 is midline
+03:48:22<+[sorphin]>  they did it to themselves
+03:48:23<@lilo>  justdave: :)
+03:48:23-!- karmosin [n=karmosin@c-67d972d5.026-13-73746f44.cust.bredbandsbolaget.se] has left ##Level3 []
+03:48:24<+EfentharWireless>  im losing packets into the void of level3
+03:48:37<@marienz>  (we're all thinking it :)
+03:48:40-!- CapTallat [n=captalla@248.Red-81-45-243.staticIP.rima-tde.net] has left ##Level3 []
+03:48:42<+WildPikachu>  level3 is a void atm
+03:48:42<@lilo>  <ChrisWhite> PARIX NAP Paris level3 -> freenode active 160ms
+03:48:52<+numist>  got a new LookingGlass loading
+03:48:58-!- NoelCower [n=donnie23@64.139.238.135] has quit [Client Quit]
+03:49:02<+[sorphin]>  65ms from XO to cogent to freenode
+03:49:05<+EfentharWireless>  an attempt to traceroute L3 via sprint just infloops
+03:49:13-!- pepsi [n=pepsi@69.110.231.162] has joined ##level3
+03:49:13<@marienz>  still a lot of places, including level3.com, are accessible only to those who are in luck routing-wise.
+03:49:21<@lilo>  folks, if you comment about not being able to get to a site, include detail, your provider and where it's stalling
+03:49:26-!- ales [n=chatzill@intra.finos.cz] has joined ##Level3
+03:49:28-!- fcgreg [n=greg@adsl-63-200-91-249.dsl.scrm01.pacbell.net] has left ##level3 []
+03:49:29 * MyQuiL looks for companies developing for RFC2549 to invest in.
+03:49:33<@lilo>  <twisted> houston level3's outbound routes are still in peril - hou -> sfo traffic being routed to NY?! 
+03:49:39<+[sorphin]>  fyi
+03:49:42<+Jtkiefer>  is level 3 still stalling packets within their network?
+03:49:43-!- Mooby [n=blindaue@ibis.u-strasbg.fr] has joined ##level3
+03:49:45-!- Celestar [n=Jadzia_D@galadriel.td.mw.tum.de] has joined ##level3
+03:49:47<@UdontKnow>  nanog availability in the 40%-60% on scoreboard
+03:49:52<+[sorphin]>  63ms from XO to broomsfield.level3.net now
+03:49:52<@marienz>  < felipe> can people give updates about global routing table, number of routes +/- from normal, what level3 is exporting, and how much flapping is happening?
+03:49:55< Hanji>  I think so
+03:49:58-!- iKernel [n=chatzill@CPE-144-137-50-194.vic.bigpond.net.au] has quit [Nick collision from services.]
+03:49:59-!- Ozy|Laptop [n=Ozymandi@24-205-238-78.dhcp.snlo.ca.charter.com] has quit [Client Quit]
+03:50:05<@UdontKnow>  (1129880986 05:49) < *timecop> TOKYO.JAPAN TO GOATSE.CX -> 144ms through verio
+03:50:06<@UdontKnow>  rofl
+03:50:08<+trelane>  we're about 500 low
+03:50:10<+trelane>  HAHAHAHAHA
+03:50:11-!- fcgreg [n=greg@adsl-63-200-91-249.dsl.scrm01.pacbell.net] has joined ##level3
+03:50:12<+MyQuiL>  felipe: Get a BGP feed ;)
+03:50:14<+trelane>  UdontKnow, that's funny
+03:50:16-!- joshk [i=11015@apocalypse.OCF.Berkeley.EDU] has joined ##Level3
+03:50:17<+[sorphin]>  so looks liek we've repeered
+03:50:18-!- iKernel [n=chatzill@CPE-144-137-50-194.vic.bigpond.net.au] has joined ##level3
+03:50:21<+Jtkiefer>  Udontknow,  that standard from tokyo?
+03:50:25<@lilo>  <ChrisWhite> none of the given phone numbers for CNN work
+03:50:28-!- andr3as [n=mirc@p54A5900F.dip0.t-ipconnect.de] has joined ##Level3
+03:50:32-!- zed [n=zed@zed.leads-you.to.orgasm.fr] has joined ##level3
+03:50:41<+Jtkiefer>  lilo, what do you mean they don't work
+03:50:42<@lilo>  <alex_joni> Geant Europe -> freenode active 150ms (not sure it has been down) ..goes through es, gigapop, nero
+03:50:46<+Jtkiefer>  those are the listed ones on google
+03:50:48<+[sorphin]>  10  se3-0.public1.Broomfield1.Level3.net (209.245.16.18)  68.597 ms  68.976 ms  68.580 ms
+03:50:48<@lilo>  <~adamkerrnz> so how come level3.com works for me?
+03:50:49-!- Mooby [n=blindaue@ibis.u-strasbg.fr] has left ##level3 []
+03:50:50-!- jesse_132 [n=jdandr2@12-203-239-69.client.insightBB.com] has quit [Read error: 110 (Connection timed out)]
+03:50:56<+EfentharWireless>  PING > clarke.freenode.org via cogent = 223ms AVG
+03:51:01<@lilo>  adamkerrnz: it's varying by site and by origin and destination provider
+03:51:07-!- ferringb [n=bharring@gentoo/developer/ferringb] has left ##level3 []
+03:51:08<@lilo>  <ChrisWhite> I sent them an email tip :|
+03:51:15<+Jtkiefer>  lilo, so did I
+03:51:21-!- joshk [i=11015@apocalypse.OCF.Berkeley.EDU] has left ##Level3 []
+03:51:26<@lilo>  <karat> Traceroute UCI.Edu -> Level3.com is fine around Tustin/LA (1ms), Denver/Broomfield.level3.net loops with high packetloss
+03:51:40<@marienz>  < My2Cents> Tornto, Canada (rogers and bell) landing and looping around 10  ge-10-1.core1.Chicago1.Level3.net (4.68.101.68)  52.915 ms in a traceroute
+03:51:47-!- yyn3k [i=yyn3k@85-64-229-121.barak-online.net] has left ##level3 []
+03:51:52<+[sorphin]>  lilo: XO trace to level3.com hangs after the above pasted location
+03:51:53-!- Hannah`` [i=blestifi@217.205.243.174] has joined ##level3
+03:51:57<+Jtkiefer>  verio must be having real router problems, they're getting incoming but no outgoing
+03:51:59<@lilo>  <My2Cents> Tornto, Canada (rogers and bell) landing and looping around 10  ge-10-1.core1.Chicago1.Level3.net (4.68.101.68)  52.915 ms in a traceroute.
+03:52:04-!- tomaw [n=tom@pdpc/supporter/active/tomaw] has joined ##level3
+03:52:04-!- cimon [n=cimon@wikipedia/Cimon-avaro] has joined ##Level3
+03:52:05<@lilo>  <oninoshiko> NOC tech at A-net in chicago says they are "shutting off L3 links for the night" (colo-cutomer)
+03:52:10<@lilo>  <ChrisWhite> Sacremento, CA level3 -> freenode active, 20ms
+03:52:14<@lilo>  <Pirogeth> Sprint to SanJose Level3 is up, but dropping packets
+03:52:15-!- pimaniac [n=dwightho@adsl-67-121-235-30.dsl.chic01.pacbell.net] has joined ##level3
+03:52:16<+MyQuiL>  that's a fairly normal path tho ( My2Cents )
+03:52:20-!- GhostGirl [i=blestifi@217.205.243.174] has quit [Read error: 104 (Connection reset by peer)]
+03:52:23<@lilo>  <~ruser> montreal   bell,  doesn't route throuhg level3
+03:52:29-!- CrypTom [n=CrypTom@proxy.gymkirchenfeld.ch] has joined ##level3
+03:52:29<+MyQuiL>  so it'd indicate normalacy might be occuring.
+03:52:29<+EfentharWireless>  losing traceroute to l3 here:: 17  * se3-0.public1.Broomfield1.Level3.net (209.245.16.18)  2279.259 ms !X  1759.955 ms !X
+03:52:31<+[sorphin]>  heh, A-NEt used to be here
+03:52:38<@lilo>  <alex_joni> lilo, cnn.com is not reachable from europe (hangs on atdn.net)
+03:52:43<@lilo>  <ChrisWhite> Seatle Washington level3 -> freenode is up, ~10ms
+03:52:47<+[sorphin]>  EfentharWireless: same place as me
+03:52:50<@lilo>  <AedinSF> on phone with cnn now
+03:52:51<+trelane>  lilo, the problem is with all these routers flapping most moderate size ISP's will have no choice but to shut off the l3 routes or overload their equipment
+03:53:06-!- Liesel [n=chatzill@envoppp104.envia-tel.de] has left ##level3 []
+03:53:07<@lilo>  <ChrisWhite> San Fransisco CA level3 -> freenode active ~20ms
+03:53:07<+Ral315>  I'm seeing a Level3 Lookingglass traceroute from Level3 Chicago to Freenode is stalling at wcg.net
+03:53:16-!- mode/##level3 [+v ChrisBradley] by lilo
+03:53:16<@marienz>   < colin_> Already mentioned this to Jtkiefer, but CNN Headline News in Atlanta, GA is at (404) 827-2600 if anyone wants to try calling them.
+03:53:22-!- mode/##level3 [+v ChrisWhite] by lilo
+03:53:25-!- batlogg [i=batlogg@unaffiliated/batlogg] has joined ##level3
+03:53:26<+numist>  new lookingGlass update coming soonish
+03:53:27<+ChrisBradley>  Hello
+03:53:32<+[sorphin]>  Ral315: that's proly wiltel depeering level3
+03:53:40<+[sorphin]>  or vise versa still
+03:53:43<+ChrisBradley>  jtkiefer - the no to CNN again - I have t-mobile minutes to spend
+03:53:46<+ChrisBradley>  :)
+03:53:50<+ChrisWhite>  Stockholm, Sweden Level3 -> freenode active ~180ms
+03:53:55<+Jtkiefer>  I have the wiki
+03:53:56-!- Nrg [n=a@CPE000625d6ba5a-CM014390040143.cpe.net.cable.rogers.com] has joined ##level3
+03:54:03<@lilo>  <~roadtripkk> 5  so0-1-2.chcgill3-rtr1.kc.rr.com (24.94.160.13)  23.875 ms  20.130 ms  19.370 ms      6  so-2-0-0-0.gar2.chicago1.level3.net (67.72.124.17)  20.011 ms 20.686 ms  17.660 ms
+03:54:06-!- dantekgeek [n=dan_luri@c-67-176-12-224.hsd1.co.comcast.net] has quit [Client Quit]
+03:54:07-!- otaku42 [n=otaku@madwifi/developer/otaku42] has quit [Read error: 104 (Connection reset by peer)]
+03:54:14<+Ral315>  [sorphin]:  Yeah...
+03:54:16<+ChrisWhite>  Amsterdam Level3 -> amazon.co.jp is down
+03:54:21<@marienz>  < rxvt> http://www.cnn.com/feedback/help/#3 << source
+03:54:25-!- mnagashree [n=mnagashr@202.144.95.244] has joined ##level3
+03:54:27<+[sorphin]>  fyi, from st louis, mo SBC to level3.com
+03:54:45<@lilo>  <jaygridley> AT&T is CableOne's upstream
+03:54:46<+[sorphin]>   !A at broomsfield
+03:54:46<+Jtkiefer>  SBC to level3 has been down the entire time right?
+03:54:51-!- andr3as [n=mirc@p54A5900F.dip0.t-ipconnect.de] has left ##Level3 []
+03:54:53-!- Nrg [n=a@CPE000625d6ba5a-CM014390040143.cpe.net.cable.rogers.com] has left ##level3 []
+03:54:53<+Jtkiefer>  any collateral damge on SBC?
+03:54:56<+[sorphin]>  Jtkiefer: it's !A now
+03:55:00<@lilo>  <Pirogeth> broomfield is looping
+03:55:05<@lilo>  <Rydekull> Luleå, Sweden(BBB through gblx) -> Denver/Broomsfield ok :)
+03:55:08<+EfentharWireless>  13  so-6-0.hsa1.Denver1.Level3.net (4.68.112.154)  232.138 ms  239.824 ms 4.68.113.54 (4.68.113.54)  240.129 ms
+03:55:09<+EfentharWireless>  14  se3-0.public1.Broomfield1.Level3.net (209.245.16.18)  241.882 ms  247.915 ms  248.169 ms
+03:55:09<+EfentharWireless>  15  se3-0.public1.Broomfield1.Level3.net (209.245.16.18)  239.898 ms !X * *
+03:55:09<+EfentharWireless>  16  se3-0.public1.Broomfield1.Level3.net (209.245.16.18)  234.584 ms !X *  234.159 ms !X
+03:55:11<@lilo>  hehe
+03:55:19-!- DrDT [i=D@S010600485481c93b.wp.shawcable.net] has quit [Client Quit]
+03:55:20<@lilo>  <jeronim`> links from all 3 wikimedia remote squid clusters (amsterdam, paris, seoul) to florida are working now
+03:55:23<+MyQuiL>  That's when someone's missing a null-route
+03:55:33<@lilo>  <Stormy> broom field wasn't looping for me
+03:55:34-!- Philwelch [n=pwelch@res240019.resnet.wsu.edu] has quit [Client Quit]
+03:55:37-!- Suriko_ [n=Suriko@220-253-100-21.TAS.netspace.net.au] has quit [Connection timed out]
+03:55:38<+Jtkiefer>  anyone want to write a wikinews article about this?
+03:55:38<@lilo>  <CondorDes> I can get to level3.com from SBC (San Luis Obispo, CA)
+03:55:41-!- Gma1 [i=G@CPE-24-26-168-120.mn.res.rr.com] has joined ##level3
+03:55:42<+ChrisWhite>  I have level3 lookingglass checking all the level3 sites -> amazon.co.jp
+03:55:45<@lilo>  <OnyxRaven> another link to the Level 3 Financial statement: http://www.onyxraven.com/L3/6478.html
+03:55:45-!- absolon [i=alfborge@panter.stud.ntnu.no] has joined ##level3
+03:55:50<+Ral315>  Level3 Detroit to Freenode seems to be completely down.
+03:55:53<@lilo>  <Stormy> it just started
+03:55:55<+numist>  wiki updated with new LookingGlass: http://numist.net/index.php?title=Level3
+03:55:59-!- DerekS [n=dereks@24-54-151-205.pittpa.adelphia.net] has joined ##level3
+03:56:03<@UdontKnow>  (1129881347 05:55) < *Pirogeth> Chicago Cogent => Level3 is down
+03:56:03<+Jtkiefer>  we have multiple reports of level3 looping packets
+03:56:06<+numist>  even better: http://numist.net/index.php/Level3
+03:56:17<@lilo>  <Pirogeth> Chicago Cogent => Level3 is down
+03:56:22<@lilo>  <AedinSF> CNN says they are not gonna have anything on the news about it til at least 5am
+03:56:24-!- Methynutnut [n=Tommy_K@202-59-100-27.dyn.iinet.net.au] has quit [Read error: 104 (Connection reset by peer)]
+03:56:37-!- omghi2u [n=herro~@c-24-7-147-39.hsd1.ca.comcast.net] has joined ##level3
+03:56:42-!- tecks [n=smIRCle@cs213-10.fsmodem.washington.edu] has joined ##Level3
+03:56:43<+Jtkiefer>  lilo, I've posted on #wikipedia that any ISP employee online should immediately contact you or another op on this channel
+03:56:44<@UdontKnow>  numist: omg, cant get to numist.net :P
+03:56:46<@lilo>  Fri Oct 21 07:56:47 fST 2005
+03:56:48<+Jtkiefer>  hopefully we'll get lucky
+03:56:51<@lilo>  (also UTC 8)
+03:56:54<+ChrisWhite>  the east coast level3 links can't access amazon.co.jp so far
+03:56:58<+[sorphin]>  XO => Cogent
+03:56:58<+numist>  UdontKnow: :(
+03:56:59<+[sorphin]>  nice and happy
+03:57:06-!- twist [i=twist@tech.crystone.se] has joined ##level3
+03:57:07<@lilo>  Jtkiefer: thanks
+03:57:13-!- DracheK [n=DracheK@cpe-70-112-4-157.austin.res.rr.com] has quit [Client Quit]
+03:57:14-!- toothpaste [n=yaybiscu@65.244.171.35] has joined ##Level3
+03:57:18<+numist>  UdontKnow: you can also get it at http://athena.numist.net/~djcapelis/lookingglass.txt
+03:57:22<+ChrisWhite>  in fact nothing so far in level3 can access amazon.co.jp :|
+03:57:25<@marienz>  < godsmoke> called cnn -- they had their tech guy "check it out" -- "there's nothing wrong with the net here, can't be too major" he said
+03:57:39<+numist>  godsmoke: wow, they are idiots
+03:57:43<@lilo>  <godsmoke> called cnn -- they had their tech guy "check it out" -- "there's nothing wrong with the net here, can't be too major" he said
+03:57:49<@marienz>  < godsmoke> and they hung up < godsmoke> thanks cnn
+03:57:51<@lilo>  <godsmoke> and they hung up
+03:57:53<+ChrisWhite>  someone call bbc then ;)
+03:58:00 * MyQuiL puts a battery back in his pager. This canuck is going to bed. ServerNorth@Gmail.com if you want to talk some other time.
+03:58:02-!- COGENTOWNSU0 [n=COGENTOW@serifos.eecs.harvard.edu] has joined ##level3
+03:58:03<+[sorphin]>  didn't you know
+03:58:04-!- lothos [n=lothos@c-24-118-191-200.hsd1.mn.comcast.net] has joined ##level3
+03:58:06<@marienz>   < felipe> at this point most traceroutes mean very little, but changes in global routing table people are seeing would be great to hear about. anybody that can report at all?
+03:58:06-!- shenion [n=shenion@user-1121i2r.dsl.mindspring.com] has quit [Read error: 113 (No route to host)]
+03:58:07-!- RichardP [i=richard@pdpc/supporter/sustaining/RichardP] has joined ##level3
+03:58:10-!- findlay [n=justin@63.98.126.43] has quit [Client Quit]
+03:58:11-!- ShayneX [n=chatzill@guild.murdoch.edu.au] has joined ##level3
+03:58:11-!- COGENTOWNSU1 [n=COGENTOW@serifos.eecs.harvard.edu] has joined ##level3
+03:58:13<+[sorphin]>  CNN = Crappy Noise Network
+03:58:21-!- COGENTOWNSU2 [n=COGENTOW@serifos.eecs.harvard.edu] has joined ##level3
+03:58:24-!- COGENTOWNSU0 [n=COGENTOW@serifos.eecs.harvard.edu] has quit [Killed by Idoru. (Sorry, tor connections to freenode are temporarily blocked due to abuse.)]
+03:58:29<+Jtkiefer>  marienz, global routing table is a mess right now I think
+03:58:30-!- Sevalecan [i=Sevaleca@allegro/user/Sevalecan] has left ##level3 []
+03:58:30<+ChrisBradley>  On the phone with turner comm
+03:58:31-!- COGENTOWNSU3 [n=COGENTOW@serifos.eecs.harvard.edu] has joined ##level3
+03:58:41-!- COGENTOWNSU4 [n=COGENTOW@serifos.eecs.harvard.edu] has joined ##level3
+03:58:45-!- ales [n=chatzill@intra.finos.cz] has quit [Client Quit]
+03:58:49<+Jtkiefer>  Chris, you use one of the phone numbers from google?
+03:58:54-!- mode/##level3 [+b COGENTOWNSU*!*@*] by UdontKnow
+03:58:54<+ChrisWhite>  Yes
+03:58:54<@lilo>  GNAA are still blocking Tor here
+03:58:58<@lilo>  love those guys
+03:58:59-!- COGENTOWNSU4 [n=COGENTOW@serifos.eecs.harvard.edu] has quit [Remote closed the connection]
+03:58:59-!- COGENTOWNSU3 [n=COGENTOW@serifos.eecs.harvard.edu] has quit [Remote closed the connection]
+03:58:59-!- COGENTOWNSU1 [n=COGENTOW@serifos.eecs.harvard.edu] has quit [Remote closed the connection]
+03:58:59-!- COGENTOWNSU2 [n=COGENTOW@serifos.eecs.harvard.edu] has quit [Remote closed the connection]
+03:59:08<+ChrisWhite>  Jtkiefer: one leads to a reservation for studio tours, the other rings nonstop
+03:59:14-!- mitzpettel [n=mitz@85-65-37-22.barak-online.net] has joined ##level3
+03:59:24-!- LEVEL3NIGGERS0 [n=LEVEL3NI@serifos.eecs.harvard.edu] has joined ##level3
+03:59:27<@marienz>  < JPV> the table seems stable if you're not directly on L3
+03:59:31<+[sorphin]>  uhh
+03:59:33-!- LEVEL3NIGGERS1 [n=LEVEL3NI@serifos.eecs.harvard.edu] has joined ##level3
+03:59:37<+[sorphin]>  someone please ban that moron
+03:59:41-!- ne [n=nemo@82.193.157.70] has joined ##level3
+03:59:43-!- LEVEL3NIGGERS2 [n=LEVEL3NI@serifos.eecs.harvard.edu] has joined ##level3
+03:59:46 * [sorphin] prods lilo
+03:59:52-!- mode/##level3 [+b *!*@serifos.eecs.harvard.edu] by UdontKnow
+03:59:57-!- mode/##level3 [+b LEVEL3NIGGERS*!*@*] by marienz
+03:59:57<+numist>  UdontKnow++
+04:00:03-!- LEVEL3NIGGERS2 [n=LEVEL3NI@serifos.eecs.harvard.edu] has quit [Killed by UdontKnow ()]
+04:00:04-!- LEVEL3NIGGERS0 [n=LEVEL3NI@serifos.eecs.harvard.edu] has quit [Remote closed the connection]
+04:00:04-!- LEVEL3NIGGERS1 [n=LEVEL3NI@serifos.eecs.harvard.edu] has quit [Remote closed the connection]
+04:00:07<+[sorphin]>  UdontKnow: ++
+04:00:12<+EfentharWireless>  bloody GNAA
+04:00:12<+WildPikachu>  UdontKnow *= UdontKnow
+04:00:16<+WildPikachu>  heh
+04:00:16-!- tarawneh [i=tarawneh@Iac5e.i.pppool.de] has left ##Level3 []
+04:00:20-!- Arne591 [n=Snak@p54A3CFA3.dip.t-dialin.net] has joined ##Level3
+04:00:21-!- Hannah`` [i=blestifi@217.205.243.174] has quit [Read error: 104 (Connection reset by peer)]
+04:00:24-!- mode/##level3 [+v JPV] by marienz
+04:00:24-!- GhostGirl [i=blestifi@217.205.243.174] has joined ##level3
+04:00:24<+numist>  the gnaa are in harvard?   how sad
+04:00:31<@UdontKnow>  numist: tor exit node
+04:00:32<+numist>  I guess every rose has its thorns
+04:00:36<+numist>  ah
+04:00:38<@marienz>  alex_joni: I know
+04:00:41<@UdontKnow>  (1129881631 06:00) < *NightMonkey> New LookingGlass for 64.36.4.146 (UUnet/Alternet) -> ALL SITES: http://pastebin.ca/26147
+04:00:43<+[sorphin]>  something like that
+04:00:44<+Ral315>  Comments@foxnews.com - May perhaps work.
+04:00:50<@marienz>  alex_joni: can't beat UdontKnow :)
+04:00:53-!- caf [n=caf@the-doors.enix.org] has joined ##level3
+04:00:57-!- torc [n=torc@rsbac/documentation/torc] has left ##level3 []
+04:01:00<+ChrisWhite>  http://pastebin.com/400697 <-- alright, that's the entire level3 -> freenode.net status right there
+04:01:00-!- mitzpettel [n=mitz@85-65-37-22.barak-online.net] has left ##Level3 []
+04:01:05<+numist>  NightMonkey: if you get an all sites lookingglass, feel free to update the wiki I've linked
+04:01:14-!- ch-b [n=chb@unixboard/mod/ch-b] has joined ##level3
+04:01:15-!- vildaknaen [n=vildakna@h77n9c1o994.bredband.skanova.com] has quit [Client Quit]
+04:01:27<+[sorphin]>  ok
+04:01:32-!- Gav [n=gav@irc.narx.net] has joined ##level3
+04:01:36<+[sorphin]>  this XO Communications monkey has to sleep
+04:01:40<+ChrisBradley>  They said they would get their data from Reuters or AP and call me back if it was "newsworthy"
+04:01:40<+delphine>  back on our end
+04:01:46<+JPV>  L3 SFI still seems to work, cause they're also still propagating their AS701 stuff
+04:01:48<@UdontKnow>  [sorphin]: have a good one
+04:01:49<+[sorphin]>  other than Level3 issues
+04:01:50<+numist>  ChrisBradley: what a bunch of wankers
+04:01:51<+[sorphin]>  we're clean
+04:01:52<@lilo>  have a nice asleep morning [sorphin] :)
+04:01:53<+delphine>  wp sites are up again
+04:02:04<@lilo>  thanks delphine 
+04:02:08<@lilo>  wikipedia sites all up
+04:02:15<@marienz>  [sorphin]: thanks for the updates
+04:02:18<+Jtkiefer>  lookingglass is really laggy for me
+04:02:18-!- nungana [n=marco@epiar/founder/nungana] has left ##level3 []
+04:02:25<+Jtkiefer>  they're being accidentally DDOSed
+04:02:27<+numist>  yes it is
+04:02:27-!- barzi [n=barzi@7.233.77.83.cust.bluewin.ch] has joined ##level3
+04:02:29<+[sorphin]>  XO is clean to cogent, AT&T, sprint, teleglobe, wcg, and a couple others
+04:02:31-!- hcsteve [n=steve@ool-4355b083.dyn.optonline.net] has joined ##level3
+04:02:42<+numist>  Jtkiefer: wiki just got updated within the last few minutes
+04:02:43<+EfentharWireless>  Im trying to get someone to contact TVNZ for me
+04:02:47<+[sorphin]>  and level3 is gonna get sued so bad :)
+04:02:52<+[sorphin]>  night all
+04:03:01-!- [sorphin] [n=dstagner@206.173.117.34.ptr.us.xo.net] has quit ["[sorphin] has no reason"]
+04:03:03-!- asr__ [i=asr@pimpbox.latency.net] has joined ##level3
+04:03:03-!- Spacey_ [n=matt@nd-nat.datapipe.net] has joined ##level3
+04:03:07-!- Mike_H [n=jhalterm@234dhcp115.resnet.usf.edu] has left ##level3 []
+04:03:10-!- lilo changed the topic of ##level3 to: Hi all. Tracking the level3 problems. Deliberate depeers? Level3 software upgrade problems? It's hard to tell. || Intermittent: http://scoreboard.keynote.com/scoreboard/Main.aspx?Login=Y&Username=public&Password=public  | Msg an Op or a voiced user if you have information regarding the problems | we're running with opmoderate. talk on channel but ONLY ops will see it || http://www.level3.com/LookingGlass/ || For up to date info: http://www.merit.
+04:03:27<+numist>  lilo: broken topic..  too long?
+04:03:33-!- evilmeow [n=akamai@line21-134.adsl.actcom.net.il] has joined ##level3
+04:03:34<@lilo>  yup
+04:03:36-!- pruy [n=pruy@node-9.acrys.com] has joined ##level3
+04:03:39<+numist>  :)
+04:03:55-!- lilo changed the topic of ##level3 to: Hi all. Tracking the level3 problems. Deliberate depeers? Level3 software upgrade problems? It's hard to tell. || Msg an Op or a voiced user if you have information regarding the problems | we're running with opmoderate. talk on channel but ONLY ops will see it || http://www.level3.com/LookingGlass/ || For up to date info: http://www.merit.edu/mail.archives/nanog/
+04:03:56-!- tyler [i=tyler@ip70-162-73-110.ph.ph.cox.net] has joined ##Level3
+04:03:59-!- mode/##level3 [+v twisted] by lilo
+04:03:59-!- shagrat [i=bigb@80.247.212.3] has left ##Level3 []
+04:04:04<@lilo>  twisted: please repeat?
+04:04:05-!- warp9pnt9 [n=warp9pnt@pool-151-204-240-252.bos.east.verizon.net] has joined ##level3
+04:04:09<+twisted>  level3's OCSC SL Reports show 5 9's
+04:04:12<+twisted>  roflmao
+04:04:14<+ChrisWhite>  I'm on the phone with associated press
+04:04:29<+ChrisWhite>  "mine internet is just fine ;p"
+04:04:40-!- AdamHauner [n=AdamHaun@io.in.softeu.cz] has quit [Client Quit]
+04:04:40-!- ca97 [i=UNKNOWN@c-67-180-32-90.hsd1.ca.comcast.net] has quit [Connection timed out]
+04:04:40<@lilo>  1129881862  [cimon(n=cimon@wikipedia/Cimon-avaro )] btw, personally I can't even get google.
+04:04:46<+numist>  ChrisWhite: show them lookingglass :P
+04:04:50-!- nman64 [n=nman64@ppp-70-247-216-198.dsl.amrltx.swbell.net] has left ##level3 []
+04:05:01-!- nman64_away [n=nman64@ppp-70-247-216-198.dsl.amrltx.swbell.net] has joined ##level3
+04:05:03-!- michel_v [n=tofu@unaffiliated/michelv/x-000000001] has joined ##level3
+04:05:05-!- ne [n=nemo@82.193.157.70] has left ##level3 []
+04:05:10-!- ViceCorp [n=vicecorp@24-180-7-103.dhcp.snlo.ca.charter.com] has left ##level3 []
+04:05:12<@marienz>  it seems freenode is a better source of information right now than any news network :)
+04:05:14<+numist>  and I intended to sleep tonight...  hah
+04:05:21<@lilo>  <wildcard0> ChrisWhite, what are you telling them?  that the net is having a huge problem?  or that there's a conspiracy of a major isp to extort money?
+04:05:25-!- redson [n=red@24-205-232-230.dhcp.snlo.ca.charter.com] has joined ##level3
+04:05:27<@lilo>  wildcard0: the problem is, nobody knows
+04:05:33-!- KevinMarks [n=Snak@pdpc/supporter/active/kevinmarks] has joined ##level3
+04:05:37<@marienz>  < Tm_T> or show their disconnected msn messenger, seems to bother many people out there
+04:05:40<+Jtkiefer>  lookingglass lookup from amsterdam is stopping at SBC
+04:05:46-!- Gertrude [n=gert@chickenbones.bflony.adelphia.net] has joined ##level3
+04:05:50-!- dankine [i=dan0984@82-43-113-14.cable.ubr01.mort.blueyonder.co.uk] has joined ##level3
+04:05:52<@marienz>  < felipe> anybody else at a noc or has access to a (full) bgp feed?
+04:05:52<+numist>  ChrisWhite: use small words that are easy to digest..   these are newspeople, after all
+04:06:10-!- xemoka [n=xemoka@S0106000795cb81de.gv.shawcable.net] has left ##level3 []
+04:06:12<+numist>  felipe: http://numist.net/index.php/Level3 has the latest full LookingGlass output
+04:06:13<@marienz>  http://www.boingboing.net/2005/10/21/two_tierone_isps_are.html
+04:06:18<+JPV>  marienz: I have a full feed through my NREN
+04:06:23-!- zetawoof [n=zetawoof@yarf.ST.HMC.Edu] has joined ##level3
+04:06:33<@lilo>  <justdave> http://www.boingboing.net/2005/10/21/two_tierone_isps_are.html
+04:06:34<@marienz>  (above link reported by justdave and wmandra)
+04:06:35-!- Gma1 [i=G@CPE-24-26-168-120.mn.res.rr.com] has left ##level3 []
+04:06:45<@lilo>  ah, sorry
+04:06:47-!- Lemonzest [n=Lemonzes@cpc1-nott4-3-0-cust147.nott.cable.ntl.com] has left ##level3 []
+04:07:05<@lilo>  <NightMonkey> LookingGlass summary - Down for Level3 routers -> 64.36.4.146 (San Francisco UUNET/ALTERNET): FIX-West NAP San Jose, New York, NY, Baltimore, MD, Dallas, http://www.boingboing.net/2005/10/21/two_tierone_isps_are.html
+04:07:08<@lilo>  oops
+04:07:12-!- erin [n=gwengiva@Toronto-HSE-ppp3755700.sympatico.ca] has joined ##level3
+04:07:12<@marienz>  < justdave> http://digg.com/technology/Level3_has_fallen_over_-_major_internet_outage_
+04:07:14-!- clavo [i=clavo@216.99.215.78] has joined ##level3
+04:07:18-!- Kilai [n=ksui@193.227.174.144] has joined ##level3
+04:07:23<@lilo>  ending was: TX, Orlando, FL, Pheonix, AZ, Washington, DC, Zurich, Switzerland
+04:07:29-!- Theo [i=theo@wikipedia/theo] has quit [Client Quit]
+04:07:34-!- toothpaste [n=yaybiscu@65.244.171.35] has left ##Level3 []
+04:07:34<+MyQuiL>  http://www.dummocrats.com/archives/001174.php <-- only hit on google news
+04:07:35<@lilo>  I'm about ready to get some sleep 8)
+04:07:47<+numist>  <DJCapelis> new lookup is down to N
+04:07:48<+Jtkiefer>  http://blog.ryandubois.net/archives/2005/10/21/level3-fails-upgrade/
+04:07:56<@lilo>  thanks Jtkiefer 
+04:08:08<+Jtkiefer>  everyone believes it was deliberate
+04:08:09<@lilo>  it is really unclear which theory is correct
+04:08:22<@lilo>  <NightMonkey> lilo: Yeah, get some sleep. The Internet will still be there when.... well. Get some sleep.
+04:08:24<+Jtkiefer>  how are the CA links?
+04:08:25-!- common [n=fries@port-212-202-25-81.dynamic.qsc.de] has joined ##level3
+04:08:26<@lilo>  NightMonkey: right :)
+04:08:37<+ChrisWhite>  wohoo, got through
+04:08:38<@lilo>  <CompHobbyist> uhm... I'm seeing a strange number in the inethealthreport, XO to level3 is listing as 111% availability. (right side of the table)
+04:08:40-!- _[iceman] [i=iceman@12-223-232-204.client.insightbb.com] has left ##level3 []
+04:08:45<+ChrisWhite>  Associated press is looking into it
+04:08:50<+ChrisBradley>  Excellent
+04:08:55<@lilo>  again, folks, there are two theories, of equal weight
+04:09:08-!- M [n=DD@218.2.150.163] has quit [Client Quit]
+04:09:09-!- nothingness [n=nothing@85-218-2-249.dclient.lsne.ch] has joined ##level3
+04:09:23<+Jtkiefer>  here's time delay BGP feed
+04:09:23<+Jtkiefer>  http://numist.net/index.php/Level3
+04:09:23<@marienz>  < alpharuin> http://www.digg.com/technology/Did_you_notice_the_laggy_Internet_
+04:09:25<@lilo>  one theory is that level3, trying to get $30,000 fees from other peers, is depeering them because they're not paying
+04:09:25-!- ewhitehill [n=ewhitehi@fw-eth0.fgo.clue-by-four.net] has left ##level3 []
+04:09:34<@lilo>  and there's supporting data in the form of their recent financials
+04:09:47-!- Kilai [n=ksui@193.227.174.144] has left ##level3 []
+04:09:51<@marienz>   < adam__>  http://blogs.on.nimp.org/archives/2005/10/21/level3-and-verio-down/
+04:09:55<+Jtkiefer>  lilo, what's the theory that isn't them intentionally depeering
+04:09:57<@lilo>  the other theory is that level3 tried a large-scale software upgrade this morning and it fell down
+04:09:58<@UdontKnow>  lilo: others say its an upgrade
+04:10:03<@marienz>  not only freenode, but also bloggers seem to be faster than news networks
+04:10:04<+Ral315>  Has anyone tried contacting Reuters?
+04:10:07<+Jtkiefer>  lilo, oh that theory
+04:10:08 * lilo nods
+04:10:10<+ChrisBradley>  lilo may I copy theories to #wikinews? 
+04:10:13-!- _jchaoul [n=ksui@193.227.174.144] has joined ##level3
+04:10:17-!- Eve [n=Aire@unaffiliated/eve] has joined ##level3
+04:10:22<@marienz>  < colin_> If this makes it to the news, I expect someone to record it ;)
+04:10:22<+ChrisWhite>  the associated press guy started to believe me when he couldn't access the keynote scoreboard :P
+04:10:23-!- nprice [i=nick@ppp-70-251-68-9.dsl.rcsntx.swbell.net] has joined ##level3
+04:10:24<+numist>  Ral315: yes
+04:10:25<@lilo>  ChrisBradley: sure, though you'll have to check your lastlog for url's
+04:10:34<+numist>  ChrisWhite: bout time, eh?
+04:10:37<+ChrisWhite>  I'm like "yah, that's because of the routing issues ;p"
+04:10:44<@marienz>  I was just told I pasted a gnaa link, don't follow anything
+04:10:49-!- kiDDos [i=mine@c-24-10-31-72.hsd1.ca.comcast.net] has quit [Client Quit]
+04:10:52-!- DerekS [n=dereks@24-54-151-205.pittpa.adelphia.net] has left ##level3 []
+04:11:00<@lilo>  folks, check your links before pasting them
+04:11:03<+numist>  <Aaron> tell the news orgs that the internet is down, and it's Bush's fault.. they'll jump all over it
+04:11:03-!- Jayinwww` [n=Snake@69.158.57.8] has joined ##level3
+04:11:11<@marienz>  ok, do not follow http://blogs.on.nimp.org/archives/2005/10/21/level3-and-verio-down/
+04:11:15<+ChrisWhite>  ha
+04:11:17<+Jtkiefer>  Chris, point them here if you want
+04:11:19-!- tsr2600 [n=Gordon@c-67-160-65-52.hsd1.wa.comcast.net] has joined ##level3
+04:11:21<@lilo>  marienz: who did you get the link from?
+04:11:23<@marienz>  gah, sorry people :(
+04:11:27<@marienz>  adam__
+04:11:27<+twisted>  After calling Level3 : "We have isolated the problem and are about 60% operational now.  We do not have an ETR, but we should be back at 100% within the next 3 hours"
+04:11:33-!- jayinwww [n=Snake@69.158.57.8] has joined ##level3
+04:11:44<+twisted>  and on that note, i think it's time for sleep.
+04:11:48-!- abortion [i=adam@fetus.eater.org] has joined ##level3
+04:11:50-!- adam__ [i=adam@luna.tk] has quit [K-lined]
+04:11:50<+WildPikachu>  marienz, u just killed my browser darn it ... heh
+04:11:50<@marienz>  my bad folks, didn't check that one before pasting
+04:11:51<+ChrisWhite>  Jtkiefer: a little late, call is already over
+04:11:54-!- boegel [n=kehoste@boegel.elis.UGent.be] has quit [Remote closed the connection]
+04:11:54<+Jtkiefer>  well even if they fix the problem they're going to be cut off, nobody's going to restore links to them
+04:12:01-!- silverfire [n=silverfi@d187-231-webster-1.ucdavis.edu] has quit [Client Quit]
+04:12:09<+twisted>  Jtkiefer, true
+04:12:09-!- roadtripkk [n=kk@CPE-70-92-180-137.mn.res.rr.com] has left ##level3 []
+04:12:14<+Jtkiefer>  other providers would be crazy to relink with them
+04:12:19-!- ne [n=nemo@82.193.157.70] has joined ##level3
+04:12:22<@lilo>  it is certainly true that, no matter which theory is true about level3, they are doing themselves no service through these outages
+04:12:24<+ChrisWhite>  Jtkiefer: but what was the link just in case
+04:12:29-!- hcsteve [n=steve@ool-4355b083.dyn.optonline.net] has quit [Client Quit]
+04:12:29<@UdontKnow>  Eve: it was a mistake
+04:12:40-!- jayinwww [n=Snake@69.158.57.8] has quit [Read error: 104 (Connection reset by peer)]
+04:12:40-!- Jayinwww` [n=Snake@69.158.57.8] has quit [Read error: 104 (Connection reset by peer)]
+04:12:46<@UdontKnow>  Eve: you are not seeing the flood we are seeing 
+04:12:49<@marienz>  everyone: someone in here pasted that link. Since other people were pasting useful blog links, I mistakenly pasted this one without checking the contents.
+04:12:51-!- batlogg [i=batlogg@plone/batlogg] has left ##level3 []
+04:13:02<@UdontKnow>  Eve: too many people talking, but you cant see it
+04:13:06<+Jtkiefer>  chriswhite, what link? I was just saying if you were still on the phone you could have pointed them to this channel
+04:13:16<@UdontKnow>  MonMotha: no
+04:13:21-!- r4ph [i=acidmax@c-24-10-31-72.hsd1.ca.comcast.net] has joined ##level3
+04:13:21<@marienz>  I couldn't think of a way to tell people what link I just pasted not to follow without re-pasting the link. I'm really sorry, I'll check every link from now on.
+04:13:23<+numist>  new LookingGlass uploaded: http://numist.net/index.php/Level3
+04:13:33<@UdontKnow>  MonMotha: we're _trying_ to filter it
+04:13:35-!- liquidk [i=liquidk@dhcp206-59-235-44.oakmv.sjc.wayport.net] has joined ##level3
+04:13:36-!- boegel [n=kehoste@boegel.elis.UGent.be] has joined ##level3
+04:13:42<@UdontKnow>  MonMotha: but sometime we may fail
+04:13:44<+ChrisWhite>  entire US Level3 -> amazon.co.jp is down
+04:13:48<@UdontKnow>  xbmodder_lappy: it is there
+04:13:59-!- hesh [n=heshame@c-67-180-67-54.hsd1.ca.comcast.net] has joined ##level3
+04:14:15-!- reisio [n=reisio@gentoo/user/reisio] has quit [Read error: 104 (Connection reset by peer)]
+04:14:17-!- DIESL0W [n=dgsa@70-59-226-168.phnx.qwest.net] has joined ##level3
+04:14:25-!- RichiH [i=richih@freenode/staff/richih] has joined ##level3
+04:14:40<@lilo>  again, that adam__ url was bad, don't follow it
+04:14:40-!- reisio [n=reisio@gentoo/user/reisio] has joined ##level3
+04:15:01<@marienz>  if you did follow it, blame me for pasting without checking contents.
+04:15:30<+ChrisBradley>  theories and links posted to Wikinews by ChrisBradley and wildcard
+04:15:49<+EfentharWireless>  ChrisBradley, throw us a link willya
+04:16:11-!- putin [n=jj@ool-4355c532.dyn.optonline.net] has joined ##level3
+04:16:14-!- imajes [n=imajes@growl/imajes] has joined ##level3
+04:16:55-!- mode/##level3 [+v cimon] by lilo
+04:16:55-!- Xiwok_ [n=xiwok@unaffiliated/xiwok] has quit [Client Quit]
+04:17:02<+ChrisBradley>  Right now its just in #wikinews
+04:17:02-!- Xiwok [n=xiwok@unaffiliated/xiwok] has joined ##level3
+04:17:03-!- Jayinwww` [n=Snake@69.158.57.8] has joined ##level3
+04:17:07<@lilo>  okay, folks, again, let's read our urls before we paste them
+04:17:12-!- vmagnin [i=vmagnin@weather.unil.ch] has joined ##level3
+04:17:20-!- scalar [n=a@adsl-69-151-105-151.dsl.hstntx.swbell.net] has left ##level3 []
+04:17:20<+numist>  only url's Im pasting are from *.numist.net :P
+04:17:28-!- wqer346546 [n=we565659@pcp0011510558pcs.grey01.tn.comcast.net] has left ##level3 []
+04:17:29-!- DoDaT69 [n=ummmm_no@ns02.digitalsonhosting.com] has quit [Client Quit]
+04:17:32<@lilo>  http://blog.ryandubois.net/archives/2005/10/21/level3-fails-upgrade/
+04:17:33-!- clavo [i=clavo@216.99.215.78] has quit [Client Quit]
+04:17:34-!- Fear_cult [i=Fear_cul@ACC3B25F.ipt.aol.com] has quit [Client Quit]
+04:17:54<+Ral315>  Still nothing big from Google News.
+04:17:58-!- ricky_clarkson2 [n=root@unaffiliated/rickyclarkson/x-000000001] has quit [Read error: 110 (Connection timed out)]
+04:18:11-!- Warlord96 [i=Warlord1@pool-70-18-117-208.buff.east.verizon.net] has quit [Client Quit]
+04:18:24<+EfentharWireless>  Local Media here dont know yet, can't get anyone to call them
+04:18:39<@lilo>  again, folks, apologies for that one GNAA link that did slip through
+04:18:44-!- tecks [n=smIRCle@cs213-10.fsmodem.washington.edu] has left ##Level3 []
+04:18:57<@UdontKnow>  lilo: does wallchops work?
+04:18:59<+ChrisBradley>  http://biz.yahoo.com/bizj/051020/1180479.html?.v=2
+04:19:04<@lilo>  UdontKnow: not sure
+04:19:05<+numist>  EfentharWireless: once it hits the newswire, everyone will have it
+04:19:15<+EfentharWireless>  numist, yea, we usually have it first
+04:19:15<@UdontKnow>  lilo: got mine from a minute ago?
+04:19:32<+Ral315>  ChrisBradley:  I was about to mention that, yeah.  Level3's 3rd Quarter losses grew by a large margin.
+04:19:33<@lilo>  UdontKnow: I didn't see it but I'm pretty tired 8)
+04:19:35-!- GhostGirl [i=blestifi@217.205.243.174] has quit [Client Quit]
+04:19:36 * marienz apologizes to zxsykco 
+04:19:38-!- danielle_ [n=ksui@194.126.9.138] has joined ##level3
+04:19:43-!- timecop [i=timecop@AnimeNfo.com] has left ##level3 []
+04:19:46-!- zetawoof [n=zetawoof@yarf.ST.HMC.Edu] has left ##level3 []
+04:19:46<+EfentharWireless>  oof... TVNZ's site just crashed
+04:19:47-!- Wilki [n=Metallic@203-57-210-60.dyn.iinet.net.au] has quit [Connection timed out]
+04:19:48-!- danielle_ [n=ksui@194.126.9.138] has left ##level3 []
+04:19:48-!- TIMECOP [i=timecop@AnimeNfo.com] has joined ##level3
+04:19:52-!- xmux [n=xmux@s142-179-181-190.ab.hsia.telus.net] has quit [Connection timed out]
+04:19:58-!- kerx [n=suedoh@ladt.broadspire.com] has quit [Client Quit]
+04:20:01-!- supers [i=supers@AnimeNfo.com] has quit [K-lined]
+04:20:01-!- TIMECOP [i=timecop@AnimeNfo.com] has quit [K-lined]
+04:20:02-!- Dethread [n=Dethread@24-205-238-53.dhcp.snlo.ca.charter.com] has joined ##level3
+04:20:07-!- jme___ [n=jerome@138.43.102-84.rev.gaoland.net] has left ##level3 []
+04:20:11-!- jchaoul- [n=ksui@194.126.9.138] has joined ##level3
+04:20:43-!- Marcel-AS16215 [i=Marcel-A@gic-msg-exc-01.genotec.ch] has joined ##level3
+04:20:43-!- deblin [i=ummagumm@spoon.matrixdecoded.net] has left ##level3 []
+04:20:44-!- Jayinwww` [n=Snake@69.158.57.8] has quit [Read error: 104 (Connection reset by peer)]
+04:20:56-!- nprice [i=nick@ppp-70-251-68-9.dsl.rcsntx.swbell.net] has left ##level3 []
+04:21:04-!- redson [n=red@24-205-232-230.dhcp.snlo.ca.charter.com] has quit [Client Quit]
+04:21:05-!- NPRICE [i=nick@ppp-70-251-68-9.dsl.rcsntx.swbell.net] has joined ##level3
+04:21:17-!- xmux [n=xmux@s142-179-181-190.ab.hsia.telus.net] has joined ##level3
+04:21:19-!- mitsuhiko^school [n=chatzill@iserver.borg-hermagor.asn-ktn.ac.at] has joined ##level3
+04:21:23-!- jesse_133 [n=jdandr2@12-203-239-69.client.insightBB.com] has quit [Client Quit]
+04:21:28-!- Revvar [n=Revvar@p54BD2F5E.dip0.t-ipconnect.de] has quit [Client Quit]
+04:21:41<+Jtkiefer>  has freenode de-split?
+04:21:48-!- mode/##level3 [+v Celestar] by RichiH
+04:21:48<+EfentharWireless>  yup
+04:21:48-!- Ludek [n=Ludek@tz226.internetdsl.tpnet.pl] has left ##level3 []
+04:22:13<+Jtkiefer>  that's good
+04:22:15< RichiH>  does anyone actually know a reason for what is happening?
+04:22:16-!- JimH [n=jim@82-70-53-254.dsl.in-addr.zen.co.uk] has joined ##level3
+04:22:22<@UdontKnow>  jchaoul-: yeah, we're running the whole net for quite some time now
+04:22:22<@lilo>  Jtkiefer: we got everything back around 4:20 or 4:35 as far as I can tell
+04:22:22<+Jtkiefer>  RichiH, no
+04:22:25-!- Irssi: ##level3: Total of 462 nicks [4 ops, 0 halfops, 15 voices, 443 normal]
+04:22:31<@marienz>  if someone has a summary blog or other page we could put in /topic for people just joining that would be appreciated.
+04:22:35<+cimon>  Is this as big as the Morris Worm, or bigger?
+04:22:43<+Jtkiefer>  lilo, UTC?
+04:22:47<@lilo>  Jtkiefer: yes
+04:23:01<+numist>  cimon: Id say this is bigger..  this is an entire backbone dying
+04:23:07<+Jtkiefer>  numist, yeah
+04:23:08<@UdontKnow>  jchaoul-: freenode staff
+04:23:10-!- betachris [n=ch@port-212-202-3-190.dynamic.qsc.de] has joined ##level3
+04:23:16-!- clone42 [i=11960-id@relay.nipper.de] has joined ##level3
+04:23:20 * numist peers at UdontKnow 
+04:23:23<@UdontKnow>  jchaoul-: this was for Jtkiefer 
+04:23:30<@UdontKnow>  jchaoul-: sorry
+04:23:53-!- JT_AS12350 [n=JT_AS123@pul-lav-fw-co-01.vtxnet.net] has joined ##level3
+04:23:54-!- thinko [i=thinko@smaug.rackdragon.com] has joined ##level3
+04:24:00-!- nprice_ [n=nick@tehmatix.net] has joined ##level3
+04:24:05<+numist>  ignore this message
+04:24:06-!- Hentai^XP [n=Administ@202.128.26.57.cmts1.guam.net] has quit [Read error: 104 (Connection reset by peer)]
+04:24:15-!- qwerty_ [i=qwerty@unaffiliated/qwerty] has quit [Client Quit]
+04:24:20<@marienz>  < red0x> marienz: you can post my linke if you want < red0x> http://blog.ryandubois.net/archives/2005/10/21/level3-fails-upgrade/
+04:24:21-!- itcheg [i=itcheg@216.194.59.213] has quit [Client Quit]
+04:24:36-!- ProfessorOhki [n=professo@pcp008797pcs.sha-dia-pal.reshall.calpoly.edu] has joined ##level3
+04:24:41-!- syn-ack [i=Matt@ip68-228-38-121.tc.ph.cox.net] has left ##level3 []
+04:24:50<+ChrisWhite>  I just sent google news the news tip
+04:24:56-!- nprice_ [n=nick@tehmatix.net] has quit [Client Quit]
+04:24:57<@UdontKnow>  showertime... cya soon... 6:24am
+04:25:02-!- MarkJaquith [n=MarkJaqu@ip70-171-0-160.ga.at.cox.net] has left ##level3 []
+04:25:03<@marienz>  red0x: *nod*
+04:25:09-!- Tar_Zxf [n=bugged@065.100-113-64.ftth.swbr.surewest.net] has joined ##level3
+04:25:11<+ChrisWhite>  seems they don't have a phone number for that kind of thing :|
+04:25:18<+EfentharWireless>  I may be having a few routing issues of my own for a sec, just moving some things
+04:25:18-!- marienz changed the topic of ##level3 to: Hi all. Tracking the level3 problems. Deliberate depeers? Level3 software upgrade problems? It's hard to tell. || Msg an Op or a voiced user if you have information regarding the problems | we're running with opmoderate. talk on channel but ONLY ops will see it || http://www.level3.com/LookingGlass/ || For up to date info: http://www.merit.edu/mail.archives/nanog/ http://blog.ryandubois.net/archives/2005/10/21/level3-fails-upgrade/
+04:25:29 * ChrisWhite ponders contacting msn news >:P
+04:25:34-!- lothos [n=lothos@c-24-118-191-200.hsd1.mn.comcast.net] has quit [Client Quit]
+04:25:45-!- caf [n=caf@the-doors.enix.org] has left ##level3 []
+04:25:51 * ChrisBradley wishes he had more time for breakfast - waits for CNN to send him info or call
+04:25:53-!- ProfessorOhki [n=professo@pcp008797pcs.sha-dia-pal.reshall.calpoly.edu] has left ##level3 []
+04:25:59-!- P|astikman187 [n=richie@c-24-2-34-216.hsd1.ca.comcast.net] has joined ##level3
+04:26:11-!- vmagnin [i=vmagnin@weather.unil.ch] has quit [Client Quit]
+04:26:21-!- Smoovious [i=smooviou@c-67-185-204-205.hsd1.mi.comcast.net] has joined ##level3
+04:26:31<@marienz>  < NightMonkey> Level 3 LookingGlass for ALL SITES -> 64.236.24.20 (www.cnn.com): http://pastebin.ca/26149
+04:26:36<@lilo>  <NightMonkey> lilo: Level 3 LookingGlass for ALL SITES -> 64.236.24.20 (www.cnn.com): http://pastebin.ca/26149
+04:26:38-!- iceroff [n=duke@66-214-250-169.dhcp.gldl.ca.charter.com] has quit [Client Quit]
+04:26:44<@lilo>  oops, sorry :)
+04:26:47<@lilo>  okay, that's it for me 8)
+04:26:49<@marienz>  lilo: (sorry, thought you were asleep already)
+04:26:53-!- walken [i=foobar@netblock-66-245-252-131.dslextreme.com] has left ##level3 []
+04:27:05<@lilo>  marienz: my bad, I was so busy pasting I didn't see you paste 8(
+04:27:08 * lilo waves
+04:27:10<@lilo>  nite all 8)
+04:27:17 * marienz waves
+04:27:18<+numist>  gnight
+04:27:21<+delphine>  night lilo :)
+04:27:25<+Ral315>  night.
+04:27:34-!- barzi [n=barzi@7.233.77.83.cust.bluewin.ch] has quit [Client Quit]
+04:27:36-!- skinneet [n=trevor@gatekeeper.skinnayt.ca] has left ##level3 []
+04:27:46-!- Elive_user [n=Elive_us@p54A7CE3E.dip.t-dialin.net] has joined ##level3
+04:27:47<+ChrisBradley>  who is breser ?
+04:27:53-!- depenedx [i=doug@zaxxon.telerama.com] has joined ##level3
+04:28:01-!- Hobbes` [n=calvin@59.92.137.118] has left ##level3 []
+04:28:24<+numist>  new lookingGlass at http://numist.net/index.php/Level3
+04:28:27-!- Colonel-Panic [n=Neuro@cpe-24-165-34-225.hawaii.res.rr.com] has joined ##level3
+04:28:35-!- AS8560 [n=nick@tehmatix.net] has joined ##level3
+04:28:42-!- ne [n=nemo@82.193.157.70] has left ##level3 []
+04:28:53 * ChrisBradley has received request from breser to point CNN here
+04:28:55<+ChrisBradley>  http://www.noc.ucla.edu/weather.html
+04:28:58-!- depenedx [i=doug@zaxxon.telerama.com] has quit [Client Quit]
+04:29:07-!- Jibbler [n=Jibbler@pc43.netcraft.com] has joined ##level3
+04:29:27< RichiH>  numist: is that jus a copy from the level3 site?
+04:29:30<@marienz>  < CondorDes> from NANOG: "Just got off the phone with Level(3)... "Bonnie".  She's saying that they are experiencing a large-scale routing problem (duh) and that they estimate one more hour..."
+04:29:43-!- ness [n=ness@212.80.253.90] has left ##level3 []
+04:29:47<+numist>  RichiH: yes, since most people cant get to it, and it takes about 15 minutes to load
+04:30:02-!- tyler [i=tyler@ip70-162-73-110.ph.ph.cox.net] has quit [Read error: 113 (No route to host)]
+04:30:03<+numist>  its being updated pretty frequently on the wiki
+04:30:12<+Jtkiefer>  level3 to xo is registering at roughly 90ms
+04:30:13<@marienz>  < reisio> marienz: old :p
+04:30:17-!- IceChain [i=IceChain@APOPHIS.RES.WPI.NET] has quit [Client Quit]
+04:30:17<+cimon>  BBC World still doesn't have this.
+04:30:24-!- arbiter_dev [n=arbiter@ppp-71-136-170-124.dsl.snlo01.pacbell.net] has left ##level3 []
+04:30:28-!- AS8560 [n=nick@tehmatix.net] has quit [Client Quit]
+04:30:37-!- anonimasu [n=an0n@195.196.25.11] has joined ##level3
+04:30:46-!- AS8560 [n=nick@tehmatix.net] has joined ##level3
+04:30:48-!- PorCus [n=PorCus@mel.porcus.ch] has joined ##level3
+04:30:49-!- Shaquile [n=Shaquile@81-232-173-38-no10.tbcn.telia.com] has joined ##level3
+04:30:57-!- peppelorum [n=peppe@pdpc/supporter/student/peppelorum] has joined ##level3
+04:31:17-!- Woosta [n=Woosta@218.214.148.139] has quit [Client Quit]
+04:31:18-!- peppelorum [n=peppe@pdpc/supporter/student/peppelorum] has left ##level3 []
+04:31:19-!- bbrazil [n=bbrazil@matrix.netsoc.tcd.ie] has joined ##level3
+04:31:21-!- Celestar [n=Jadzia_D@galadriel.td.mw.tum.de] has left ##level3 []
+04:31:24-!- Shaquile [n=Shaquile@81-232-173-38-no10.tbcn.telia.com] has left ##level3 []
+04:31:30-!- grim [i=grim@guifications/developer/grim] has joined ##level3
+04:31:34<+numist>  <DJCapelis> http://alice.eng.level3.net/bgp/bgp.cgi this is the direct link to the lookingglass site by the way
+04:31:43-!- cavediver [i=daemon@62.101.48.74] has joined ##level3
+04:31:49-!- nomis52 [n=nomis52@dsl-202-72-168-37.wa.westnet.com.au] has joined ##level3
+04:32:01-!- SlackHacker [n=chatzill@213-84-103-67.adsl.xs4all.nl] has joined ##level3
+04:32:06-!- nomis52 [n=nomis52@dsl-202-72-168-37.wa.westnet.com.au] has left ##level3 []
+04:32:17-!- jakllsch [n=jakllsch@quicksand.kollasch.net] has left ##Level3 []
+04:32:20-!- hesh [n=heshame@c-67-180-67-54.hsd1.ca.comcast.net] has left ##level3 []
+04:32:38-!- RaidersDK [n=Raiders@port256.ds1-aboes.adsl.cybercity.dk] has joined ##level3
+04:32:44-!- x86 [n=x86@68.253.19.170] has joined ##level3
+04:32:48-!- photomatt [n=matt@pdpc/supporter/bronze/photomatt] has left ##level3 []
+04:32:57-!- warp9pnt9 [n=warp9pnt@pool-151-204-240-252.bos.east.verizon.net] has left ##level3 []
+04:33:05-!- genera [i=none1@p54A7CE3E.dip.t-dialin.net] has quit [Read error: 110 (Connection timed out)]
+04:33:16<+WildPikachu>  seems like level3 is going to take a while to resolve this issue
+04:33:19-!- genera [i=none1@p54A7CE3E.dip.t-dialin.net] has joined ##level3
+04:33:25-!- __henke__ [i=henrik@triumph.lindesign.se] has joined ##level3
+04:33:25-!- tdr [i=tdr@204.95.67.117] has joined ##level3
+04:33:34<@marienz>  < RedPeppr> out of 23 datacenters across the world out of all providers except to lvl3 we have "sub-optimal" (SHITTY) routing... all our data centers are up tho... with really really bad routes but up
+04:33:51-!- putin [n=jj@ool-4355c532.dyn.optonline.net] has quit [Remote closed the connection]
+04:34:17<+numist>  <DJCapelis> level3 appears to be coming back online.
+04:34:17<+numist>  <DJCapelis> green is starting to show on the scoreboard
+04:34:32-!- lonewolf [i=lonewolf@snelkat.se] has joined ##level3
+04:34:47<+EfentharWireless>  We have one green, two yellow
+04:35:04-!- Ramaniscence [i=sgtrama@adsl-149-58-151.mia.bellsouth.net] has quit [Remote closed the connection]
+04:35:09<+EfentharWireless>  on L3 Origin, last to go down
+04:35:12<+WildPikachu>  marienz, I concur, we have 11 datacenters around the world ... all up but also with very shitty routing & latency
+04:35:13< RichiH>  numist: perfect.. just when i send an email to my university's mailing list.. :p
+04:35:17-!- Fjarlq [n=mday@ip-64-139-9-163.dsl.sca.megapath.net] has joined ##level3
+04:35:25-!- benc- [n=benc@markcaswell.dsl.visi.com] has joined ##level3
+04:35:26-!- Obiwan [n=Obiwan@pcp565502pcs.rthfrd01.tn.comcast.net] has left ##level3 []
+04:35:29<+ChrisBradley>  http://www.boingboing.net/2005/10/21/two_tierone_isps_are.html - thieves... LOL
+04:35:34<+Jtkiefer>  numist, how is that though if level3 was bypassed by everone else
+04:35:35<+numist>  <Surtsey> If anyone cares, it's on boingboing ->  http://www.boingboing.net/2005/10/21/two_tierone_isps_are.html
+04:35:42<+Jtkiefer>  wouldn't that mean that no traffic is going through level 3?
+04:35:51<+numist>  Jtkiefer: I'm just routing /msgs to the channel :P
+04:36:02<@marienz>  < JT_AS12350> Here in switzerland I've one link up with Level3 and the perfs are not bad
+04:36:06<@marienz>  < betachris> level(3) amsterdam is back too, high latency but alle peers are on
+04:36:23-!- Methynutnut [i=Tommy_K@202-59-100-27.dyn.iinet.net.au] has joined ##level3
+04:36:45-!- omeg [n=omega@h8441190238.dsl.speedlinq.nl] has left ##Level3 []
+04:36:46-!- skrusty [i=muad@xdev.net] has joined ##level3
+04:36:54<+ChrisBradley>  Man - When I was working with #interdictor CNN was slow - but Geez
+04:37:18<@marienz>  < RedPeppr> i dont have amsterdam back here out of san jose equinex
+04:37:44-!- _jchaoul [n=ksui@193.227.174.144] has quit [Read error: 113 (No route to host)]
+04:38:16<+ChrisWhite>  sweet
+04:38:19<+cimon>  I got google back.
+04:38:21<+ChrisWhite>  I got throught to Reuters
+04:38:35-!- walken [i=foobar@netblock-66-245-252-131.dslextreme.com] has joined ##level3
+04:38:42<+ChrisWhite>  They're "passing it on" too, whatever that is ;p
+04:38:45-!- eorg [n=noident@mail.directservices.bg] has quit [Client Quit]
+04:39:15-!- Methynutnut [i=Tommy_K@202-59-100-27.dyn.iinet.net.au] has left ##level3 []
+04:39:20-!- jchaoul- [n=ksui@194.126.9.138] has left ##level3 []
+04:39:46<+ChrisBradley>  CNN - says they will follow AP and Reuters - roughly 20 mins ago
+04:39:54-!- dabbo [n=dab@130.60.142.65] has quit [Client Quit]
+04:39:56<+Jtkiefer>  if there's anyone who has a complete log please DCC a copy of it over to me
+04:40:03<+ChrisWhite>  well, I just contacted AP and reuters
+04:40:07<+ChrisWhite>  so they better :P
+04:40:08<@marienz>  < NightMonkey> marienz: Keynote scoreboard: 6 yellow, 2 green, 4 red
+04:40:09-!- tyrak [n=ja@c-7f88e253.011-158-7570701.cust.bredbandsbolaget.se] has joined ##level3
+04:40:26<+ChrisWhite>  Jtkiefer: best I have right now http://www.securesystem.info/tiki-download_file.php?fileId=7
+04:40:49<@marienz>  RedPeppr: good night
+04:41:00-!- U-238 [n=U-238@ppp157-212.static.internode.on.net] has joined ##level3

@@ -1,0 +1,274 @@
+2023-09-15T08:00:00.000Z | Course: Introduction to Statistics | Instructor: Prof. Smith | Event: Attendance | Student ID: 101 | Student Name: Emma Johnson | Status: Present | Reason: -
+2023-09-15T08:02:00.000Z | Course: Introduction to Statistics | Instructor: Prof. Smith | Event: Attendance | Student ID: 102 | Student Name: Noah Wilson | Status: Present | Reason: -
+2023-09-15T08:04:00.000Z | Course: Introduction to Statistics | Instructor: Prof. Smith | Event: Attendance | Student ID: 103 | Student Name: Olivia Brown | Status: Present | Reason: -
+2023-09-15T08:06:00.000Z | Course: Introduction to Statistics | Instructor: Prof. Smith | Event: Attendance | Student ID: 104 | Student Name: Liam Davis | Status: Present | Reason: -
+2023-09-15T08:08:00.000Z | Course: Introduction to Statistics | Instructor: Prof. Smith | Event: Attendance | Student ID: 105 | Student Name: Sophia Lee | Status: Late | Reason: Overslept
+2023-09-15T08:10:00.000Z | Course: Introduction to Statistics | Instructor: Prof. Smith | Event: Attendance | Student ID: 106 | Student Name: Ethan Hall | Status: Present | Reason: -
+2023-09-15T08:12:00.000Z | Course: Introduction to Statistics | Instructor: Prof. Smith | Event: Attendance | Student ID: 107 | Student Name: Mia Martin | Status: Present | Reason: -
+2023-09-15T08:14:00.000Z | Course: Introduction to Statistics | Instructor: Prof. Smith | Event: Attendance | Student ID: 108 | Student Name: Benjamin Taylor | Status: Present | Reason: -
+2023-09-15T08:16:00.000Z | Course: Introduction to Statistics | Instructor: Prof. Smith | Event: Attendance | Student ID: 109 | Student Name: Ava Lewis | Status: Present | Reason: -
+2023-09-15T08:18:00.000Z | Course: Introduction to Statistics | Instructor: Prof. Smith | Event: Attendance | Student ID: 110 | Student Name: William Walker | Status: Late | Reason: Traffic Jam
+2023-09-15T10:00:00.000Z | Course: Data Analysis Techniques | Instructor: Dr. Brown | Event: Attendance | Student ID: 111 | Student Name: Oliver Martinez | Status: Present | Reason: -
+2023-09-15T10:02:00.000Z | Course: Data Analysis Techniques | Instructor: Dr. Brown | Event: Attendance | Student ID: 112 | Student Name: Charlotte Wilson | Status: Present | Reason: -
+2023-09-15T10:04:00.000Z | Course: Data Analysis Techniques | Instructor: Dr. Brown | Event: Attendance | Student ID: 113 | Student Name: James Turner | Status: Late | Reason: Alarm didn't go off
+2023-09-15T10:06:00.000Z | Course: Data Analysis Techniques | Instructor: Dr. Brown | Event: Attendance | Student ID: 114 | Student Name: Mia Garcia | Status: Present | Reason: -
+2023-09-15T10:08:00.000Z | Course: Data Analysis Techniques | Instructor: Dr. Brown | Event: Attendance | Student ID: 115 | Student Name: Noah Harris | Status: Present | Reason: -
+2023-09-15T10:10:00.000Z | Course: Data Analysis Techniques | Instructor: Dr. Brown | Event: Attendance | Student ID: 116 | Student Name: Emily Lee | Status: Present | Reason: -
+2023-09-15T10:12:00.000Z | Course: Data Analysis Techniques | Instructor: Dr. Brown | Event: Attendance | Student ID: 117 | Student Name: William Hall | Status: Late | Reason: Overslept
+2023-09-15T10:14:00.000Z | Course: Data Analysis Techniques | Instructor: Dr. Brown | Event: Attendance | Student ID: 118 | Student Name: Sophia White | Status: Present | Reason: -
+2023-09-15T10:16:00.000Z | Course: Data Analysis Techniques | Instructor: Dr. Brown | Event: Attendance | Student ID: 119 | Student Name: Liam Johnson | Status: Present | Reason: -
+2023-09-15T10:18:00.000Z | Course: Data Analysis Techniques | Instructor: Dr. Brown | Event: Attendance | Student ID: 120 | Student Name: Emma Smith | Status: Present | Reason: -
+2023-09-15T12:00:00.000Z | Course: Machine Learning Fundamentals | Instructor: Prof. Davis | Event: Attendance | Student ID: 121 | Student Name: Benjamin Wilson | Status: Present | Reason: -
+2023-09-15T12:02:00.000Z | Course: Machine Learning Fundamentals | Instructor: Prof. Davis | Event: Attendance | Student ID: 122 | Student Name: Charlotte Davis | Status: Present | Reason: -
+2023-09-15T12:04:00.000Z | Course: Machine Learning Fundamentals | Instructor: Prof. Davis | Event: Attendance | Student ID: 123 | Student Name: Sophia Lee | Status: Late | Reason: Traffic delays
+2023-09-15T12:06:00.000Z | Course: Machine Learning Fundamentals | Instructor: Prof. Davis | Event: Attendance | Student ID: 124 | Student Name: Oliver Garcia | Status: Absent | Reason: Illness
+2023-09-15T12:08:00.000Z | Course: Machine Learning Fundamentals | Instructor: Prof. Davis | Event: Attendance | Student ID: 125 | Student Name: Mia Harris | Status: Absent | Reason: Family emergency
+2023-09-15T12:10:00.000Z | Course: Machine Learning Fundamentals | Instructor: Prof. Davis | Event: Attendance | Student ID: 126 | Student Name: Noah Smith | Status: Present | Reason: -
+2023-09-15T12:12:00.000Z | Course: Machine Learning Fundamentals | Instructor: Prof. Davis | Event: Attendance | Student ID: 127 | Student Name: Liam Johnson | Status: Present | Reason: -
+2023-09-15T12:14:00.000Z | Course: Machine Learning Fundamentals | Instructor: Prof. Davis | Event: Attendance | Student ID: 128 | Student Name: Emily Martinez | Status: Late | Reason: Overslept
+2023-09-15T12:16:00.000Z | Course: Machine Learning Fundamentals | Instructor: Prof. Davis | Event: Attendance | Student ID: 129 | Student Name: William White | Status: Present | Reason: -
+2023-09-15T12:18:00.000Z | Course: Machine Learning Fundamentals | Instructor: Prof. Davis | Event: Attendance | Student ID: 130 | Student Name: Ava Taylor | Status: Present | Reason: -
+2023-09-15T08:00:00.000Z | Course: Advanced Data Visualization | Instructor: Prof. Walker | Event: Attendance | Student ID: 131 | Student Name: Mia Turner | Status: Present | Reason: -
+2023-09-15T08:02:00.000Z | Course: Advanced Data Visualization | Instructor: Prof. Walker | Event: Attendance | Student ID: 132 | Student Name: Oliver Wilson | Status: Present | Reason: -
+2023-09-15T08:04:00.000Z | Course: Advanced Data Visualization | Instructor: Prof. Walker | Event: Attendance | Student ID: 133 | Student Name: Sophia Turner | Status: Late | Reason: Overslept
+2023-09-15T08:06:00.000Z | Course: Advanced Data Visualization | Instructor: Prof. Walker | Event: Attendance | Student ID: 134 | Student Name: Noah White | Status: Present | Reason: -
+2023-09-15T08:08:00.000Z | Course: Advanced Data Visualization | Instructor: Prof. Walker | Event: Attendance | Student ID: 135 | Student Name: Emma Turner | Status: Present | Reason: -
+2023-09-15T08:10:00.000Z | Course: Advanced Data Visualization | Instructor: Prof. Walker | Event: Attendance | Student ID: 136 | Student Name: William Martinez | Status: Late | Reason: Traffic Jam
+2023-09-15T08:12:00.000Z | Course: Advanced Data Visualization | Instructor: Prof. Walker | Event: Attendance | Student ID: 137 | Student Name: Charlotte Hall | Status: Present | Reason: -
+2023-09-15T08:14:00.000Z | Course: Advanced Data Visualization | Instructor: Prof. Walker | Event: Attendance | Student ID: 138 | Student Name: Benjamin White | Status: Present | Reason: -
+2023-09-15T08:16:00.000Z | Course: Advanced Data Visualization | Instructor: Prof. Walker | Event: Attendance | Student ID: 139 | Student Name: Emily Martinez | Status: Present | Reason: -
+2023-09-15T08:18:00.000Z | Course: Advanced Data Visualization | Instructor: Prof. Walker | Event: Attendance | Student ID: 140 | Student Name: Liam Wilson | Status: Late | Reason: Overslept
+2023-09-15T10:00:00.000Z | Course: Business Analytics | Instructor: Dr. Turner | Event: Attendance | Student ID: 141 | Student Name: Noah Hall | Status: Present | Reason: -
+2023-09-15T10:02:00.000Z | Course: Business Analytics | Instructor: Dr. Turner | Event: Attendance | Student ID: 142 | Student Name: Sophia Garcia | Status: Late | Reason: Alarm didn't go off
+2023-09-15T10:04:00.000Z | Course: Business Analytics | Instructor: Dr. Turner | Event: Attendance | Student ID: 143 | Student Name: William Taylor | Status: Present | Reason: -
+2023-09-15T10:06:00.000Z | Course: Business Analytics | Instructor: Dr. Turner | Event: Attendance | Student ID: 144 | Student Name: Emily Turner | Status: Present | Reason: -
+2023-09-15T10:08:00.000Z | Course: Business Analytics | Instructor: Dr. Turner | Event: Attendance | Student ID: 145 | Student Name: Ava Garcia | Status: Present | Reason: -
+2023-09-15T10:10:00.000Z | Course: Business Analytics | Instructor: Dr. Turner | Event: Attendance | Student ID: 146 | Student Name: Benjamin Harris | Status: Present | Reason: -
+2023-09-15T10:12:00.000Z | Course: Business Analytics | Instructor: Dr. Turner | Event: Attendance | Student ID: 147 | Student Name: Mia Davis | Status: Present | Reason: -
+2023-09-15T10:14:00.000Z | Course: Business Analytics | Instructor: Dr. Turner | Event: Attendance | Student ID: 148 | Student Name: Oliver Wilson | Status: Late | Reason: Overslept
+2023-09-15T10:16:00.000Z | Course: Business Analytics | Instructor: Dr. Turner | Event: Attendance | Student ID: 149 | Student Name: Charlotte Taylor | Status: Present | Reason: -
+2023-09-15T10:18:00.000Z | Course: Business Analytics | Instructor: Dr. Turner | Event: Attendance | Student ID: 150 | Student Name: Liam Davis | Status: Late | Reason: Traffic delays
+2023-09-15T12:00:00.000Z | Course: Data Science Fundamentals | Instructor: Prof. Martinez | Event: Attendance | Student ID: 151 | Student Name: Olivia Harris | Status: Present | Reason: -
+2023-09-15T12:02:00.000Z | Course: Data Science Fundamentals | Instructor: Prof. Martinez | Event: Attendance | Student ID: 152 | Student Name: Benjamin Turner | Status: Late | Reason: Alarm didn't go off
+2023-09-15T12:04:00.000Z | Course: Data Science Fundamentals | Instructor: Prof. Martinez | Event: Attendance | Student ID: 153 | Student Name: Ava Harris | Status: Present | Reason: -
+2023-09-15T12:06:00.000Z | Course: Data Science Fundamentals | Instructor: Prof. Martinez | Event: Attendance | Student ID: 154 | Student Name: Noah Davis | Status: Present | Reason: -
+2023-09-15T12:08:00.000Z | Course: Data Science Fundamentals | Instructor: Prof. Martinez | Event: Attendance | Student ID: 155 | Student Name: Charlotte Taylor | Status: Present | Reason: -
+2023-09-15T12:10:00.000Z | Course: Data Science Fundamentals | Instructor: Prof. Martinez | Event: Attendance | Student ID: 156 | Student Name: William Turner | Status: Late | Reason: Traffic delays
+2023-09-15T12:12:00.000Z | Course: Data Science Fundamentals | Instructor: Prof. Martinez | Event: Attendance | Student ID: 157 | Student Name: Sophia Harris | Status: Present | Reason: -
+2023-09-15T12:14:00.000Z | Course: Data Science Fundamentals | Instructor: Prof. Martinez | Event: Attendance | Student ID: 158 | Student Name: Oliver Turner | Status: Late | Reason: Overslept
+2023-09-15T12:16:00.000Z | Course: Data Science Fundamentals | Instructor: Prof. Martinez | Event: Attendance | Student ID: 159 | Student Name: Mia Davis | Status: Present | Reason: -
+2023-09-15T12:18:00.000Z | Course: Data Science Fundamentals | Instructor: Prof. Martinez | Event: Attendance | Student ID: 160 | Student Name: Liam Taylor | Status: Late | Reason: Overslept
+2023-09-15T12:20:00.000Z | Course: Data Science Fundamentals | Instructor: Prof. Martinez | Event: Attendance | Student ID: 161 | Student Name: Emma Harris | Status: Present | Reason: -
+2023-09-15T12:22:00.000Z | Course: Data Science Fundamentals | Instructor: Prof. Martinez | Event: Attendance | Student ID: 162 | Student Name: William Davis | Status: Present | Reason: -
+2023-09-15T12:24:00.000Z | Course: Data Science Fundamentals | Instructor: Prof. Martinez | Event: Attendance | Student ID: 163 | Student Name: Olivia Taylor | Status: Late | Reason: Traffic Jam
+2023-09-15T12:26:00.000Z | Course: Data Science Fundamentals | Instructor: Prof. Martinez | Event: Attendance | Student ID: 164 | Student Name: Benjamin Harris | Status: Present | Reason: -
+2023-09-15T12:28:00.000Z | Course: Data Science Fundamentals | Instructor: Prof. Martinez | Event: Attendance | Student ID: 165 | Student Name: Ava Davis | Status: Late | Reason: Overslept
+2023-09-15T12:30:00.000Z | Course: Data Science Fundamentals | Instructor: Prof. Martinez | Event: Attendance | Student ID: 166 | Student Name: Sophia Turner | Status: Present | Reason: -
+2023-09-15T12:32:00.000Z | Course: Data Science Fundamentals | Instructor: Prof. Martinez | Event: Attendance | Student ID: 167 | Student Name: Noah Harris | Status: Present | Reason: -
+2023-09-15T12:34:00.000Z | Course: Data Science Fundamentals | Instructor: Prof. Martinez | Event: Attendance | Student ID: 168 | Student Name: Charlotte Davis | Status: Present | Reason: -
+2023-09-15T12:36:00.000Z | Course: Data Science Fundamentals | Instructor: Prof. Martinez | Event: Attendance | Student ID: 169 | Student Name: Oliver Taylor | Status: Late | Reason: Alarm didn't go off
+2023-09-15T12:38:00.000Z | Course: Data Science Fundamentals | Instructor: Prof. Martinez | Event: Attendance | Student ID: 170 | Student Name: Mia Harris | Status: Present | Reason: -
+2023-09-15T10:00:00.000Z | Course: Advanced Data Analysis | Instructor: Dr. Rodriguez | Event: Attendance | Student ID: 171 | Student Name: Ethan Turner | Status: Present | Reason: -
+2023-09-15T10:02:00.000Z | Course: Advanced Data Analysis | Instructor: Dr. Rodriguez | Event: Attendance | Student ID: 172 | Student Name: Mia Davis | Status: Present | Reason: -
+2023-09-15T10:04:00.000Z | Course: Advanced Data Analysis | Instructor: Dr. Rodriguez | Event: Attendance | Student ID: 173 | Student Name: Olivia Harris | Status: Present | Reason: -
+2023-09-15T10:06:00.000Z | Course: Advanced Data Analysis | Instructor: Dr. Rodriguez | Event: Attendance | Student ID: 174 | Student Name: William Taylor | Status: Late | Reason: Alarm didn't go off
+2023-09-15T10:08:00.000Z | Course: Advanced Data Analysis | Instructor: Dr. Rodriguez | Event: Attendance | Student ID: 175 | Student Name: Charlotte Davis | Status: Present | Reason: -
+2023-09-15T10:10:00.000Z | Course: Advanced Data Analysis | Instructor: Dr. Rodriguez | Event: Attendance | Student ID: 176 | Student Name: Noah Harris | Status: Late | Reason: Traffic delays
+2023-09-15T10:12:00.000Z | Course: Advanced Data Analysis | Instructor: Dr. Rodriguez | Event: Attendance | Student ID: 177 | Student Name: Ava Harris | Status: Present | Reason: -
+2023-09-15T10:14:00.000Z | Course: Advanced Data Analysis | Instructor: Dr. Rodriguez | Event: Attendance | Student ID: 178 | Student Name: Benjamin Turner | Status: Present | Reason: -
+2023-09-15T10:16:00.000Z | Course: Advanced Data Analysis | Instructor: Dr. Rodriguez | Event: Attendance | Student ID: 179 | Student Name: Sophia Turner | Status: Present | Reason: -
+2023-09-15T10:18:00.000Z | Course: Advanced Data Analysis | Instructor: Dr. Rodriguez | Event: Attendance | Student ID: 180 | Student Name: Liam Taylor | Status: Late | Reason: Overslept
+2023-09-15T10:20:00.000Z | Course: Advanced Data Analysis | Instructor: Dr. Rodriguez | Event: Attendance | Student ID: 181 | Student Name: Emma Harris | Status: Present | Reason: -
+2023-09-15T10:22:00.000Z | Course: Advanced Data Analysis | Instructor: Dr. Rodriguez | Event: Attendance | Student ID: 182 | Student Name: Olivia Taylor | Status: Late | Reason: Alarm didn't go off
+2023-09-15T10:24:00.000Z | Course: Advanced Data Analysis | Instructor: Dr. Rodriguez | Event: Attendance | Student ID: 183 | Student Name: Benjamin Harris | Status: Present | Reason: -
+2023-09-15T10:26:00.000Z | Course: Advanced Data Analysis | Instructor: Dr. Rodriguez | Event: Attendance | Student ID: 184 | Student Name: Ava Davis | Status: Present | Reason: -
+2023-09-15T10:28:00.000Z | Course: Advanced Data Analysis | Instructor: Dr. Rodriguez | Event: Attendance | Student ID: 185 | Student Name: William Davis | Status: Late | Reason: Traffic Jam
+2023-09-15T10:30:00.000Z | Course: Advanced Data Analysis | Instructor: Dr. Rodriguez | Event: Attendance | Student ID: 186 | Student Name: Sophia Harris | Status: Present | Reason: -
+2023-09-15T10:32:00.000Z | Course: Advanced Data Analysis | Instructor: Dr. Rodriguez | Event: Attendance | Student ID: 187 | Student Name: Charlotte Turner | Status: Present | Reason: -
+2023-09-15T10:34:00.000Z | Course: Advanced Data Analysis | Instructor: Dr. Rodriguez | Event: Attendance | Student ID: 188 | Student Name: Oliver Taylor | Status: Present | Reason: -
+2023-09-15T10:36:00.000Z | Course: Advanced Data Analysis | Instructor: Dr. Rodriguez | Event: Attendance | Student ID: 189 | Student Name: Mia Harris | Status: Late | Reason: Overslept
+2023-09-15T10:38:00.000Z | Course: Advanced Data Analysis | Instructor: Dr. Rodriguez | Event: Attendance | Student ID: 190 | Student Name: Noah Turner | Status: Present | Reason: -
+2023-09-15T10:40:00.000Z | Course: Advanced Data Analysis | Instructor: Dr. Rodriguez | Event: Attendance | Student ID: 191 | Student Name: Emily Taylor | Status: Present | Reason: -
+2023-09-15T12:00:00.000Z | Course: Machine Learning Fundamentals | Instructor: Dr. Smith | Event: Attendance | Student ID: 192 | Student Name: Liam Turner | Status: Present | Reason: -
+2023-09-15T12:02:00.000Z | Course: Machine Learning Fundamentals | Instructor: Dr. Smith | Event: Attendance | Student ID: 193 | Student Name: Amelia Davis | Status: Present | Reason: -
+2023-09-15T12:04:00.000Z | Course: Machine Learning Fundamentals | Instructor: Dr. Smith | Event: Attendance | Student ID: 194 | Student Name: Olivia Harris | Status: Present | Reason: -
+2023-09-15T12:06:00.000Z | Course: Machine Learning Fundamentals | Instructor: Dr. Smith | Event: Attendance | Student ID: 195 | Student Name: William Taylor | Status: Late | Reason: Traffic delays
+2023-09-15T12:08:00.000Z | Course: Machine Learning Fundamentals | Instructor: Dr. Smith | Event: Attendance | Student ID: 196 | Student Name: Charlotte Davis | Status: Present | Reason: -
+2023-09-15T12:10:00.000Z | Course: Machine Learning Fundamentals | Instructor: Dr. Smith | Event: Attendance | Student ID: 197 | Student Name: Noah Harris | Status: Late | Reason: Alarm didn't go off
+2023-09-15T12:12:00.000Z | Course: Machine Learning Fundamentals | Instructor: Dr. Smith | Event: Attendance | Student ID: 198 | Student Name: Ava Harris | Status: Present | Reason: -
+2023-09-15T12:14:00.000Z | Course: Machine Learning Fundamentals | Instructor: Dr. Smith | Event: Attendance | Student ID: 199 | Student Name: Benjamin Turner | Status: Present | Reason: -
+2023-09-15T12:16:00.000Z | Course: Machine Learning Fundamentals | Instructor: Dr. Smith | Event: Attendance | Student ID: 200 | Student Name: Sophia Turner | Status: Present | Reason: -
+2023-09-15T12:18:00.000Z | Course: Machine Learning Fundamentals | Instructor: Dr. Smith | Event: Attendance | Student ID: 201 | Student Name: Liam Taylor | Status: Late | Reason: Overslept
+2023-09-15T12:20:00.000Z | Course: Machine Learning Fundamentals | Instructor: Dr. Smith | Event: Attendance | Student ID: 202 | Student Name: Emma Harris | Status: Present | Reason: -
+2023-09-15T12:22:00.000Z | Course: Machine Learning Fundamentals | Instructor: Dr. Smith | Event: Attendance | Student ID: 203 | Student Name: Olivia Taylor | Status: Late | Reason: Alarm didn't go off
+2023-09-15T12:24:00.000Z | Course: Machine Learning Fundamentals | Instructor: Dr. Smith | Event: Attendance | Student ID: 204 | Student Name: Benjamin Harris | Status: Present | Reason: -
+2023-09-15T12:26:00.000Z | Course: Machine Learning Fundamentals | Instructor: Dr. Smith | Event: Attendance | Student ID: 205 | Student Name: Ava Davis | Status: Present | Reason: -
+2023-09-15T12:28:00.000Z | Course: Machine Learning Fundamentals | Instructor: Dr. Smith | Event: Attendance | Student ID: 206 | Student Name: William Davis | Status: Late | Reason: Traffic Jam
+2023-09-15T12:30:00.000Z | Course: Machine Learning Fundamentals | Instructor: Dr. Smith | Event: Attendance | Student ID: 207 | Student Name: Sophia Harris | Status: Present | Reason: -
+2023-09-15T12:32:00.000Z | Course: Machine Learning Fundamentals | Instructor: Dr. Smith | Event: Attendance | Student ID: 208 | Student Name: Charlotte Turner | Status: Present | Reason: -
+2023-09-15T12:34:00.000Z | Course: Machine Learning Fundamentals | Instructor: Dr. Smith | Event: Attendance | Student ID: 209 | Student Name: Oliver Taylor | Status: Present | Reason: -
+2023-09-15T12:36:00.000Z | Course: Machine Learning Fundamentals | Instructor: Dr. Smith | Event: Attendance | Student ID: 210 | Student Name: Mia Harris | Status: Late | Reason: Overslept
+2023-09-15T12:38:00.000Z | Course: Machine Learning Fundamentals | Instructor: Dr. Smith | Event: Attendance | Student ID: 211 | Student Name: Benjamin Davis | Status: Present | Reason: -
+2023-09-15T12:40:00.000Z | Course: Machine Learning Fundamentals | Instructor: Dr. Smith | Event: Attendance | Student ID: 212 | Student Name: Emily Turner | Status: Present | Reason: -
+2023-09-15T08:00:00.000Z | Course: Data Analytics Basics | Instructor: Prof. Johnson | Event: Attendance | Student ID: 213 | Student Name: Ethan Parker | Status: Present | Reason: -
+2023-09-15T08:02:00.000Z | Course: Data Analytics Basics | Instructor: Prof. Johnson | Event: Attendance | Student ID: 214 | Student Name: Mia Turner | Status: Late | Reason: Traffic delays
+2023-09-15T08:04:00.000Z | Course: Data Analytics Basics | Instructor: Prof. Johnson | Event: Attendance | Student ID: 215 | Student Name: Olivia Davis | Status: Present | Reason: -
+2023-09-15T08:06:00.000Z | Course: Data Analytics Basics | Instructor: Prof. Johnson | Event: Attendance | Student ID: 216 | Student Name: Liam Turner | Status: Late | Reason: Overslept
+2023-09-15T08:08:00.000Z | Course: Data Analytics Basics | Instructor: Prof. Johnson | Event: Attendance | Student ID: 217 | Student Name: Ava Harris | Status: Present | Reason: -
+2023-09-15T08:10:00.000Z | Course: Data Analytics Basics | Instructor: Prof. Johnson | Event: Attendance | Student ID: 218 | Student Name: Noah Davis | Status: Present | Reason: -
+2023-09-15T08:12:00.000Z | Course: Data Analytics Basics | Instructor: Prof. Johnson | Event: Attendance | Student ID: 219 | Student Name: Sophia Davis | Status: Late | Reason: Traffic Jam
+2023-09-15T08:14:00.000Z | Course: Data Analytics Basics | Instructor: Prof. Johnson | Event: Attendance | Student ID: 220 | Student Name: Benjamin Harris | Status: Present | Reason: -
+2023-09-15T08:16:00.000Z | Course: Data Analytics Basics | Instructor: Prof. Johnson | Event: Attendance | Student ID: 221 | Student Name: Emma Harris | Status: Late | Reason: Alarm didn't go off
+2023-09-15T08:18:00.000Z | Course: Data Analytics Basics | Instructor: Prof. Johnson | Event: Attendance | Student ID: 222 | Student Name: William Taylor | Status: Present | Reason: -
+2023-09-15T08:20:00.000Z | Course: Data Analytics Basics | Instructor: Prof. Johnson | Event: Attendance | Student ID: 223 | Student Name: Charlotte Davis | Status: Present | Reason: -
+2023-09-15T08:22:00.000Z | Course: Data Analytics Basics | Instructor: Prof. Johnson | Event: Attendance | Student ID: 224 | Student Name: Oliver Taylor | Status: Present | Reason: -
+2023-09-15T08:24:00.000Z | Course: Data Analytics Basics | Instructor: Prof. Johnson | Event: Attendance | Student ID: 225 | Student Name: Emily Turner | Status: Present | Reason: -
+2023-09-15T08:26:00.000Z | Course: Data Analytics Basics | Instructor: Prof. Johnson | Event: Attendance | Student ID: 226 | Student Name: Benjamin Davis | Status: Late | Reason: Traffic delays
+2023-09-15T08:28:00.000Z | Course: Data Analytics Basics | Instructor: Prof. Johnson | Event: Attendance | Student ID: 227 | Student Name: Ethan Parker | Status: Present | Reason: -
+2023-09-15T08:30:00.000Z | Course: Data Analytics Basics | Instructor: Prof. Johnson | Event: Attendance | Student ID: 228 | Student Name: Mia Turner | Status: Late | Reason: Overslept
+2023-09-15T08:32:00.000Z | Course: Data Analytics Basics | Instructor: Prof. Johnson | Event: Attendance | Student ID: 229 | Student Name: Olivia Davis | Status: Present | Reason: -
+2023-09-15T08:34:00.000Z | Course: Data Analytics Basics | Instructor: Prof. Johnson | Event: Attendance | Student ID: 230 | Student Name: Liam Turner | Status: Present | Reason: -
+2023-09-15T08:36:00.000Z | Course: Data Analytics Basics | Instructor: Prof. Johnson | Event: Attendance | Student ID: 231 | Student Name: Ava Harris | Status: Late | Reason: Traffic Jam
+2023-09-15T08:38:00.000Z | Course: Data Analytics Basics | Instructor: Prof. Johnson | Event: Attendance | Student ID: 232 |
+2023-09-15T10:00:00.000Z | Course: Data Analytics Basics | Instructor: Prof. Johnson | Event: Quiz | Student ID: 233 | Student Name: Mia Turner | Status: Present | Reason: -
+2023-09-15T10:02:00.000Z | Course: Data Analytics Basics | Instructor: Prof. Johnson | Event: Assignment | Student ID: 234 | Student Name: Olivia Davis | Status: Present | Reason: -
+2023-09-15T10:04:00.000Z | Course: Data Analytics Basics | Instructor: Prof. Johnson | Event: Workshop | Student ID: 235 | Student Name: Liam Turner | Status: Late | Reason: Overslept
+2023-09-15T10:06:00.000Z | Course: Data Analytics Basics | Instructor: Prof. Johnson | Event: Presentation | Student ID: 236 | Student Name: Ava Harris | Status: Present | Reason: -
+2023-09-15T10:08:00.000Z | Course: Data Analytics Basics | Instructor: Prof. Johnson | Event: Group Discussion | Student ID: 237 | Student Name: Noah Davis | Status: Present | Reason: -
+2023-09-15T12:00:00.000Z | Course: Advanced Data Analysis | Instructor: Prof. Smith | Event: Attendance | Student ID: 238 | Student Name: Sophia Davis | Status: Present | Reason: -
+2023-09-15T12:02:00.000Z | Course: Advanced Data Analysis | Instructor: Prof. Smith | Event: Quiz | Student ID: 239 | Student Name: Benjamin Harris | Status: Present | Reason: -
+2023-09-15T12:04:00.000Z | Course: Advanced Data Analysis | Instructor: Prof. Smith | Event: Assignment | Student ID: 240 | Student Name: Emma Harris | Status: Late | Reason: Alarm didn't go off
+2023-09-15T12:06:00.000Z | Course: Advanced Data Analysis | Instructor: Prof. Smith | Event: Workshop | Student ID: 241 | Student Name: William Taylor | Status: Present | Reason: -
+2023-09-15T12:08:00.000Z | Course: Advanced Data Analysis | Instructor: Prof. Smith | Event: Presentation | Student ID: 242 | Student Name: Charlotte Davis | Status: Present | Reason: -
+2023-09-15T12:10:00.000Z | Course: Advanced Data Analysis | Instructor: Prof. Smith | Event: Group Discussion | Student ID: 243 | Student Name: Oliver Taylor | Status: Late | Reason: Traffic delays
+2023-09-15T12:12:00.000Z | Course: Machine Learning Fundamentals | Instructor: Dr. Brown | Event: Attendance | Student ID: 244 | Student Name: Emily Turner | Status: Present | Reason: -
+2023-09-15T12:14:00.000Z | Course: Machine Learning Fundamentals | Instructor: Dr. Brown | Event: Quiz | Student ID: 245 | Student Name: Benjamin Davis | Status: Late | Reason: Traffic delays
+2023-09-15T12:16:00.000Z | Course: Machine Learning Fundamentals | Instructor: Dr. Brown | Event: Assignment | Student ID: 246 | Student Name: Ethan Parker | Status: Present | Reason: -
+2023-09-15T12:18:00.000Z | Course: Machine Learning Fundamentals | Instructor: Dr. Brown | Event: Workshop | Student ID: 247 | Student Name: Mia Turner | Status: Late | Reason: Overslept
+2023-09-15T12:20:00.000Z | Course: Machine Learning Fundamentals | Instructor: Dr. Brown | Event: Presentation | Student ID: 248 | Student Name: Olivia Davis | Status: Present | Reason: -
+2023-09-15T08:00:00.000Z | Course: Business Ethics | Instructor: Prof. Anderson | Event: Attendance | Student ID: 301 | Student Name: Michael Smith | Status: Present | Reason: -
+2023-09-15T08:05:00.000Z | Course: Business Ethics | Instructor: Prof. Anderson | Event: Quiz | Student ID: 302 | Student Name: Emily White | Status: Present | Reason: -
+2023-09-15T08:15:00.000Z | Course: Business Ethics | Instructor: Prof. Anderson | Event: Assignment | Student ID: 303 | Student Name: David Johnson | Status: Late | Reason: Overslept
+2023-09-15T08:30:00.000Z | Course: Business Ethics | Instructor: Prof. Anderson | Event: Workshop | Student ID: 304 | Student Name: Sophia Lee | Status: Present | Reason: -
+2023-09-15T08:45:00.000Z | Course: Business Ethics | Instructor: Prof. Anderson | Event: Presentation | Student ID: 305 | Student Name: Noah Turner | Status: Present | Reason: -
+2023-09-15T10:00:00.000Z | Course: Marketing Strategies | Instructor: Prof. Martinez | Event: Attendance | Student ID: 306 | Student Name: Olivia Harris | Status: Present | Reason: -
+2023-09-15T10:05:00.000Z | Course: Marketing Strategies | Instructor: Prof. Martinez | Event: Quiz | Student ID: 307 | Student Name: Liam Turner | Status: Late | Reason: Traffic jam
+2023-09-15T10:15:00.000Z | Course: Marketing Strategies | Instructor: Prof. Martinez | Event: Assignment | Student ID: 308 | Student Name: Mia Davis | Status: Present | Reason: -
+2023-09-15T10:30:00.000Z | Course: Marketing Strategies | Instructor: Prof. Martinez | Event: Workshop | Student ID: 309 | Student Name: William Adams | Status: Present | Reason: -
+2023-09-15T10:45:00.000Z | Course: Marketing Strategies | Instructor: Prof. Martinez | Event: Presentation | Student ID: 310 | Student Name: Emily Turner | Status: Present | Reason: -
+2023-09-15T12:00:00.000Z | Course: Financial Management | Instructor: Prof. Davis | Event: Attendance | Student ID: 311 | Student Name: Benjamin Parker | Status: Present | Reason: -
+2023-09-15T12:05:00.000Z | Course: Financial Management | Instructor: Prof. Davis | Event: Quiz | Student ID: 312 | Student Name: Ethan Wilson | Status: Late | Reason: Alarm didn't go off
+2023-09-15T12:15:00.000Z | Course: Financial Management | Instructor: Prof. Davis | Event: Assignment | Student ID: 313 | Student Name: Charlotte White | Status: Present | Reason: -
+2023-09-15T12:30:00.000Z | Course: Financial Management | Instructor: Prof. Davis | Event: Workshop | Student ID: 314 | Student Name: Sophia Turner | Status: Present | Reason: -
+2023-09-15T12:45:00.000Z | Course: Financial Management | Instructor: Prof. Davis | Event: Presentation | Student ID: 315 | Student Name: Noah Taylor | Status: Present | Reason: -
+2023-09-15T08:00:00.000Z | Course: Data Analytics | Instructor: Prof. Brown | Event: Attendance | Student ID: 316 | Student Name: Emma Harris | Status: Present | Reason: -
+2023-09-15T08:05:00.000Z | Course: Data Analytics | Instructor: Prof. Brown | Event: Quiz | Student ID: 317 | Student Name: Daniel Turner | Status: Present | Reason: -
+2023-09-15T08:15:00.000Z | Course: Data Analytics | Instructor: Prof. Brown | Event: Assignment | Student ID: 318 | Student Name: Mia Turner | Status: Late | Reason: Traffic delay
+2023-09-15T08:30:00.000Z | Course: Data Analytics | Instructor: Prof. Brown | Event: Workshop | Student ID: 319 | Student Name: Benjamin Smith | Status: Present | Reason: -
+2023-09-15T08:45:00.000Z | Course: Data Analytics | Instructor: Prof. Brown | Event: Presentation | Student ID: 320 | Student Name: Olivia Turner | Status: Present | Reason: -
+2023-09-15T10:00:00.000Z | Course: Software Development | Instructor: Prof. Rodriguez | Event: Attendance | Student ID: 321 | Student Name: Liam Turner | Status: Present | Reason: -
+2023-09-15T10:05:00.000Z | Course: Software Development | Instructor: Prof. Rodriguez | Event: Quiz | Student ID: 322 | Student Name: Sophia Turner | Status: Present | Reason: -
+2023-09-15T10:15:00.000Z | Course: Software Development | Instructor: Prof. Rodriguez | Event: Assignment | Student ID: 323 | Student Name: Noah Parker | Status: Late | Reason: Overslept
+2023-09-15T10:30:00.000Z | Course: Software Development | Instructor: Prof. Rodriguez | Event: Workshop | Student ID: 324 | Student Name: Emily Davis | Status: Present | Reason: -
+2023-09-15T10:45:00.000Z | Course: Software Development | Instructor: Prof. Rodriguez | Event: Presentation | Student ID: 325 | Student Name: William Turner | Status: Present | Reason: -
+2023-09-15T12:00:00.000Z | Course: Marketing Analytics | Instructor: Prof. Turner | Event: Attendance | Student ID: 326 | Student Name: Charlotte Smith | Status: Present | Reason: -
+2023-09-15T12:05:00.000Z | Course: Marketing Analytics | Instructor: Prof. Turner | Event: Quiz | Student ID: 327 | Student Name: Ethan Harris | Status: Late | Reason: Missed the bus
+2023-09-15T12:15:00.000Z | Course: Marketing Analytics | Instructor: Prof. Turner | Event: Assignment | Student ID: 328 | Student Name: Olivia White | Status: Present | Reason: -
+2023-09-15T12:30:00.000Z | Course: Marketing Analytics | Instructor: Prof. Turner | Event: Workshop | Student ID: 329 | Student Name: Daniel Smith | Status: Present | Reason: -
+2023-09-15T12:45:00.000Z | Course: Marketing Analytics | Instructor: Prof. Turner | Event: Presentation | Student ID: 330 | Student Name: Emily Wilson | Status: Present | Reason: -
+2023-09-15T14:00:00.000Z | Course: Business Ethics | Instructor: Prof. Davis | Event: Attendance | Student ID: 331 | Student Name: James Turner | Status: Present | Reason: -
+2023-09-15T14:05:00.000Z | Course: Business Ethics | Instructor: Prof. Davis | Event: Quiz | Student ID: 332 | Student Name: Emma Wilson | Status: Present | Reason: -
+2023-09-15T14:15:00.000Z | Course: Business Ethics | Instructor: Prof. Davis | Event: Assignment | Student ID: 333 | Student Name: Liam Smith | Status: Late | Reason: Car breakdown
+2023-09-15T14:30:00.000Z | Course: Business Ethics | Instructor: Prof. Davis | Event: Workshop | Student ID: 334 | Student Name: Sophia Harris | Status: Present | Reason: -
+2023-09-15T14:45:00.000Z | Course: Business Ethics | Instructor: Prof. Davis | Event: Presentation | Student ID: 335 | Student Name: Noah Turner | Status: Present | Reason: -
+2023-09-15T16:00:00.000Z | Course: Financial Management | Instructor: Prof. Parker | Event: Attendance | Student ID: 336 | Student Name: Emily Turner | Status: Present | Reason: -
+2023-09-15T16:05:00.000Z | Course: Financial Management | Instructor: Prof. Parker | Event: Quiz | Student ID: 337 | Student Name: William Smith | Status: Late | Reason: Overslept
+2023-09-15T16:15:00.000Z | Course: Financial Management | Instructor: Prof. Parker | Event: Assignment | Student ID: 338 | Student Name: Charlotte Turner | Status: Present | Reason: -
+2023-09-15T16:30:00.000Z | Course: Financial Management | Instructor: Prof. Parker | Event: Workshop | Student ID: 339 | Student Name: Ethan Harris | Status: Present | Reason: -
+2023-09-15T16:45:00.000Z | Course: Financial Management | Instructor: Prof. Parker | Event: Presentation | Student ID: 340 | Student Name: Olivia Turner | Status: Present | Reason: -
+2023-09-15T18:00:00.000Z | Course: Human Resource Management | Instructor: Prof. White | Event: Attendance | Student ID: 341 | Student Name: Benjamin Turner | Status: Present | Reason: -
+2023-09-15T18:05:00.000Z | Course: Human Resource Management | Instructor: Prof. White | Event: Quiz | Student ID: 342 | Student Name: Mia Harris | Status: Late | Reason: Traffic delay
+2023-09-15T18:15:00.000Z | Course: Human Resource Management | Instructor: Prof. White | Event: Assignment | Student ID: 343 | Student Name: Daniel Turner | Status: Present | Reason: -
+2023-09-15T18:30:00.000Z | Course: Human Resource Management | Instructor: Prof. White | Event: Workshop | Student ID: 344 | Student Name: Olivia Smith | Status: Present | Reason: -
+2023-09-15T18:45:00.000Z | Course: Human Resource Management | Instructor: Prof. White | Event: Presentation | Student ID: 345 | Student Name: Noah Harris | Status: Present | Reason: -
+2023-09-15T12:00:00.000Z | Course: Marketing Strategies | Instructor: Prof. Taylor | Event: Attendance | Student ID: 346 | Student Name: Amelia Smith | Status: Present | Reason: -
+2023-09-15T12:05:00.000Z | Course: Marketing Strategies | Instructor: Prof. Taylor | Event: Quiz | Student ID: 347 | Student Name: Ethan Wilson | Status: Present | Reason: -
+2023-09-15T12:15:00.000Z | Course: Marketing Strategies | Instructor: Prof. Taylor | Event: Assignment | Student ID: 348 | Student Name: Sophia Turner | Status: Late | Reason: Overslept
+2023-09-15T12:30:00.000Z | Course: Marketing Strategies | Instructor: Prof. Taylor | Event: Workshop | Student ID: 349 | Student Name: William Harris | Status: Present | Reason: -
+2023-09-15T12:45:00.000Z | Course: Marketing Strategies | Instructor: Prof. Taylor | Event: Presentation | Student ID: 350 | Student Name: Mia Smith | Status: Present | Reason: -
+2023-09-15T14:00:00.000Z | Course: Data Analysis | Instructor: Prof. Lee | Event: Attendance | Student ID: 351 | Student Name: Benjamin Smith | Status: Late | Reason: Traffic jam
+2023-09-15T14:05:00.000Z | Course: Data Analysis | Instructor: Prof. Lee | Event: Quiz | Student ID: 352 | Student Name: Emma Turner | Status: Present | Reason: -
+2023-09-15T14:15:00.000Z | Course: Data Analysis | Instructor: Prof. Lee | Event: Assignment | Student ID: 353 | Student Name: Liam Harris | Status: Present | Reason: -
+2023-09-15T14:30:00.000Z | Course: Data Analysis | Instructor: Prof. Lee | Event: Workshop | Student ID: 354 | Student Name: Charlotte Smith | Status: Present | Reason: -
+2023-09-15T14:45:00.000Z | Course: Data Analysis | Instructor: Prof. Lee | Event: Presentation | Student ID: 355 | Student Name: Noah Wilson | Status: Present | Reason: -
+2023-09-15T16:00:00.000Z | Course: Business Communication | Instructor: Prof. Davis | Event: Attendance | Student ID: 356 | Student Name: Emily Harris | Status: Present | Reason: -
+2023-09-15T16:05:00.000Z | Course: Business Communication | Instructor: Prof. Davis | Event: Quiz | Student ID: 357 | Student Name: Olivia Harris | Status: Present | Reason: -
+2023-09-15T16:15:00.000Z | Course: Business Communication | Instructor: Prof. Davis | Event: Assignment | Student ID: 358 | Student Name: William Turner | Status: Late | Reason: Car trouble
+2023-09-15T16:30:00.000Z | Course: Business Communication | Instructor: Prof. Davis | Event: Workshop | Student ID: 359 | Student Name: Ethan Smith | Status: Present | Reason: -
+2023-09-15T16:45:00.000Z | Course: Business Communication | Instructor: Prof. Davis | Event: Presentation | Student ID: 360 | Student Name: Mia Turner | Status: Present | Reason: -
+2023-09-15T10:00:00.000Z | Course: Artificial Intelligence | Instructor: Prof. Baker | Event: Attendance | Student ID: 361 | Student Name: Oliver Davis | Status: Present | Reason: -
+2023-09-15T10:05:00.000Z | Course: Artificial Intelligence | Instructor: Prof. Baker | Event: Quiz | Student ID: 362 | Student Name: Ava Turner | Status: Present | Reason: -
+2023-09-15T10:15:00.000Z | Course: Artificial Intelligence | Instructor: Prof. Baker | Event: Assignment | Student ID: 363 | Student Name: Isabella Wilson | Status: Present | Reason: -
+2023-09-15T10:30:00.000Z | Course: Artificial Intelligence | Instructor: Prof. Baker | Event: Workshop | Student ID: 364 | Student Name: Lucas Smith | Status: Late | Reason: Overslept
+2023-09-15T10:45:00.000Z | Course: Artificial Intelligence | Instructor: Prof. Baker | Event: Presentation | Student ID: 365 | Student Name: Harper Harris | Status: Present | Reason: -2023-09-15T08:00:00.000Z | Course: Financial Management | Instructor: Prof. Anderson | Event: Attendance | Student ID: 381 | Student Name: Benjamin Smith | Status: Present | Reason: -
+2023-09-15T08:05:00.000Z | Course: Financial Management | Instructor: Prof. Anderson | Event: Quiz | Student ID: 382 | Student Name: Scarlett Smith | Status: Present | Reason: -
+2023-09-15T08:15:00.000Z | Course: Financial Management | Instructor: Prof. Anderson | Event: Assignment | Student ID: 383 | Student Name: Sophia Smith | Status: Late | Reason: Overslept
+2023-09-15T08:30:00.000Z | Course: Financial Management | Instructor: Prof. Anderson | Event: Workshop | Student ID: 384 | Student Name: Elijah Davis | Status: Present | Reason: -
+2023-09-15T08:45:00.000Z | Course: Financial Management | Instructor: Prof. Anderson | Event: Presentation | Student ID: 385 | Student Name: Ava Davis | Status: Present | Reason: -
+2023-09-15T10:00:00.000Z | Course: Business Ethics | Instructor: Prof. Turner | Event: Attendance | Student ID: 386 | Student Name: Isabella Turner | Status: Late | Reason: Traffic jam
+2023-09-15T10:05:00.000Z | Course: Business Ethics | Instructor: Prof. Turner | Event: Quiz | Student ID: 387 | Student Name: Benjamin Turner | Status: Present | Reason: -
+2023-09-15T10:15:00.000Z | Course: Business Ethics | Instructor: Prof. Turner | Event: Assignment | Student ID: 388 | Student Name: Harper Turner | Status: Present | Reason: -
+2023-09-15T10:30:00.000Z | Course: Business Ethics | Instructor: Prof. Turner | Event: Workshop | Student ID: 389 | Student Name: Liam Turner | Status: Present | Reason: -
+2023-09-15T10:45:00.000Z | Course: Business Ethics | Instructor: Prof. Turner | Event: Presentation | Student ID: 390 | Student Name: Noah Turner | Status: Present | Reason: -
+2023-09-15T12:00:00.000Z | Course: Project Management | Instructor: Prof. Parker | Event: Attendance | Student ID: 391 | Student Name: Ava Wilson | Status: Present | Reason: -
+2023-09-15T12:05:00.000Z | Course: Project Management | Instructor: Prof. Parker | Event: Quiz | Student ID: 392 | Student Name: Liam Wilson | Status: Present | Reason: -
+2023-09-15T12:15:00.000Z | Course: Project Management | Instructor: Prof. Parker | Event: Assignment | Student ID: 393 | Student Name: Noah Wilson | Status: Late | Reason: Overslept
+2023-09-15T12:30:00.000Z | Course: Project Management | Instructor: Prof. Parker | Event: Workshop | Student ID: 394 | Student Name: Isabella Davis | Status: Present | Reason: -
+2023-09-15T12:45:00.000Z | Course: Project Management | Instructor: Prof. Parker | Event: Presentation | Student ID: 395 | Student Name: Benjamin Wilson | Status: Present | Reason: -
+2023-09-15T14:00:00.000Z | Course: Marketing Strategy | Instructor: Prof. Adams | Event: Attendance | Student ID: 396 | Student Name: Emily Adams | Status: Present | Reason: -
+2023-09-15T14:05:00.000Z | Course: Marketing Strategy | Instructor: Prof. Adams | Event: Quiz | Student ID: 397 | Student Name: Sophia Adams | Status: Present | Reason: -
+2023-09-15T14:15:00.000Z | Course: Marketing Strategy | Instructor: Prof. Adams | Event: Assignment | Student ID: 398 | Student Name: Harper Adams | Status: Present | Reason: -
+2023-09-15T14:30:00.000Z | Course: Marketing Strategy | Instructor: Prof. Adams | Event: Workshop | Student ID: 399 | Student Name: Elijah Adams | Status: Late | Reason: Traffic jam
+2023-09-15T14:45:00.000Z | Course: Marketing Strategy | Instructor: Prof. Adams | Event: Presentation | Student ID: 400 | Student Name: Ava Adams | Status: Present | Reason: -2023-09-15T20:00:00.000Z | Course: Finance Fundamentals | Instructor: Prof. Carter | Event: Attendance | Student ID: 411 | Student Name: Olivia Carter | Status: Present | Reason: -
+2023-09-15T20:05:00.000Z | Course: Finance Fundamentals | Instructor: Prof. Carter | Event: Quiz | Student ID: 412 | Student Name: Sophia Carter | Status: Present | Reason: -
+2023-09-15T20:15:00.000Z | Course: Finance Fundamentals | Instructor: Prof. Carter | Event: Assignment | Student ID: 413 | Student Name: Jackson Carter | Status: Late | Reason: Overslept
+2023-09-15T20:30:00.000Z | Course: Finance Fundamentals | Instructor: Prof. Carter | Event: Workshop | Student ID: 414 | Student Name: Emma Carter | Status: Present | Reason: -
+2023-09-15T20:45:00.000Z | Course: Finance Fundamentals | Instructor: Prof. Carter | Event: Presentation | Student ID: 415 | Student Name: William Carter | Status: Present | Reason: -
+2023-09-15T22:00:00.000Z | Course: Marketing Trends | Instructor: Prof. Turner | Event: Attendance | Student ID: 416 | Student Name: Ava Turner | Status: Present | Reason: -
+2023-09-15T22:05:00.000Z | Course: Marketing Trends | Instructor: Prof. Turner | Event: Quiz | Student ID: 417 | Student Name: Benjamin Turner | Status: Late | Reason: Traffic jam
+2023-09-15T22:15:00.000Z | Course: Marketing Trends | Instructor: Prof. Turner | Event: Assignment | Student ID: 418 | Student Name: Sophia Turner | Status: Present | Reason: -
+2023-09-15T22:30:00.000Z | Course: Marketing Trends | Instructor: Prof. Turner | Event: Workshop | Student ID: 419 | Student Name: Noah Turner | Status: Present | Reason: -
+2023-09-15T22:45:00.000Z | Course: Marketing Trends | Instructor: Prof. Turner | Event: Presentation | Student ID: 420 | Student Name: Olivia Turner | Status: Present | Reason: -
+
+2023-09-16T08:00:00.000Z | Course: Business Ethics | Instructor: Prof. Morgan | Event: Attendance | Student ID: 421 | Student Name: William Morgan | Status: Present | Reason: -
+2023-09-16T08:05:00.000Z | Course: Business Ethics | Instructor: Prof. Morgan | Event: Quiz | Student ID: 422 | Student Name: Emma Morgan | Status: Present | Reason: -
+2023-09-16T08:15:00.000Z | Course: Business Ethics | Instructor: Prof. Morgan | Event: Assignment | Student ID: 423 | Student Name: Liam Morgan | Status: Present | Reason: -
+2023-09-16T08:30:00.000Z | Course: Business Ethics | Instructor: Prof. Morgan | Event: Workshop | Student ID: 424 | Student Name: Harper Morgan | Status: Late | Reason: Overslept
+2023-09-16T08:45:00.000Z | Course: Business Ethics | Instructor: Prof. Morgan | Event: Presentation | Student ID: 425 | Student Name: Jackson Morgan | Status: Present | Reason: -
+2023-09-15T16:00:00.000Z | Course: Data Analytics | Instructor: Prof. Taylor | Event: Attendance | Student ID: 401 | Student Name: Benjamin Taylor | Status: Present | Reason: -
+2023-09-15T16:05:00.000Z | Course: Data Analytics | Instructor: Prof. Taylor | Event: Quiz | Student ID: 402 | Student Name: Isabella Taylor | Status: Late | Reason: Overslept
+2023-09-15T16:15:00.000Z | Course: Data Analytics | Instructor: Prof. Taylor | Event: Assignment | Student ID: 403 | Student Name: Liam Taylor | Status: Present | Reason: -
+2023-09-15T16:30:00.000Z | Course: Data Analytics | Instructor: Prof. Taylor | Event: Workshop | Student ID: 404 | Student Name: Noah Taylor | Status: Present | Reason: -
+2023-09-15T16:45:00.000Z | Course: Data Analytics | Instructor: Prof. Taylor | Event: Presentation | Student ID: 405 | Student Name: Scarlett Taylor | Status: Present | Reason: -
+2023-09-15T18:00:00.000Z | Course: Business Innovation | Instructor: Prof. Lewis | Event: Attendance | Student ID: 406 | Student Name: Harper Lewis | Status: Late | Reason: Traffic jam
+2023-09-15T18:05:00.000Z | Course: Business Innovation | Instructor: Prof. Lewis | Event: Quiz | Student ID: 407 | Student Name: Emily Lewis | Status: Present | Reason: -
+2023-09-15T18:15:00.000Z | Course: Business Innovation | Instructor: Prof. Lewis | Event: Assignment | Student ID: 408 | Student Name: Liam Lewis | Status: Present | Reason: -
+2023-09-15T18:30:00.000Z | Course: Business Innovation | Instructor: Prof. Lewis | Event: Workshop | Student ID: 409 | Student Name: Noah Lewis | Status: Present | Reason: -
+2023-09-15T18:45:00.000Z | Course: Business Innovation | Instructor: Prof. Lewis | Event: Presentation | Student ID: 410 | Student Name: Ava Lewis | Status: Present | Reason: -
+2023-09-15T20:00:00.000Z | Course: Finance Fundamentals | Instructor: Prof. Carter | Event: Attendance | Student ID: 411 | Student Name: Olivia Carter | Status: Present | Reason: -
+2023-09-15T20:05:00.000Z | Course: Finance Fundamentals | Instructor: Prof. Carter | Event: Quiz | Student ID: 412 | Student Name: Sophia Carter | Status: Present | Reason: -
+2023-09-15T20:15:00.000Z | Course: Finance Fundamentals | Instructor: Prof. Carter | Event: Assignment | Student ID: 413 | Student Name: Jackson Carter | Status: Late | Reason: Overslept
+2023-09-15T20:30:00.000Z | Course: Finance Fundamentals | Instructor: Prof. Carter | Event: Workshop | Student ID: 414 | Student Name: Emma Carter | Status: Present | Reason: -
+2023-09-15T20:45:00.000Z | Course: Finance Fundamentals | Instructor: Prof. Carter | Event: Presentation | Student ID: 415 | Student Name: William Carter | Status: Present | Reason: -
+2023-09-15T22:00:00.000Z | Course: Marketing Trends | Instructor: Prof. Turner | Event: Attendance | Student ID: 416 | Student Name: Ava Turner | Status: Present | Reason: -
+2023-09-15T22:05:00.000Z | Course: Marketing Trends | Instructor: Prof. Turner | Event: Quiz | Student ID: 417 | Student Name: Benjamin Turner | Status: Late | Reason: Traffic jam
+2023-09-15T22:15:00.000Z | Course: Marketing Trends | Instructor: Prof. Turner | Event: Assignment | Student ID: 418 | Student Name: Sophia Turner | Status: Present | Reason: -
+2023-09-15T22:30:00.000Z | Course: Marketing Trends | Instructor: Prof. Turner | Event: Workshop | Student ID: 419 | Student Name: Noah Turner | Status: Present | Reason: -
+2023-09-15T22:45:00.000Z | Course: Marketing Trends | Instructor: Prof. Turner | Event: Presentation | Student ID: 420 | Student Name: Olivia Turner | Status: Present | Reason: -
+2023-09-16T08:00:00.000Z | Course: Business Ethics | Instructor: Prof. Morgan | Event: Attendance | Student ID: 421 | Student Name: William Morgan | Status: Present | Reason: -
+2023-09-16T08:05:00.000Z | Course: Business Ethics | Instructor: Prof. Morgan | Event: Quiz | Student ID: 422 | Student Name: Emma Morgan | Status: Present | Reason: -
+2023-09-16T08:15:00.000Z | Course: Business Ethics | Instructor: Prof. Morgan | Event: Assignment | Student ID: 423 | Student Name: Liam Morgan | Status: Present | Reason: -
+2023-09-16T08:30:00.000Z | Course: Business Ethics | Instructor: Prof. Morgan | Event: Workshop | Student ID: 424 | Student Name: Harper Morgan | Status: Late | Reason: Overslept
+2023-09-16T08:45:00.000Z | Course: Business Ethics | Instructor: Prof. Morgan | Event: Presentation | Student ID: 425 | Student Name: Jackson Morgan | Status: Present | Reason: -
+
+

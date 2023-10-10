@@ -1,0 +1,16 @@
+how many kind of failed message?
+
+what are the most frequent error message?
+
+which IP address get error most?
+
+what are the port number getting error most?
+
+SET LLAMA_CUBLAS=1&& SET CMAKE_ARGS=-DLLAMA_CUBLAS=on&& SET FORCE_CMAKE=1&&SET "CUDAToolkit_ROOT=C:\anaconda3\pkgs\cuda-nvcc-12.2.91-0\"
+
+pip install bitsandbytes-windows
+ 
+can you category the log
+
+what are the common reason for those student who are late?
+
